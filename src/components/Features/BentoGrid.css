@@ -1,0 +1,54 @@
+/* src/components/Features/BentoGrid.css */
+.bento-grid {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-2xl);
+  width: 100%;
+  max-width: 1200px; /* Increased max-width for grid */
+  margin: 0 auto;
+}
+
+.bento-column {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+  height: 100%;
+}
+
+.category-header {
+  border-bottom: 2px solid var(--color-border-grid);
+  padding-bottom: var(--spacing-sm);
+  margin-bottom: var(--spacing-md);
+  position: relative;
+}
+
+.category-header::after {
+  content: attr(data-id);
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-family: var(--font-family-mono);
+  font-size: var(--font-size-xs);
+  color: var(--color-border-grid);
+}
+
+.category-title {
+  font-family: var(--font-family-display);
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-primary);
+  text-transform: uppercase;
+}
+
+.category-subtitle {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  font-family: var(--font-family-mono);
+}
+
+/* Grid layout for cards within a category */
+.category-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: var(--spacing-md);
+}
