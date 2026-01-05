@@ -2,6 +2,7 @@
 .genre-card {
   display: block;
   width: 100%;
+  min-height: 120px;
   background: var(--color-bg-card);
   border: 1px solid var(--color-border-grid);
   padding: var(--spacing-md);
@@ -10,6 +11,16 @@
   cursor: pointer;
   position: relative;
   text-align: left;
+  box-sizing: border-box;
+}
+
+.genre-card:focus {
+  outline: none;
+}
+
+.genre-card:focus-visible {
+  border-color: var(--color-border-active);
+  box-shadow: var(--color-shadow-hover);
 }
 
 .genre-card:hover {
@@ -32,10 +43,11 @@
   font-family: var(--font-family-display);
   font-weight: var(--font-weight-bold);
   font-size: var(--font-size-lg);
+  line-height: 1.4;
+  min-height: 2em;
   margin-bottom: var(--spacing-xs);
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .genre-name-en {
@@ -43,12 +55,14 @@
   color: var(--color-text-secondary);
   font-weight: normal;
   font-family: var(--font-family-display); /* Keep English font for EN title */
-  margin-left: var(--spacing-sm);
+  margin-left: auto;
 }
 
 .genre-desc {
   font-size: var(--font-size-sm);
   color: var(--color-text-secondary);
+  min-height: 2.8em;
+  line-height: 1.4;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   line-clamp: 2;

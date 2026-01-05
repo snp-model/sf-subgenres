@@ -106,6 +106,14 @@ export const categories = [
         books: []
       },
       {
+        id: "steampunk",
+        title: "Steampunk",
+        nameJP: "スチームパンク",
+        description: "蒸気機関が極度に発達したレトロフューチャーな世界観。",
+        detail: "ヴィクトリア朝や産業革命期をベースに、蒸気機関などのレトロな技術がオーバーテクノロジーとして発展した世界を描く。",
+        books: []
+      },
+      {
         id: "postcyberpunk",
         title: "Post-Cyberpunk",
         nameJP: "ポスト・サイバーパンク",
@@ -138,6 +146,14 @@ export const categories = [
     description: "バラエティ豊かなSFのサブジャンル",
     color: "#10B981", // Green accent
     subgenres: [
+      {
+        id: "robotics",
+        title: "Robotics & AI",
+        nameJP: "ロボット工学・AI",
+        description: "ロボット工学三原則、アンドロイド、人工知能の倫理や進化を問う。",
+        detail: "ロボット工学三原則、アンドロイド、人工知能の倫理や進化を問う。人間と機械の境界線や、作られた知性の悲哀などを描く。",
+        books: []
+      },
       {
         id: "spaceopera",
         title: "Space Opera",
@@ -219,6 +235,14 @@ export const categories = [
         books: []
       },
       {
+        id: "disaster",
+        title: "Disaster / Panic SF",
+        nameJP: "災害・パニックSF",
+        description: "巨大災害、パンデミック、異星人の侵略などによる文明崩壊のプロセスを描く。",
+        detail: "巨大災害、疫病、異星人の侵略などによって社会が崩壊していく過程そのものや、極限状況下でのパニック、人々の行動を描く。",
+        books: []
+      },
+      {
         id: "newwave",
         title: "The New Wave",
         nameJP: "ニュー・ウェーブ",
@@ -251,6 +275,14 @@ export const categories = [
         books: []
       },
       {
+        id: "humor",
+        title: "Humorous / Absurdist SF",
+        nameJP: "ユーモア / 不条理SF",
+        description: "SF的設定を風刺やジョーク、ナンセンスとして扱う。",
+        detail: "SFのガジェットや設定を、コメディ、風刺、ナンセンス、あるいは哲学的な不条理劇として用いるジャンル。",
+        books: []
+      },
+      {
         id: "firstcontact",
         title: "First Contact",
         nameJP: "ファーストコンタクト",
@@ -264,6 +296,14 @@ export const categories = [
         nameJP: "言語SF",
         description: "言葉が認識を変える",
         detail: "「サピア＝ウォーフの仮説」など、言語学的な理論をテーマの中核に据えるSF。未知の言語の解読や、言語習得による認識の変容を描く。",
+        books: []
+      },
+      {
+        id: "juvenile",
+        title: "Juvenile / YA SF",
+        nameJP: "ジュブナイルSF",
+        description: "少年少女の冒険と成長を描く。往年の冒険ものの系譜。",
+        detail: "少年少女を主人公に、宇宙冒険や未知との遭遇、成長を描く。ヤングアダルト(YA)とも重なる、幅広い層に向けたSF。",
         books: []
       }
     ]
