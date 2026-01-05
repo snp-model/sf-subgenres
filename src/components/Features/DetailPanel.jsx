@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { books } from '../../data/sampleData';
 import './DetailPanel.css';
 
 const DetailPanel = ({ genre, isOpen, onClose }) => {
@@ -13,6 +14,11 @@ const DetailPanel = ({ genre, isOpen, onClose }) => {
 
   if (!genre) return null;
 
+  // bookIds から書籍データを解決
+  const resolvedBooks = (genre.bookIds || [])
+    .map(id => books[id])
+    .filter(Boolean);
+
   return (
     <>
       <div 
@@ -23,10 +29,10 @@ const DetailPanel = ({ genre, isOpen, onClose }) => {
         <div className="panel-header">
           <div>
             <h2 style={{ fontFamily: 'var(--font-family-display)', fontSize: 'var(--font-size-2xl)' }}>
-              {genre.title}
+              {genre.nameJP}
             </h2>
             <div style={{ color: 'var(--color-text-secondary)', fontSize: 'var(--font-size-sm)' }}>
-              {genre.nameJP}
+              {genre.title}
             </div>
           </div>
           <button className="close-button" onClick={onClose}>
@@ -39,7 +45,7 @@ const DetailPanel = ({ genre, isOpen, onClose }) => {
             {genre.detail || genre.description}
           </p>
 
-          {genre.books && genre.books.length > 0 && (
+          {resolvedBooks.length > 0 && (
             <div>
               <h3 style={{ 
                 fontFamily: 'var(--font-family-base)', 
@@ -54,8 +60,8 @@ const DetailPanel = ({ genre, isOpen, onClose }) => {
               </h3>
               
               <div className="book-grid">
-                {genre.books.map((book, idx) => (
-                  <a key={idx} href="#" className="book-card" onClick={(e) => e.preventDefault()}>
+                {resolvedBooks.map((book) => (
+                  <a key={book.id} href="#" className="book-card" onClick={(e) => e.preventDefault()}>
                     <img src={book.cover} alt={book.title} className="book-cover" />
                     <div className="book-info">
                       <div className="book-title">{book.titleJP}</div>
@@ -67,7 +73,7 @@ const DetailPanel = ({ genre, isOpen, onClose }) => {
                         {book.description}
                       </p>
                       <div className="book-action">
-                        [データ参照 >]
+                        [データ参照 &gt;]
                       </div>
                     </div>
                   </a>
@@ -82,3 +88,4 @@ const DetailPanel = ({ genre, isOpen, onClose }) => {
 };
 
 export default DetailPanel;
+
