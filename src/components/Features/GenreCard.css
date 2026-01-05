@@ -24,7 +24,7 @@
 }
 
 .genre-card:hover {
-  border-color: var(--color-border-active);
+  border-color: var(--category-color, var(--color-border-active));
   box-shadow: var(--color-shadow-hover);
   transform: translateX(4px);
 }
@@ -36,7 +36,7 @@
   top: 0;
   bottom: 0;
   width: 3px;
-  background-color: var(--color-border-active);
+  background-color: var(--category-color, var(--color-border-active));
 }
 
 .genre-title {

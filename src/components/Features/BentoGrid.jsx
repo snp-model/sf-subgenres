@@ -18,7 +18,8 @@ const BentoGrid = ({ categories, onGenreSelect }) => {
               <GenreCard 
                 key={genre.id} 
                 genre={genre} 
-                onClick={onGenreSelect} 
+                onClick={onGenreSelect}
+                categoryColor={category.color}
               />
             ))}
           </div>
