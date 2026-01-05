@@ -1,0 +1,7 @@
+# robots.txt for SF Subgenres Archive
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://snptkdn.github.io/sf-subgenres/sitemap.xml
