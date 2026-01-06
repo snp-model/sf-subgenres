@@ -1326,6 +1326,45 @@ export const books = {
       amazon: "https://amzn.to/3YL67MF",
     },
   },
+  incandescence: {
+    id: "incandescence",
+    title: "Incandescence",
+    titleJP: "シルトの梯子",
+    author: "グレッグ・イーガン",
+    year: 2008,
+    asin: "B078JTWDC5",
+    description:
+      "2万年後の遠未来。量子グラフ理論の実験により生まれた新たな時空が人類の生存圏を侵食。譲渡派と防御派が対立する中、観測拠点リンドラー号で繰り広げられる、量子論と宇宙論が織りなす壮大なハードSF。",
+    links: {
+      amazon: "https://amzn.to/4jnSegA",
+    },
+  },
+  "self-reference-engine": {
+    id: "self-reference-engine",
+    title: "Self-Reference ENGINE",
+    titleJP: "Self-Reference ENGINE",
+    author: "円城塔",
+    year: 2007,
+    asin: "B00GJMUKBC",
+    description:
+      "巨大知性体による時空崩壊。記憶、過去、未来が自在に改変される世界で増殖し続ける物語群。フィリップ・K・ディック賞特別賞受賞作。高度な数理的思考実験が織りなす、メタフィクション的ハードSF。",
+    links: {
+      amazon: "https://amzn.to/49pLx9l",
+    },
+  },
+  "the-gods-themselves": {
+    id: "the-gods-themselves",
+    title: "The Gods Themselves",
+    titleJP: "神々自身",
+    author: "アイザック・アシモフ",
+    year: 1972,
+    asin: "81xmwhPxffL",
+    description:
+      "並行宇宙との物質・エネルギー交換装置『エレクトロン・ポンプ』。無尽蔵のエネルギー源は、両宇宙の太陽を破壊する危険性を秘めていた。異なる物理法則が支配する宇宙を描き、ヒューゴー賞・ネビュラ賞を受賞した傑作。",
+    links: {
+      amazon: "https://amzn.to/4qEJbu6",
+    },
+  },
   sirius: {
     id: "sirius",
     title: "Sirius",
@@ -1710,9 +1749,178 @@ export const books = {
     year: 1998,
     asin: "B00RKN487G",
     description:
-      "海洋惑星コヴナント。人々は海に住む微生物が共生することで「神」を感じる宗教的な生活を送っていた。信仰と科学、そして生物学的真実が交錯する、イーガンならではの重厚な短編集。",
+      "移住惑星コヴナントで2万年の歳月をかけ、微小生物が独自の生態系を構築。海洋生物学者マーティンが神の実在を証明しようとする一方、彼の研究が信仰そのものを揺るがす真実を暴く。ヒューゴー賞・ローカス賞受賞作。",
     links: {
-      amazon: "https://amzn.to/4pJXQ6J",
+      amazon: "https://amzn.to/44YiJn2",
+    },
+  },
+  "reasons-to-be-cheerful": {
+    id: "reasons-to-be-cheerful",
+    title: "Reasons to be Cheerful",
+    titleJP: "しあわせの理由",
+    author: "グレッグ・イーガン",
+    year: 1997,
+    asin: "B00RKN485S",
+    description:
+      "脳腫瘍により常に幸福感に包まれていた少年マーク。腫瘍摘出後、深い鬱に陥った彼は、4000人の死者の神経ネットワークを脳に埋め込み、自らの幸福を制御できるようになる。脳内化学物質と真の幸福の本質を問う、神経科学的ハードSF。",
+    links: {
+      amazon: "https://amzn.to/3LxOWef",
+    },
+  },
+  "child-of-time": {
+    id: "child-of-time",
+    title: "Child of Time",
+    titleJP: "時の子供たち",
+    author: "ロバート・シルヴァーバーグ＆アイザック・アシモフ",
+    year: 1991,
+    asin: "B09BNDS544",
+    description:
+      "タイムトラベル実験で現代に連れてこられたネアンデルタール人の子供『ティミー』。看護師エディスが彼を愛情を込めて育てる中、企業は彼を元の時代に戻すことを決定する。生命倒理と超種的愛情が交错する、感動のSFドラマ。",
+    links: {
+      amazon: "https://amzn.to/3NvyKL6",
+    },
+  },
+  "darwins-radio": {
+    id: "darwins-radio",
+    title: "Darwin's Radio",
+    titleJP: "ダーウィンの使者",
+    author: "グレッグ・ベア",
+    year: 1999,
+    asin: "4789719766",
+    description:
+      "アルプスの氷河から発見されたネアンデルタール人のミイラ。同時期に世界中で発生する『ヘロデ流感』が、実は人類ゲノムに潜んでいたレトロウイルスによる加速進化であることが判明。人類の次なる進化を描く、ネビュラ賞受賞のハードSF傑作。",
+    links: {
+      amazon: "https://amzn.to/44WVpWI",
+    },
+  },
+  accelerando: {
+    id: "accelerando",
+    title: "Accelerando",
+    titleJP: "アッチェレランド",
+    author: "チャールズ・ストロス",
+    year: 2005,
+    asin: "4152090030",
+    description:
+      "技術的特異点の前後を跡るマックス家三世代の物語。21世紀初頭の『恵与経済』実践者マンフレッドから、太陽系がマトリョーシカ・ブレインに再構築される世紀末まで。加速する進化が描く、ローカス賞受賞のポストサイバーパンクSF。",
+    links: {
+      amazon: "https://amzn.to/3N3bJiF",
+    },
+  },
+  zendegi: {
+    id: "zendegi",
+    title: "Zendegi",
+    titleJP: "ゼンデギ",
+    author: "グレッグ・イーガン",
+    year: 2010,
+    asin: "B010COOELY",
+    description:
+      "近未来のイラン。余命宣告を受けたジャーナリスト・マーティンは、幼い息子のために脳マッピング技術で自身の仮想人格をVR内に生成しようとする。デジタル意識の個人性と人権を問う、イーガン特有の思索的ポストサイバーパンクSF。",
+    links: {
+      amazon: "https://amzn.to/3N8yBx5",
+    },
+  },
+  frankenstein: {
+    id: "frankenstein",
+    title: "Frankenstein",
+    titleJP: "フランケンシュタイン",
+    author: "メアリー・シェリー",
+    year: 1818,
+    asin: "B00YBLVWB0",
+    description:
+      "科学者ヴィクターが人造の生命を創造するが、その醇さに恐れ見捨てる。孤独と拒絶に苦しむ『怪物』は、知性を得ながらも社会から疾外される悲劇を生きる。初のSF小説にして、知性化の倫理を問うゴシック文学の古典。",
+    links: {
+      amazon: "https://amzn.to/4aLHe0X",
+    },
+  },
+  "the-empire-of-corpses": {
+    id: "the-empire-of-corpses",
+    title: "The Empire of Corpses",
+    titleJP: "屍者の帝国",
+    author: "伊藤計劃＆円城塔",
+    year: 2012,
+    asin: "B00PQDJM3C",
+    description:
+      "19世紀末、フランケンシュタインの技術で死体が虚働力となった世界。請報員ワトソンは、意識を持つ最初の尸者「ザ・ワン」の秘密が記された『ヴィクターの手記』を探して冒険を繰り広げる。日本発の本格スチームパンクSF。",
+    links: {
+      amazon: "https://amzn.to/4biH36S",
+    },
+  },
+  "the-anubis-gates": {
+    id: "the-anubis-gates",
+    title: "The Anubis Gates",
+    titleJP: "アヌビスの門",
+    author: "ティム・パワーズ",
+    year: 1983,
+    asin: "5183E1kPA7L",
+    description:
+      "英文学者ドイルが19世紀ロンドンへのタイムトラベルに参加するが、元の時代に戻れず取り残される。古代エジプトの魔術と蒙気時代の機械文明が混ざり合う、息もつかせぬ伝奇ファンタジー。フィリップ・K・ディック賞受賞作。",
+    links: {
+      amazon: "https://amzn.to/4qzNeba",
+    },
+  },
+  "always-coming-home": {
+    id: "always-coming-home",
+    title: "Always Coming Home",
+    titleJP: "オールウェイズ・カミングホーム",
+    author: "アーシュラ・K・ル＝グウィン",
+    year: 1985,
+    asin: "4582828981",
+    description:
+      "2万年後のカリフォルニア。工業文明崩壊後、穏やかな土着文化を営む『ケシュ』の人々を、物語、詩、民族誌、辞書で織りなす架空の未来民族誌。持続可能性と共共体を描くエコロジカルSFの先駆的僑作。",
+    links: {
+      amazon: "https://amzn.to/497FxmK",
+    },
+  },
+  "the-dispossessed": {
+    id: "the-dispossessed",
+    title: "The Dispossessed",
+    titleJP: "所有せざる人々",
+    author: "アーシュラ・K・ル＝グウィン",
+    year: 1974,
+    asin: "B0B45ZZN9F",
+    description:
+      "資本主義的階級社会ウラスと、所有を拒否するアナキスト社会アナレス。物理学者シェヴェックが二つの世界を往来し、それぞれの社会システムと自由の本質を問う。ヒューゴー賞・ネビュラ賞受賞のユートピアSF。",
+    links: {
+      amazon: "https://amzn.to/4biLYVl",
+    },
+  },
+  ecotopia: {
+    id: "ecotopia",
+    title: "Ecotopia",
+    titleJP: "エコトピア・レポート",
+    author: "アーネスト・カレンバック",
+    year: 1975,
+    asin: "71gSmFOfjTL",
+    description:
+      "1980年にアメリカから独立した環境国家『エコトピア』。記者ウェストンは、再生可能エネルギー、週20時間労働、高度なリサイクルを実現したエコロジカル社会を目撃する。ソーラーパンクの原点とも言える古典。",
+    links: {
+      amazon: "https://amzn.to/3MZqDGH",
+    },
+  },
+  "songs-from-the-stars": {
+    id: "songs-from-the-stars",
+    title: "Songs from the Stars",
+    titleJP: "星々からの歌",
+    author: "ノーマン・スピンラッド",
+    year: 1980,
+    asin: "410PPhI6gxL",
+    description:
+      "核戦争後、『白い科学』（太陽、風、筋肉）を基盤とする『アクエリア』社会。好判官ルーは、『黒い科学』（原子力、石油）を駆使する宇宙進出計画に関わり、技術秩序と自然調和のバランスを問いかけられる。環境SFの先駆的作品。",
+    links: {
+      amazon: "https://amzn.to/45to4Ts",
+    },
+  },
+  "planet-of-the-old-vool": {
+    id: "planet-of-the-old-vool",
+    title: "Planet of the Old Vool",
+    titleJP: "老ヴォールの惑星",
+    author: "小川一水",
+    year: 2005,
+    asin: "B00GJMUKNA",
+    description:
+      "灼熱のガス惑星に生きる知的生命体の存亡の危機。『ギャルナフカの迷宮』『漂った男』『幸せになる箱船』を収録する短編集。過酷な環境にあっても希望を失わず、連帯と共感で明日を紡ぐ日本発ハードSF。",
+    links: {
+      amazon: "https://amzn.to/4smW6CF",
     },
   },
 };
@@ -1755,13 +1963,17 @@ export const categories = [
         detail:
           "素粒子物理学や相対性理論、量子力学といった現代物理学の最先端理論を物語の骨格に組み込むのが、このサブジャンルの醍醐味である。中性子星の強重力環境、ブラックホール近傍の時空歪曲、量子もつれを利用した通信技術など、物理学そのものが壮大なドラマの源泉となる。光速航行における時間の遅れ、ワームホールを介した時空移動、異なる物理法則が支配する宇宙――通常の直感では把握しがたい現象を、数学的厳密さを保ちながら描き出す。多世界解釈やループ量子重力理論といった高度な概念を物語化し、読者に思考の極限を要求する作品も多い。",
         bookIds: [
+          "the-three-body-problem",
+          "incandescence",
           "quarantine",
-          "tau-zero",
-          "the-inverted-world",
-          "white-light",
-          "moving-mars",
           "rendezvous-with-rama",
+          "moving-mars",
+          "tau-zero",
           "the-mcandrew-chronicles",
+          "white-light",
+          "the-gods-themselves",
+          "the-inverted-world",
+          "self-reference-engine",
         ],
       },
       {
@@ -1771,7 +1983,14 @@ export const categories = [
         description: "分子生物学が切り拓く、生命の可能性",
         detail:
           "遺伝子操作、ゲノム編集、合成生物学――生命そのものを再設計する技術が、このサブジャンルの主題である。1950年代のDNA二重らせん発見は生命観を一変させたが、実際に分子生物学がハードSFの主要テーマとして物理学と並び立つようになったのは、バイオテクノロジーが成熟した1980年代以降である。デザイナーベビーや生体強化といったテーマはバイオパンクとも重なるが、ハードSFではあくまで生物学的な論理性と科学的正確性が優先される。異星生態系のシミュレーション、人工生命の創造、適応進化のメカニズム――こうしたテーマは、生命とは何かという根源的な問いを科学的視点から扱う。遺伝子工学がもたらす倫理的ジレンマや、合成生物学が切り開く新たな生命の可能性も頻繁に描かれる。",
-        bookIds: ["blood-music", "the-andromeda-strain", "oceanic"],
+        bookIds: [
+          "blood-music",
+          "the-andromeda-strain",
+          "oceanic",
+          "reasons-to-be-cheerful",
+          "child-of-time",
+          "darwins-radio",
+        ],
       },
     ],
   },
@@ -1789,7 +2008,14 @@ export const categories = [
         description: "高度技術社会の隙間で抗う個人の物語",
         detail:
           "『High Tech, Low Life』のキーワードで表現される、近未来のディストピアを舞台とするサブジャンルである。1980年代に確立し、高度に発達した情報技術と荒廃した社会が共存する世界観が特徴だ。人工知能、サイバーウェア(身体改造)、電脳空間といった先進技術が普及する一方で、巨大企業が国家を超える権力を持ち、貧富の格差や環境汚染が深刻化している。ネオンが輝くメガシティ、現実と仮想の境界の曖昧さ、巨大企業や支配体制を転覆させるのではなく、システムの間隙を縫って個人的な生存を図る『シニカルなアウトサイダー』の姿や、体制に取り込まれながらも自己を保とうとする葛藤が繰り返し描かれる。日本では1980年代から独自の発展を遂げ、漫画やアニメを通じて独特の表現を生み出してきた。",
-        bookIds: ["neuromancer", "snow-crash", "software", "altered-carbon"],
+        bookIds: [
+          "neuromancer",
+          "snow-crash",
+          "altered-carbon",
+          "software",
+          "do-androids-dream-of-electric-sheep",
+          "accelerando",
+        ],
       },
       {
         id: "postcyberpunk",
@@ -1798,7 +2024,14 @@ export const categories = [
         description: "日常化した技術と、社会システム内での葛藤",
         detail:
           "サイバーパンクの荒廃したイメージを脱し、技術が成熟し社会インフラとして完全に定着した世界を描くサブジャンルである。情報技術やサイバネティクスが普及した世界を舞台とするが、必ずしもディストピアではない。テクノロジーが日常に溶け込んだ社会を舞台に、プライバシー、監視、市民的自由といった問題を掘り下げる。世界は必ずしもユートピアではないが、人々は崩壊した社会の外部ではなく、社会システムの内側で葛藤し、改革や維持を試みる。",
-        bookIds: ["queen-of-angels", "diaspora", "harmony"],
+        bookIds: [
+          "queen-of-angels",
+          "diaspora",
+          "zendegi",
+          "harmony",
+          "orbital-cloud",
+          "beatless",
+        ],
       },
       {
         id: "steampunk",
@@ -1807,7 +2040,12 @@ export const categories = [
         description: "蒸気機関で再構築された、懐古的かつ革新的な未来",
         detail:
           "ヴィクトリア朝の世界観をベースにしているが、当時の人々が想像した未来そのものではなく、現代的なテクノロジーや概念（コンピュータやロボットなど）を、蒸気機関や歯車といったレトロな技術体系で再解釈・再構築したサブジャンルである。ゴーグル、シルクハット、歯車や真鍮製の装飾といったネオヴィクトリアンの美学も特徴的だ。冒険活劇として描かれる一方で、産業革命期の過酷な社会格差や環境汚染を背景に、テクノロジーと人間社会の軋轢を描く作品も多い。",
-        bookIds: ["the-difference-engine", "a-transatlantic-tunnel-hurrah"],
+        bookIds: [
+          "the-difference-engine",
+          "a-transatlantic-tunnel-hurrah",
+          "the-empire-of-corpses",
+          "the-anubis-gates",
+        ],
       },
       {
         id: "biopunk",
@@ -1822,6 +2060,7 @@ export const categories = [
           "the-ophiuchi-hotline",
           "proteus-unbound",
           "sisyphean",
+          "harmony",
           "adobado",
         ],
       },
@@ -1832,7 +2071,14 @@ export const categories = [
         description: "崩壊の傷跡を癒やし、より良い未来を築く",
         detail:
           "気候変動や環境問題への応答として登場したサブジャンルで、再生可能エネルギーと持続可能性を基盤とする明るい未来を描く。太陽光、風力、水力といったクリーンエネルギーが主要動力源となり、高層ビルの壁面を覆う植物や屋上庭園、バイオドームといった緑豊かな都市景観が特徴だ。サイバーパンクのような暗いディストピアへのアンチテーゼであるが、問題のない『ユートピア』ではない。気候危機や社会崩壊の傷跡が残る世界で、人々が知恵と技術を駆使して環境を修復し、より良い未来（プロトピア）を築こうとあがく姿を描く。ポスト資本主義、脱植民地主義、反消費主義といった『パンク』のイデオロギーも内包し、文学的・芸術的運動としての側面も持つ。",
-        bookIds: ["the-ministry-for-the-future", "a-psalm-for-the-wild-built"],
+        bookIds: [
+          "the-ministry-for-the-future",
+          "a-psalm-for-the-wild-built",
+          "the-dispossessed",
+          "always-coming-home",
+          "ecotopia",
+          "songs-from-the-stars",
+        ],
       },
       {
         id: "hopepunk",
@@ -1841,7 +2087,14 @@ export const categories = [
         description: "困難な世界で「より良い未来」を信じ抜く姿勢",
         detail:
           "『Grimdark（グリムダーク）』のような冷酷で悲観的な物語へのアンチテーゼとして、2017年頃に提唱されたサブジャンル。 punk（反逆）の精神を『希望を持つこと』『他者に親切であること』『粘り強く生きること』に見出し、どんなに過酷な状況下でも人間性や善性を失わない人々の連帯を描く。決して能天気な楽観主義（ハッピーエンドの保証）ではなく、困難を認めた上で、それでもなお『より良い世界』を信じて行動し続けることの強さを強調する。特定の時代やガジェット定義されるサブジャンルではなく、ファンタジーからSFまであらゆる舞台設定に適用される『物語のトーン（姿勢）』である。暗いディストピアの只中において、あるいは崩壊しつつある世界において、それでもなお『より良い世界』を信じて行動し続けることの強さを強調する。",
-        bookIds: ["the-long-way-to-a-small-angry-planet", "project-hail-mary"],
+        bookIds: [
+          "the-long-way-to-a-small-angry-planet",
+          "project-hail-mary",
+          "the-martian",
+          "the-dispossessed",
+          "karyu-no-miya",
+          "planet-of-the-old-vool",
+        ],
       },
     ],
   },
@@ -2129,7 +2382,12 @@ export const categories = [
         description: "知性化という『進化の贈与』、あるいは呪い",
         detail:
           "人間や先進的な異星種族が、遺伝子操作や教育を通じて、本来は知性を持たない動物（チンパンジーやイルカなど）に人間と同等の知性を与える『知性化（Uplift）』をテーマとする。デイヴィッド・ブリンのように銀河規模の主従関係や階級制度を描く作品がある一方で、先駆的なステープルドンの『シリウス』のように、人間以上の精神を持ちながら動物の身体に閉じ込められた個体の、救いようのない孤独と疎外を描く作品も多い。知性を与える行為を『進化の贈与』としてではなく、野生の平穏を奪い、どちらの世界にも属せない中位的な存在へと変貌させる『理性の呪い』として描く、実存的な問いを含んだジャンルである。",
-        bookIds: ["sirius", "sundiver", "scanners-live-in-vain"],
+        bookIds: [
+          "sirius",
+          "sundiver",
+          "scanners-live-in-vain",
+          "frankenstein",
+        ],
       },
       {
         id: "juvenile",
