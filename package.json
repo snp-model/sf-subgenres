@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "fetch-covers": "node scripts/fetchCovers.js",
     "lint": "eslint .",
     "preview": "vite preview"
   },

@@ -92,7 +92,12 @@ const DetailPanel = ({ genre, isOpen, onClose }) => {
               <div className="book-grid">
                 {resolvedBooks.map((book) => (
                   <div key={book.id} className="book-card">
-                    <img src={book.cover} alt={book.title} className="book-cover" />
+                    <img 
+                      src={book.isbn ? `https://ndlsearch.ndl.go.jp/thumbnail/${book.isbn}.jpg` : 'https://placehold.jp/24/cccccc/ffffff/200x300.png?text=No%20Image'} 
+                      alt={book.title} 
+                      className="book-cover" 
+                      loading="lazy"
+                    />
                     <div className="book-info">
                       <div className="book-title">{book.titleJP}</div>
                       <div className="book-title-en">{book.title}</div>
