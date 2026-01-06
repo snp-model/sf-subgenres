@@ -12,8 +12,8 @@ SF（サイエンス・フィクション）の多様なサブジャンルを解
 
 - **サブジャンル解説**: 各サブジャンルの定義、歴史、特徴を分かりやすく解説。
 - **おすすめ作品紹介**: ジャンルごとの必読書、名作、隠れた傑作をピックアップ。
-- **動的な書影取得**: ISBN を基に国立国会図書館 (NDL) から書影を自動取得・表示。
-- **書籍購入リンク**: Amazon 等のアフィリエイトリンクを設置し、スムーズな購入体験を提供。
+- **動的な書影取得**: ASIN を基に Amazon から書影を自動取得・表示。
+- **書籍購入リンク**: Amazon アフィリエイトリンクを設置し、スムーズな購入体験を提供。
 - **レスポンシブデザイン**: PC、タブレット、スマートフォンなど、あらゆるデバイスで見やすく表示。
 - **リッチな UI/UX**: モダンなデザインとインタラクションで、探索する楽しさを演出。
 
@@ -25,19 +25,19 @@ SF（サイエンス・フィクション）の多様なサブジャンルを解
 
 各書籍は以下のフィールドを持ちます：
 
-- `isbn`: 書影取得および検索用の ISBN-13
-- `links.amazon`: 商品詳細ページへのリンク（アフィリエイトリンク等）
+- `asin`: Amazon 商品画像取得用の ASIN
+- `links.amazon`: 商品詳細ページへのリンク（アフィリエイトリンク）
 
 ### 便利なスクリプト
 
-- `npm run fetch-covers`: NDL API を使用して、書籍タイトルから ISBN を自動検索・付与（試験的機能）。
+- `uv run python scripts/extractAsin.py`: Amazon リンクから ASIN を抽出し、`sampleData.js` に追加。
 - `node scripts/addEmptyFields.js`: 全エントリに不足している `isbn` や `links.amazon` フィールドを空文字で追加し、構造を統一。
 
 ## 技術スタック
 
 - **Frontend**: React, Vite
 - **Styling**: Vanilla CSS (Modern CSS features)
-- **API**: 国立国会図書館 (NDL) 書影 API
+- **API**: Amazon 商品画像 CDN
 - **Hosting**: GitHub Pages
 - **Deployment**: GitHub Actions
 
