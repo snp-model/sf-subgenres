@@ -56,6 +56,19 @@ const DetailPanel = ({ genre, isOpen, onClose }) => {
     return () => window.removeEventListener("keydown", handleEsc);
   }, [isOpen, onClose]);
 
+  // パネルが開いているときメイン画面のスクロールを固定
+  useEffect(() => {
+    if (isOpen) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "";
+    }
+    // クリーンアップ: コンポーネントがアンマウントされた時に元に戻す
+    return () => {
+      document.body.style.overflow = "";
+    };
+  }, [isOpen]);
+
   if (!genre) return null;
 
   // bookIds から書籍データを解決
