@@ -2,6 +2,26 @@ import React, { useEffect } from 'react';
 import { books } from '../../data/sampleData';
 import './DetailPanel.css';
 
+// ショップアイコンコンポーネント
+const ShopIcon = ({ shop }) => {
+  const iconMap = {
+    amazon: (
+      <svg width="80" height="24" viewBox="0 0 80 24" fill="none">
+        <text x="40" y="15" fontFamily="Helvetica, Arial, sans-serif" fontSize="15" fontWeight="bold" letterSpacing="-0.2" fill="#232F1E" textAnchor="middle">amazon</text>
+        <path d="M22 18c8 3 28 3 36 0" stroke="#FF9900" strokeWidth="1.2" strokeLinecap="round" fill="none"/>
+        <path d="M56 18l-1-1 3.5-1 0.5 3.5-3-1.5" stroke="#FF9900" strokeWidth="1.2" strokeLinecap="round" strokeLinejoin="round" fill="none"/>
+      </svg>
+    ),
+    bookoff: (
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M6 2h12a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2m0 2v16h12V4H6m2 2h8v2H8V6m0 4h8v2H8v-2m0 4h6v2H8v-2z"/>
+      </svg>
+    )
+  };
+  
+  return iconMap[shop] || null;
+};
+
 const DetailPanel = ({ genre, isOpen, onClose }) => {
   // Close on Escape key
   useEffect(() => {
@@ -18,6 +38,12 @@ const DetailPanel = ({ genre, isOpen, onClose }) => {
   const resolvedBooks = (genre.bookIds || [])
     .map(id => books[id])
     .filter(Boolean);
+
+  // リンクアイコンのクリックハンドラ
+  const handleLinkClick = (url, e) => {
+    e.stopPropagation();
+    window.open(url, '_blank', 'noopener,noreferrer');
+  };
 
   return (
     <>
@@ -54,14 +80,18 @@ const DetailPanel = ({ genre, isOpen, onClose }) => {
                 paddingBottom: 'var(--spacing-xs)',
                 marginTop: 'var(--spacing-xl)',
                 fontSize: 'var(--font-size-lg)',
-                fontWeight: 'bold'
+                fontWeight: 'bold',
+                display: 'flex',
+                alignItems: 'center',
+                gap: 'var(--spacing-sm)'
               }}>
                 おすすめ書籍 / Recommended Books
+                <span className="pr-badge">PR</span>
               </h3>
               
               <div className="book-grid">
                 {resolvedBooks.map((book) => (
-                  <a key={book.id} href="#" className="book-card" onClick={(e) => e.preventDefault()}>
+                  <div key={book.id} className="book-card">
                     <img src={book.cover} alt={book.title} className="book-cover" />
                     <div className="book-info">
                       <div className="book-title">{book.titleJP}</div>
@@ -72,11 +102,26 @@ const DetailPanel = ({ genre, isOpen, onClose }) => {
                       <p className="book-description">
                         {book.description}
                       </p>
-                      <div className="book-action">
-                        [データ参照 &gt;]
-                      </div>
+                      {book.links && Object.keys(book.links).length > 0 && (
+                        <div className="book-links">
+                          {Object.entries(book.links).map(([shop, url]) => (
+                            <a
+                              key={shop}
+                              href={url}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className={`shop-link-card ${shop}`}
+                              onClick={(e) => e.stopPropagation()}
+                            >
+                              <div className="shop-logo">
+                                <ShopIcon shop={shop} />
+                              </div>
+                            </a>
+                          ))}
+                        </div>
+                      )}
                     </div>
-                  </a>
+                  </div>
                 ))}
               </div>
             </div>

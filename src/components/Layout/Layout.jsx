@@ -22,6 +22,21 @@ const Header = () => (
   </header>
 );
 
+const Footer = () => (
+  <footer style={{
+    marginTop: 'var(--spacing-2xl)',
+    padding: 'var(--spacing-xl) 0',
+    borderTop: '1px solid var(--color-border-grid)',
+    color: 'var(--color-text-secondary)',
+    fontSize: 'var(--font-size-xs)',
+    textAlign: 'center',
+    lineHeight: 1.6
+  }}>
+    <p>© 2026 snp</p>
+    <p>Amazonのアソシエイトとして、適格販売により収入を得ています。</p>
+  </footer>
+);
+
 const Layout = ({ children }) => {
   return (
     <div className="layout-container">
@@ -29,6 +44,7 @@ const Layout = ({ children }) => {
       <main className="main-content">
         <Header />
         {children}
+        <Footer />
       </main>
     </div>
   );

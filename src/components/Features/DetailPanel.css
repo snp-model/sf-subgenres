@@ -146,17 +146,72 @@
   margin-bottom: var(--spacing-md);
   display: -webkit-box;
   -webkit-line-clamp: 4; /* Limit lines */
+  line-clamp: 4;
   -webkit-box-orient: vertical;
   overflow: hidden;
   flex-grow: 1;
 }
 
-.book-action {
-  font-family: var(--font-family-mono);
-  font-size: var(--font-size-xs);
-  color: var(--color-text-accent);
+.pr-badge {
+  font-size: 10px;
+  padding: 1px 4px;
+  border: 1px solid var(--color-border-grid);
+  border-radius: 2px;
+  color: var(--color-text-secondary);
+  font-weight: normal;
+}
+
+@media (max-width: 480px) {
+  .pr-badge::before {
+    content: "PR";
+  }
+}
+
+.book-links {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
   margin-top: auto;
-  font-weight: bold;
+  width: auto;
+  align-items: flex-start;
+}
+
+.shop-link-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--spacing-xs) var(--spacing-md);
+  border: 1px solid var(--color-border-grid);
+  border-radius: var(--border-radius-sm);
+  background: var(--color-bg-body);
+  color: var(--color-text-primary);
+  text-decoration: none;
+  transition: all var(--transition-fast);
+  width: 100px;
+  max-width: fit-content;
+  height: 32px;
+}
+
+.shop-link-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--color-shadow-hover);
+}
+
+.shop-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Amazon specific styling */
+.shop-link-card.amazon {
+  border-color: #FF9900;
+  background-color: #fffaf0; /* Very light orange */
+}
+
+.shop-link-card.amazon:hover {
+  background-color: #fff0d6;
+  border-color: #FF9900;
 }
 
 @media (max-width: 768px) {
