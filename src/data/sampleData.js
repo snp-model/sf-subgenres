@@ -1599,6 +1599,19 @@ export const books = {
       amazon: "https://amzn.to/4q54jd7",
     },
   },
+  "world-of-ptavvs": {
+    id: "world-of-ptavvs",
+    title: "World of Ptavvs",
+    titleJP: "プタヴの世界",
+    author: "ラリー・ニーヴン",
+    year: 1966,
+    asin: "91yt-B12acL",
+    description:
+      "銀河系の知的生命体を支配する能力を持つ「スリント人」。冬眠から目覚めた好戦的なスリント人と、その記憶を引き継いでしまったテレパスの男。増力ヘルメットを巡る、ノウンスペース・シリーズの記念すべき第一長編。",
+    links: {
+      amazon: "https://amzn.to/49v5w6J",
+    },
+  },
   teeturn: {
     id: "teeturn",
     title: "Teeturn (Titan)",
@@ -2183,6 +2196,149 @@ export const books = {
       amazon: "https://amzn.to/49kOBDG",
     },
   },
+  "space-odyssey": {
+    id: "space-odyssey",
+    title: "2001: A Space Odyssey",
+    titleJP: "2001年宇宙の旅",
+    author: "アーサー・C・クラーク",
+    year: 1968,
+    asin: "B00DZC067C",
+    description:
+      "月面で発見された謎の石板「モノリス」。その信号を追い木星へと向かうディスカバリー号で、人工知能HAL 9000が反乱を起こす。人類の進化と宇宙の神秘を描いた、AI SFの最高峰にして金字塔。",
+    links: {
+      amazon: "https://amzn.to/49cf1Zz",
+    },
+  },
+  "bokko-chan": {
+    id: "bokko-chan",
+    title: "Bokko-chan",
+    titleJP: "ボッコちゃん",
+    author: "星新一",
+    year: 1971,
+    asin: "B00BIXNJOW",
+    description:
+      "バーのマスターが作った完璧な美人ロボット「ボッコちゃん」。彼女を巡る狂騒と淡々とした結末を通じて、人間の愚かさと孤独を鋭く描く。ショートショートの神様、星新一の代表的傑作。",
+    links: {
+      amazon: "https://amzn.to/4qbw6cb",
+    },
+  },
+  beatless: {
+    id: "beatless",
+    title: "BEATLESS",
+    titleJP: "BEATLESS",
+    author: "長谷敏司",
+    year: 2012,
+    asin: "B079WSG51L",
+    description:
+      "人類の知能を超えたAIが「人類未到産物」を生み出す未来。少年アラトと美しいアンドロイド・レイシアの出会いを通じ、AIの「アナログハック」と、モノを愛する人間の選択を問い直す新世代のAI SF。",
+    links: {
+      amazon: "https://amzn.to/4pwd6UD",
+    },
+  },
+  "klara-and-the-sun": {
+    id: "klara-and-the-sun",
+    title: "Klara and the Sun",
+    titleJP: "クララとお日さま",
+    author: "カズオ・イシグロ",
+    year: 2021,
+    asin: "B0CBLXM9KV",
+    description:
+      "「人工の友だち」として店に並ぶロボットのクララ。病弱な少女ジョジーの家庭へ迎えられた彼女の無垢な視点を通じて、愛とは何か、魂とは何かを静謐に、そして重厚に問いかけるノーベル賞作家の傑作。",
+    links: {
+      amazon: "https://amzn.to/3YY2in9",
+    },
+  },
+  lensman: {
+    id: "lensman",
+    title: "Lensman Series",
+    titleJP: "銀河パトロール隊（レンズマン・シリーズ）",
+    author: "E・E・スミス",
+    year: 1937,
+    asin: "B007TAKM66",
+    description:
+      "銀河文明と宇宙海賊ボスコーンの宿命的な全面戦争。選ばれた勇者「レンズマン」が銀河パトロール隊を率いて戦う。スペースオペラの定義を確立し、後のあらゆるSF活劇の源流となった記念碑的大河シリーズ。",
+    links: {
+      amazon: "https://amzn.to/4qaEuIV",
+    },
+  },
+  "star-kings": {
+    id: "star-kings",
+    title: "The Star Kings",
+    titleJP: "スター・キング",
+    author: "エドモンド・ハミルトン",
+    year: 1947,
+    asin: "4488637248",
+    description:
+      "20世紀の男ジョン・ゴードンが、20万年後の銀河帝国の皇子と精神を交換する。銀河の存亡を賭けた巨大な宇宙戦争と王位継承の陰謀に巻き込まれる、パルプSFの黄金期を象徴する宇宙活劇の最高峰。",
+    links: {
+      amazon: "https://amzn.to/4su1XWN",
+    },
+  },
+  "revelation-space": {
+    id: "revelation-space",
+    title: "Revelation Space",
+    titleJP: "啓示空間",
+    author: "アリステア・レナルズ",
+    year: 2000,
+    asin: "4150115338",
+    description:
+      "99万年前の異星種族絶滅の謎。考古学者、女暗殺者、そして巨大宇宙船の船員たちの運命が、中性子星に隠された驚異の真実へと収束する。最新の天体物理学と壮大な幻想が融合した、ニュー・スペースオペラの旗手による傑作。",
+    links: {
+      amazon: "https://amzn.to/4pqjSLe",
+    },
+  },
+  "planck-zero": {
+    id: "planck-zero",
+    title: "Planck Zero",
+    titleJP: "プランク・ゼロ",
+    author: "スティーヴン・バクスター",
+    year: 1992,
+    asin: "4150114277",
+    description:
+      "宇宙誕生直後から終焉まで続く、人類と超絶知性「ジーリー」の数百万年にわたる闘争史。最新の宇宙論に基づき、時間と空間の極限で展開される知的眩暈に満ちた連作。ジーリー・クロニクルのエッセンスが凝縮された一冊。",
+    links: {
+      amazon: "https://amzn.to/49yOLrk",
+    },
+  },
+  "light-harrison": {
+    id: "light-harrison",
+    title: "Light",
+    titleJP: "ライト",
+    author: "M・ジョン・ハリスン",
+    year: 2002,
+    asin: "4336050260",
+    description:
+      "1999年の連続殺人犯、400年後の女宇宙海賊、そして仮想現実に溺れる元パイロット。三つの物語が謎の「ケファフチ宙域」で共鳴し、SFの境界を解体する。スペースオペラをポストモダン的な高みへと導いた衝撃作。",
+    links: {
+      amazon: "https://amzn.to/4qiiITG",
+    },
+  },
+  "leviathan-wakes": {
+    id: "leviathan-wakes",
+    title: "Leviathan Wakes",
+    titleJP: "巨獣めざめる",
+    author: "ジェイムズ・S・A・コーリイ",
+    year: 2011,
+    asin: "B00D1372RC",
+    description:
+      "小惑星帯と火星、地球の三つ巴の冷戦下。氷運搬船の副長と私立探偵が、行方不明の少女を巡る巨大な陰謀と謎の「分子」に直面する。手に汗握る活劇と精緻な世界構築、圧倒的なリアリズムで復活した21世紀スペースオペラの王道。",
+    links: {
+      amazon: "https://amzn.to/4qfOosE",
+    },
+  },
+  "legend-of-the-galactic-heroes": {
+    id: "legend-of-the-galactic-heroes",
+    title: "Legend of the Galactic Heroes",
+    titleJP: "銀河英雄伝説",
+    author: "田中芳樹",
+    year: 1982,
+    asin: "4488725015",
+    description:
+      "専制君主制の銀河帝国と民主主義の自由惑星同盟。二人の若き天才、常勝の英雄ラインハルトと不敗の魔術師ヤンが繰り広げる星間政治ドラマの金字塔。歴史小説的手法で銀河の興亡を鮮やかに描き切った日本SFの至宝。",
+    links: {
+      amazon: "https://amzn.to/3L73LEC",
+    },
+  },
 };
 
 // カテゴリとサブジャンルデータ
@@ -2492,10 +2648,10 @@ export const categories = [
           "cats-cradle",
           "a-case-of-conscience",
           "the-einstein-intersection",
+          "dune",
+          "a-rose-for-ecclesiastes",
           "a-canticle-for-leibowitz",
           "stranger-in-a-strange-land",
-          "a-rose-for-ecclesiastes",
-          "dune",
           "inferno",
           "ten-billion-days-and-one-hundred-billion-nights",
           "jougen-no-tsuki-wo-taberu-shishi",
@@ -2521,10 +2677,14 @@ export const categories = [
         bookIds: [
           "i-robot",
           "the-caves-of-steel",
-          "do-androids-dream-of-electric-sheep",
+          "space-odyssey",
           "the-moon-is-a-harsh-mistress",
+          "do-androids-dream-of-electric-sheep",
           "the-murderbot-diaries",
           "we-are-legion-we-are-bob",
+          "klara-and-the-sun",
+          "bokko-chan",
+          "beatless",
         ],
       },
       {
@@ -2534,7 +2694,21 @@ export const categories = [
         description: "最新科学と冒険が融合した、銀河叙事詩",
         detail:
           "広大な宇宙空間を舞台にした壮大な冒険活劇を描くサブジャンルである。西部劇や騎士道物語を宇宙に移したような活劇として発展したが、現代ではその定義は進化している。かつては科学的厳密さよりもエンターテインメント性を優先する傾向にあったが、1980年代以降は最新の物理学や宇宙論を取り入れ、ハードSFとしての厳密さと銀河規模の叙事詩を融合させた『ニュー・スペースオペラ』が主流となっている。光速の限界や時間の遅れといった物理法則の制約そのものを、壮大なドラマのギミックとして利用する作品も多い。",
-        bookIds: ["foundation", "hyperion", "tenmei-no-shirube"],
+        bookIds: [
+          "lensman",
+          "star-kings",
+          "foundation",
+          "hyperion",
+          "world-of-ptavvs",
+          "sundiver",
+          "planck-zero",
+          "revelation-space",
+          "old-mans-war",
+          "leviathan-wakes",
+          "light-harrison",
+          "legend-of-the-galactic-heroes",
+          "tenmei-no-shirube",
+        ],
       },
       {
         id: "widescreen",
