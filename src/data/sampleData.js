@@ -2378,6 +2378,123 @@ export const books = {
       amazon: "https://amzn.to/4jqBUvw",
     },
   },
+  "ginga-fuuhansou": {
+    id: "ginga-fuuhansou",
+    title: "Ginga Fuuhansou",
+    titleJP: "銀河風帆走",
+    author: "宮西建礼",
+    year: 2024,
+    asin: "B0D37YF1G3",
+    description:
+      "銀河規模の破滅から逃れるため、知性を持った宇宙船が地球の生物の遺伝情報を積み、別の銀河を目指す壮大な旅を描く。第4回創元SF短編賞受賞作を含む、瑞々しい感性と緻密な理論が融合した傑作短編集。",
+    links: {
+      amazon: "https://amzn.to/45lAQnd",
+    },
+  },
+  "seikei-izumo-no-heitan": {
+    id: "seikei-izumo-no-heitan",
+    title: "Seikei Izumo no Heitan",
+    titleJP: "星系出雲の兵站",
+    author: "林譲治",
+    year: 2018,
+    asin: "B07GQTL3Y9",
+    description:
+      "戦争とは論理であり、経済である。未知の珪素基生命体『ガイナス』との星間戦争を背景に、最前線の戦闘ではなく「兵站（ロジスティクス）」と組織運営のリアリズムに焦点を当てた、新時代のミリタリーSF。第41回日本SF大賞最終候補作。",
+    links: {
+      amazon: "https://amzn.to/3LohOFQ",
+    },
+  },
+  "the-maracot-deep": {
+    id: "the-maracot-deep",
+    title: "The Maracot Deep",
+    titleJP: "マラコット深海",
+    author: "アーサー・コナン・ドイル",
+    year: 1928,
+    asin: "4488608019",
+    description:
+      "未知の深海を調査する潜水艇が怪生物に襲われ、三人の科学者が海底へと落下する。そこで彼らが目にしたのは、アトランティスの末裔たちが築いた高度な科学文明だった。深海への畏怖と驚異を描いた古典的傑作。",
+    links: {
+      amazon: "https://amzn.to/4psEnas",
+    },
+  },
+  "the-deep-range": {
+    id: "the-deep-range",
+    title: "The Deep Range",
+    titleJP: "海底牧場",
+    author: "アーサー・C・クラーク",
+    year: 1957,
+    asin: "B00B7GJ76Y",
+    description:
+      "広大な海でクジラを放牧し、人類の食料供給を支える未来。元宇宙飛行士が深海での仕事に新たな生きがいを見出し、海洋との共存や環境保護、食料生産の倫理といった深遠なテーマに向き合っていく。",
+    links: {
+      amazon: "https://amzn.to/4aNcrdJ",
+    },
+  },
+  "the-swarm": {
+    id: "the-swarm",
+    title: "The Swarm",
+    titleJP: "深海のＹｒｒ",
+    author: "フランク・シェッツィング",
+    year: 2004,
+    asin: "B0BWCH3T6S",
+    description:
+      "世界各地で発生する不可解な海洋現象。それは深海に生息する知的単細胞生物『Yrr（イール）』による、人類への復讐だった。最新の海洋学と生態学を駆使して描かれる、空前の海洋パニック・ハードSF。",
+    links: {
+      amazon: "https://amzn.to/4ssAbdt",
+    },
+  },
+  haidunan: {
+    id: "haidunan",
+    title: "Haidunan",
+    titleJP: "ハイドゥナン",
+    author: "藤崎慎吾",
+    year: 2005,
+    asin: "B00GJMUUZS",
+    description:
+      "地殻変動による琉球諸島の沈没危機。科学者たちが極秘プロジェクトを始動させる中、古の巫女の伝承と現代の深海調査が交錯する。沖縄の歴史と神話、そして最先端の地球科学が融合した壮大な海洋SF。",
+    links: {
+      amazon: "https://amzn.to/4pxEtO3",
+    },
+  },
+  semiosis: {
+    id: "semiosis",
+    title: "Semiosis",
+    titleJP: "セミオーシス",
+    author: "スー・バーク",
+    year: 2019,
+    asin: "B07MLWHZ39",
+    description:
+      "環境破壊された地球を逃れ、惑星パックスに入植した人類。しかしそこは、知性を持つ植物たちが自らの生存のために動物を操作し、支配する世界だった。100年に及ぶ入植者と植物との未知の共生と葛藤を描く、植物SFの新たな地平。",
+    links: {
+      amazon: "https://amzn.to/4qFo5fd",
+    },
+  },
+  "a-princess-of-mars": {
+    id: "a-princess-of-mars",
+    title: "A Princess of Mars",
+    titleJP: "火星のプリンセス",
+    author: "エドガー・ライス・バローズ",
+    year: 1912,
+    asin: "4488601391",
+    description:
+      "意識を失い、突如として火星（バルスーム）に転移した元南軍騎兵大尉ジョン・カーター。超人的な身体能力を武器に、絶世の美女デジャー・ソリスを救うべく戦乱の火星を駆け抜ける。スペース・オペラとヒロイック・ファンタジーの原点。",
+    links: {
+      amazon: "https://amzn.to/3N8STqs",
+    },
+  },
+  dragonflight: {
+    id: "dragonflight",
+    title: "Dragonflight",
+    titleJP: "パーンの竜騎士（竜の戦士）",
+    author: "アン・マキャフリィ",
+    year: 1967,
+    asin: "51PCqhJGZ-L",
+    description:
+      "惑星パーンを襲う脅威「糸胞」に立ち向かうため、テレパシーで結ばれた竜と竜騎士たちが空を舞う。科学技術が失われ中世化した世界で、失われた知識の再発見と竜との絆を描く。SF設定に基づいたファンタジーの金字塔。",
+    links: {
+      amazon: "https://amzn.to/4sv298o",
+    },
+  },
 };
 
 // カテゴリとサブジャンルデータ
@@ -2778,8 +2895,12 @@ export const categories = [
           "starship-troopers",
           "the-forever-war",
           "old-mans-war",
+          "enders-game",
           "genocidal-organ",
           "sentou-yousei-yukikaze",
+          "legend-of-the-galactic-heroes",
+          "koukuu-uchuugun-shi",
+          "seikei-izumo-no-heitan",
         ],
       },
       {
@@ -2791,11 +2912,15 @@ export const categories = [
           "海を主要な舞台とするサブジャンルである。宇宙と並ぶフロンティアとされるが、SFにおける役割は対照的である。外への拡大を象徴する宇宙に対し、深海は生命の源流や人間の無意識を象徴する『内宇宙（インナー・スペース）』として描かれることが多い。物理的にも、透明な真空を行く宇宙船とは異なり、超高圧と暗黒の中で視覚ではなく聴覚（ソナー）に頼るという、極限の閉鎖環境ならではの心理サスペンスや、水圧に耐えるための人体改造がテーマとなる。",
         bookIds: [
           "twenty-thousand-leagues-under-the-sea",
+          "the-maracot-deep",
+          "the-deep-range",
           "dolphin-island",
-          "starfish",
           "the-godwhale",
-          "karyu-no-miya",
+          "starfish",
+          "the-swarm",
           "dai-yon-kan-hyouki-inter-ice-age-4",
+          "haidunan",
+          "karyu-no-miya",
         ],
       },
       {
@@ -2805,7 +2930,12 @@ export const categories = [
         description: "植物という『異質な知性』と思考実験",
         detail:
           "植物が物語の核心的な要素となるサブジャンルである。知性や意識を持つ植物生命体との接触や、旺盛な生命力によって文明が侵食されるポスト・アポカリプス的変容が描かれる。人間が植物を利用するのではなく、植物独自の分散型ネットワークや、人間とは異なる時間感覚・生存戦略といった『異質な知性』に直面する物語が多い。動物（人間）中心の視点を廃し、植物の静的かつ侵略的な生態系を通じて、知性とは何か、生命とは何かを問い直す思考実験としての側面を持つ。",
-        bookIds: ["hothouse", "the-day-of-the-triffids", "the-integral-trees"],
+        bookIds: [
+          "hothouse",
+          "the-day-of-the-triffids",
+          "annihilation",
+          "semiosis",
+        ],
       },
       {
         id: "sciencefantasy",
@@ -2815,9 +2945,11 @@ export const categories = [
         detail:
           "科学技術と魔法や超自然的な力が共存する世界を描くサブジャンルである。サイエンス・ファンタジーにおいては科学技術で説明可能な現象と、論理を超越した『本物の魔法・神秘』が、別々の力として共存（あるいは対立）しているのが特徴である。科学的合理性よりも、神話的な元型や幻想性を優先し、あえて境界線を曖昧にすることで独特のロマンを生み出す。",
         bookIds: [
-          "lord-of-light",
-          "the-shadow-of-the-torturer",
+          "a-princess-of-mars",
           "scanners-live-in-vain",
+          "lord-of-light",
+          "dragonflight",
+          "the-shadow-of-the-torturer",
           "jougen-no-tsuki-wo-taberu-shishi",
         ],
       },
@@ -2917,7 +3049,12 @@ export const categories = [
         description: "若者が直面する、世界の矛盾と精神的自立",
         detail:
           "少年少女を主人公とし、冒険を通じた精神的自立を描く。単に大人向けを平易にした入門用SFではなく、大人の社会の矛盾や倫理的なジレンマに直面する若者の葛藤を、研ぎ澄まされた叙述で描く点が特徴。ハインラインらが築いた系譜は、ポジティブな未来観だけでなく、過酷な環境下での個人の決断や責任を問い直す教育的な厳格さも持ち合わせており、現代のYA（ヤングアダルト）SFにおける『世界の変革』というテーマにも深く継承されている。",
-        bookIds: ["enders-game", "tunnel-in-the-sky", "r-is-for-rocket"],
+        bookIds: [
+          "enders-game",
+          "tunnel-in-the-sky",
+          "r-is-for-rocket",
+          "ginga-fuuhansou",
+        ],
       },
       {
         id: "posthuman",
