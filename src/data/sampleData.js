@@ -1923,6 +1923,266 @@ export const books = {
       amazon: "https://amzn.to/4smW6CF",
     },
   },
+  "the-man-in-the-high-castle": {
+    id: "the-man-in-the-high-castle",
+    title: "The Man in the High Castle",
+    titleJP: "高い城の男",
+    author: "フィリップ・K・ディック",
+    year: 1962,
+    asin: "B00B2GXKIU",
+    description:
+      "第二次世界大戦で枢軸国が勝利し、大日本帝国とナチス・ドイツに分割占領されたアメリカ。偽の歴史を描く禁書『イナゴ身重く横たわる』を巡り、複数の運命が交錯する。歴史改変SFの金字塔にしてディックの代表作。",
+    links: {
+      amazon: "https://amzn.to/3Z51oFm",
+    },
+  },
+  "the-proteus-operation": {
+    id: "the-proteus-operation",
+    title: "The Proteus Operation",
+    titleJP: "プロテウス・オペレーション",
+    author: "ジェイムズ・P・ホーガン",
+    year: 1985,
+    asin: "4150117659",
+    description:
+      "ナチスが世界を支配する1974年から1939年の過去へ、歴史を修正すべく精鋭部隊が送られる。チャーチルやアインシュタインと協力し、核開発を巡る熾烈な戦いが展開される。ホーガン流の緻密な理論が光る歴史改変SF。",
+    links: {
+      amazon: "https://amzn.to/45lbkOX",
+    },
+  },
+  "united-states-of-japan": {
+    id: "united-states-of-japan",
+    title: "United States of Japan",
+    titleJP: "ユナイテッド・ステイツ・オブ・ジャパン",
+    author: "ピーター・トライアス",
+    year: 2016,
+    asin: "B01M8M71E8",
+    description:
+      "『高い城の男』へのオマージュを捧げた、日本軍による支配が続く1988年のアメリカ。巨大ロボット兵器が闊歩し、検閲官が禁じられたビデオゲームを追う。極東の美学とディストピアが融合した、新世代の歴史改変SF。",
+    links: {
+      amazon: "https://amzn.to/3YveKuv",
+    },
+  },
+  pavane: {
+    id: "pavane",
+    title: "Pavane",
+    titleJP: "パヴァーヌ",
+    author: "キース・ロバーツ",
+    year: 1968,
+    asin: "4480429964",
+    description:
+      "1588年にエリザベス女王が暗殺され、スペイン無敵艦隊に占領された世界。カトリック教会が科学を抑圧し、蒸気機関と腕木通信が残る 20 世紀を描く。静謐な筆致で綴られる、美しくも残酷な歴史改変連作短編。",
+    links: {
+      amazon: "https://amzn.to/4jurRG0",
+    },
+  },
+  "the-handmaids-tale": {
+    id: "the-handmaids-tale",
+    title: "The Handmaid's Tale",
+    titleJP: "侍女の物語",
+    author: "マーガレット・アトウッド",
+    year: 1985,
+    asin: "B00QA1765A",
+    description:
+      "近未来。キリスト教原理主義を奉じる全体主義国家ギレアデ共和国では、出生率の低下により、わずかな妊娠可能な女性たちが『侍女』として管理・使役されていた。自由と名前を奪われた女性オブフレッドの過酷な日常と抵抗を描く、衝撃のディストピア文学。",
+    links: {
+      amazon: "https://amzn.to/44U5bcg",
+    },
+  },
+  "station-eleven": {
+    id: "station-eleven",
+    title: "Station Eleven",
+    titleJP: "ステーション・イレブン",
+    author: "エミリー・セントジョン・マンデル",
+    year: 2014,
+    asin: "409406026X",
+    description:
+      "パンデミックによって人類の99%が死滅した世界。文明崩壊から20年後、旅回りの一座『シェイクスピア劇団』は、荒廃した土地で演劇と音楽を届け続ける。絶望の中でも失われない芸術の価値と、人々の記憶が交錯する静謐な終末SF。",
+    links: {
+      amazon: "https://amzn.to/4qN7FBL",
+    },
+  },
+  blindsight: {
+    id: "blindsight",
+    title: "Blindsight",
+    titleJP: "ブラインドサイト",
+    author: "ピーター・ワッツ",
+    year: 2006,
+    asin: "4488746012",
+    description:
+      "21世紀後半、地球を包囲した謎の異星文明。調査に向かったテーセウス号の乗組員は、吸血鬼や人工的知覚を持つポストヒューマンたちだった。意識と知性の本質を極限まで問い直す、ゼロ年代屈指の形而上学的ハードSF。",
+    links: {
+      amazon: "https://amzn.to/49JJXjW",
+    },
+  },
+  "empire-of-the-sun": {
+    id: "empire-of-the-sun",
+    title: "Empire of the Sun",
+    titleJP: "太陽の帝国",
+    author: "J・G・バラード",
+    year: 1984,
+    asin: "B07T3KDT6Z",
+    description:
+      "第二次世界大戦下の上海、日本軍の侵攻により両親とはぐれた少年ジムの過酷なサバイバルを描く。バラード自伝的作品であり、内宇宙の探求を続けた作家が到達した精神の深淵を浮き彫りにする。",
+    links: {
+      amazon: "https://amzn.to/49p6Rvt",
+    },
+  },
+  "kyoko-sendan": {
+    id: "kyoko-sendan",
+    title: "Kyoko Sendan",
+    titleJP: "虚航船団",
+    author: "筒井康隆",
+    year: 1984,
+    asin: "B07G28ZK2X",
+    description:
+      "乗組員がすべて文房具の宇宙船団、歴史がループする鼬族の惑星、そして凄惨な殲滅戦。メタフィクション、狂気、パロディが渦巻く、日本SFにおける最大の問題作にしてひとつの到達点。",
+    links: {
+      amazon: "https://amzn.to/4pDokXu",
+    },
+  },
+  "yawaraka-i-tokei": {
+    id: "yawaraka-i-tokei",
+    title: "Yawaraka i Tokei",
+    titleJP: "柔らかい時計",
+    author: "荒巻義雄",
+    year: 1968,
+    asin: "B085ZMQV4S",
+    description:
+      "ダリの絵画から着想を得た、不条理とシュルレアリスムが交錯する幻想的な世界。内宇宙を志向する日本のニューウェーブSFを確立し、後の作家に多大な影響を与えた初期の傑作。",
+    links: {
+      amazon: "https://amzn.to/3Nx500o",
+    },
+  },
+  "tori-wa-ima-doko-wo-tobu-ka": {
+    id: "tori-wa-ima-doko-wo-tobu-ka",
+    title: "Tori wa Ima Doko wo Tobu ka",
+    titleJP: "鳥はいまどこを飛ぶか",
+    author: "山野浩一",
+    year: 1971,
+    asin: "B01LY07PNY",
+    description:
+      "配列を自由に組み替えて読むことが許された実験的な構成。異質な『鳥』を追ううちに時空が歪み、世界の崩壊が立ち現れる。日本のニューウェーブSFを牽引した山野浩一の代表的傑作短編。",
+    links: {
+      amazon: "https://amzn.to/4bls7Vy",
+    },
+  },
+  "the-wall": {
+    id: "the-wall",
+    title: "The Wall",
+    titleJP: "壁",
+    author: "安部公房",
+    year: 1951,
+    asin: "B0CVN9JZKZ",
+    description:
+      "ある朝突然「名前」を失った男の数奇な運命。現実が不条理へと変貌し、自己が「壁」へと変身していく様を描く。芥川賞受賞作であり、日本の前衛文学・スリップストリームの先駆的作品。",
+    links: {
+      amazon: "https://amzn.to/4qLMJeq",
+    },
+  },
+  "hard-boiled-wonderland": {
+    id: "hard-boiled-wonderland",
+    title: "Hard-Boiled Wonderland and the End of the World",
+    titleJP: "世界の終わりとハードボイルド・ワンダーランド",
+    author: "村上春樹",
+    year: 1985,
+    asin: "B08N5S1VZH",
+    description:
+      "高い壁に囲まれた「街」での静かな生活と、近未来の東京での計算士の戦い。二つの物語が交互に語られ、やがて一つに溶け合う。現実と虚構が高度に融合した、村上春樹のスリップストリーム的代表作。",
+    links: {
+      amazon: "https://amzn.to/4jqv0GC",
+    },
+  },
+  "the-memory-police": {
+    id: "the-memory-police",
+    title: "The Memory Police",
+    titleJP: "密やかな結晶",
+    author: "小川洋子",
+    year: 1994,
+    asin: "B08PV8FHH4",
+    description:
+      "様々なものが記憶から消滅していく不思議な島。消滅を司る秘密警察の追跡を逃れ、大切な記憶を守ろうとする人々の姿を静謐な筆致で描く。国際ブッカー賞最終候補にも選ばれた傑作スリップストリーム。",
+    links: {
+      amazon: "https://amzn.to/4bk9gKv",
+    },
+  },
+  "women-and-womens-world": {
+    id: "women-and-womens-world",
+    title: "Women and Women's World",
+    titleJP: "女と女の世の中",
+    author: "鈴木いづみ",
+    year: 1978,
+    asin: "51c0cBgLE0L",
+    description:
+      "男性が排除され、女性のみで構成された未来社会。隔離された居住区に追いやられた男性と、彼らを観察する女性たちの姿を通じて、性別の境界を鋭く解体する。伝説の作家・鈴木いづみが遺した、日本ジェンダーSFの記念碑的作品。",
+    links: {
+      amazon: "https://amzn.to/49pKxlo",
+    },
+  },
+  "hybrid-child": {
+    id: "hybrid-child",
+    title: "Hybrid Child",
+    titleJP: "ハイブリッド・チャイルド",
+    author: "大原まり子",
+    year: 1990,
+    asin: "B00M9TTE1G",
+    description:
+      "宇宙戦闘用生体メカニックが自我を持ち、軍を脱走する。殺された少女をサンプリングすることで自身の核を形成し、メタモルフォーゼを繰り返しながら自己を探求する。母娘関係や身体の変容をテーマにした、日本SFの傑作バイオ・パンク。",
+    links: {
+      amazon: "https://amzn.to/4spIaYR",
+    },
+  },
+  "stranger-in-a-strange-land": {
+    id: "stranger-in-a-strange-land",
+    title: "Stranger in a Strange Land",
+    titleJP: "異星の客",
+    author: "ロバート・A・ハインライン",
+    year: 1961,
+    asin: "4488618030",
+    description:
+      "火星で育てられた地球人の青年マイクが地球に帰還する。異文化的な視点から地球の宗教、哲学、性を根本から問い直し、自ら「水族」による新しい宗教を創設する。カウンターカルチャーに多大な影響を与えた金字塔。",
+    links: {
+      amazon: "https://amzn.to/4boaPal",
+    },
+  },
+  "a-case-of-conscience": {
+    id: "a-case-of-conscience",
+    title: "A Case of Conscience",
+    titleJP: "悪魔の星",
+    author: "ジェイムズ・ブリッシュ",
+    year: 1958,
+    asin: "4488622011",
+    description:
+      "惑星リチアで発見された、完璧な道徳心を持つが神を持たない異星人。彼らは「悪魔の創造物」なのか？ 神父であり生物学者の主人公が究極の神学的ジレンマに直面する、思考実験SFの傑作。",
+    links: {
+      amazon: "https://amzn.to/3N8DeaE",
+    },
+  },
+  "the-einstein-intersection": {
+    id: "the-einstein-intersection",
+    title: "The Einstein Intersection",
+    titleJP: "アインシュタイン交点",
+    author: "サミュエル・R・ディレイニー",
+    year: 1967,
+    asin: "4150111480",
+    description:
+      "人類が消え去った遠未来の地球。人類の遺物の中で暮らす異星生物たちが、過去の人間文明の神話を再演し、自らの「人間性」を模索する波乱万丈の旅を描く。詩的で神話的なスペキュレイティブ・フィクション。",
+    links: {
+      amazon: "https://amzn.to/4q9SnXA",
+    },
+  },
+  "musubiyama-hiroku": {
+    id: "musubiyama-hiroku",
+    title: "Musubiyama Hiroku",
+    titleJP: "産霊山秘録",
+    author: "半村良",
+    year: 1973,
+    asin: "B00E4BJ1II",
+    description:
+      "古代より日本を影から守護し続けてきた超能力一族「ヒ」の一族。戦国から現代まで、歴史の裏側で暗躍し国家の危機を救ってきた彼らの壮絶な運命を描く。SFと伝奇ロマンを融合させた日本SFの金字塔。",
+    links: {
+      amazon: "https://amzn.to/49kOBDG",
+    },
+  },
 };
 
 // カテゴリとサブジャンルデータ
@@ -2112,7 +2372,12 @@ export const categories = [
         description: "分岐点からの歴史を論理的に再構築する",
         detail:
           "歴史の重要な分岐点を変更し、そこから派生した異なる歴史世界（パラレルワールド）を描くサブジャンルである。『もし第二次世界大戦で枢軸国が勝っていたら』といった『もしも（what if）』の問いに答えを与えるフィクションであり、史実を基盤としつつも異なる社会、政治、産業の発展を描く。タイムトラベルの結果として描かれることもあるが、ジャンルの核心は『時間移動のギミック』そのものよりも、分岐点（ジョン・バー・ポイント）以降の歴史がいかに論理的かつ緻密に構築されているかというシミュレーション性にある。そのため、タイムマシンが登場せず、改変された歴史が唯一の現実として進行する作品も、このジャンルの王道である。",
-        bookIds: [],
+        bookIds: [
+          "the-man-in-the-high-castle",
+          "the-proteus-operation",
+          "united-states-of-japan",
+          "pavane",
+        ],
       },
       {
         id: "dystopia",
@@ -2121,7 +2386,13 @@ export const categories = [
         description: "完璧に管理された「理想郷」という名の悪夢",
         detail:
           "徹底管理された全体主義的社会や、人間性が抑圧された暗黒の未来を描くサブジャンルであり、ユートピア（理想郷）の対義語として用いられる。個人の行動や思想が厳しく制限され、テクノロジーが24時間監視に利用される監視社会が中心となる。独裁的な権力者や一党独裁体制が支配し、プロパガンダや情報操作によって国民を洗脳する。現代社会の問題への警鐘として描かれるが、単に問題を放置した結果だけでなく、戦争や差別を無くすために社会を完璧に設計・浄化した結果、かえって人間性が失われてしまった『管理された理想郷（失敗したユートピア）』として描かれることも多い。そのため、恐怖と暴力で支配される『暗黒の未来』だけでなく、テクノロジーや薬物によって与えられた幸福に人々が飼い慣らされている『明るいディストピア』も、このジャンルの重要な形式である。",
-        bookIds: ["nineteen-eighty-four", "brave-new-world", "fahrenheit-451"],
+        bookIds: [
+          "nineteen-eighty-four",
+          "brave-new-world",
+          "fahrenheit-451",
+          "the-handmaids-tale",
+          "harmony",
+        ],
       },
       {
         id: "postapocalyptic",
@@ -2132,19 +2403,29 @@ export const categories = [
           "核戦争やパンデミック、隕石衝突などによって文明が崩壊した後の世界を舞台とするサブジャンルである。荒廃した都市や限られた資源の中での過酷なサバイバルを描く作品がある一方で、『コージー・カタストロフィ』や日本のアニメ・漫画に見られるような、文明滅亡後の静寂や廃墟の美しさを肯定的に描く『牧歌的な終末』も存在する。そのため、絶望的な状況下での闘争だけでなく、人類がいなくなった世界での孤独や、滅びゆく世界を受け入れる人々の静かな営みも、このジャンルの重要な側面である。",
         bookIds: [
           "on-the-beach",
-          "the-road",
-          "hothouse",
           "a-canticle-for-leibowitz",
+          "the-road",
+          "ice",
+          "hothouse",
+          "the-day-of-the-triffids",
+          "station-eleven",
         ],
       },
       {
         id: "metaphysical",
         title: "Metaphysical SF",
         nameJP: "形而上学SF",
-        description: "SFガジェットを用いた、哲学的思考実験",
+        description: "SFを用いた哲学的思考実験",
         detail:
-          "存在の本質、意識の起源、現実と虚構の境界といった形而上学的な問いを中心に据えるサブジャンルである。『我々は何者か』『現実は何か』『意識とは何か』といった哲学的テーマを、SF的な設定を通じて探求する。SF的なガジェットを単なる舞台装置としてではなく、哲学的思考実験のツールとして用いるのが特徴。P.K.ディックのように現実崩壊の恐怖を描く内省的な作品から、グレッグ・イーガンのように極限まで発達した理論物理や情報科学を用いて意識や宇宙の構造を解き明かそうとする『哲学的ハードSF』まで、そのアプローチは多岐にわたる。共通するのは、エンターテインメントとしての活劇よりも、認識論や存在論への深い問いかけを重視する点である。",
-        bookIds: ["solaris", "ubik", "prism"],
+          "存在の本質、意識の起源、現実と虚構の境界といった形而上学的な問いを中心に据えるサブジャンルである。『我々は何者か』『現実は何か』『意識とは何か』といった哲学的テーマを、SF的な設定を通じて探求する。SFを単なる舞台装置としてではなく、哲学的思考実験のツールとして用いるのが特徴。P.K.ディックのように現実崩壊の恐怖を描く内省的な作品から、グレッグ・イーガンのように極限まで発達した理論物理や情報科学を用いて意識や宇宙の構造を解き明かそうとする『哲学的ハードSF』まで、そのアプローチは多岐にわたる。共通するのは、エンターテインメントとしての活劇よりも、認識論や存在論への深い問いかけを重視する点である。",
+        bookIds: [
+          "solaris",
+          "ubik",
+          "prism",
+          "story-of-your-life",
+          "permutation-city",
+          "blindsight",
+        ],
       },
       {
         id: "newwave",
@@ -2158,6 +2439,11 @@ export const categories = [
           "non-stop",
           "the-beast-that-shouted-love-at-the-heart-of-the-world",
           "babel-17",
+          "empire-of-the-sun",
+          "a-rose-for-ecclesiastes",
+          "kyoko-sendan",
+          "yawaraka-i-tokei",
+          "tori-wa-ima-doko-wo-tobu-ka",
         ],
       },
       {
@@ -2167,7 +2453,16 @@ export const categories = [
         description: "現実を歪ませる『異化』と、分類不能な奇妙さ",
         detail:
           "主流文学とSF・ファンタジーといったジャンル小説の境界線上に位置する、分類不能な境界解体文学である。ブルース・スターリングによって提唱され、現実が奇妙に歪んでいく感覚や認知的不協和、シュルレアリスム的な表現を特徴とする。現実が奇妙に歪んでいく感覚や認知的不協和、シュルレアリスム的な表現を特徴とする。必ずしもSF的なガジェットや設定を必要とせず、現代社会の描写そのものを歪ませることで、SF特有の『異化効果』や『センス・オブ・ワンダー』を喚起させるのが特徴である。そのため、書店では配置場所に困る作品群であり、純文学として扱われることも多い。",
-        bookIds: ["ice", "never-let-me-go", "ficciones"],
+        bookIds: [
+          "slaughterhouse-five",
+          "the-city-the-city",
+          "ice",
+          "ficciones",
+          "the-wall",
+          "hard-boiled-wonderland",
+          "the-memory-police",
+          "never-let-me-go",
+        ],
       },
       {
         id: "gendersf",
@@ -2180,6 +2475,9 @@ export const categories = [
           "the-left-hand-of-darkness",
           "ancillary-justice",
           "the-book-of-the-river",
+          "the-handmaids-tale",
+          "women-and-womens-world",
+          "hybrid-child",
         ],
       },
       {
@@ -2191,12 +2489,17 @@ export const categories = [
           "宗教的なテーマや神話をSF的ガジェット、あるいは極限的な思考実験として扱うサブジャンルである。科学技術が神の領域に達した世界を描くだけでなく、冷徹な論理や宇宙の真理が、人間の持つ『信仰心』といかに衝突し、あるいは変容を迫るかという精神的な相克を主題とする。神話を単にテクノロジーで読み替えるのではなく、科学の光が及ばない宇宙の深淵において、なお人間が超越的な意味（神）を求める不条理や渇望を、社会学的・心理学的なアプローチで描き出す。超越的な存在との邂逅を通じて、宇宙の創生や人類の存在意義を根源的に問い直す。",
         bookIds: [
           "lord-of-light",
-          "ten-billion-days-and-one-hundred-billion-nights",
           "cats-cradle",
+          "a-case-of-conscience",
+          "the-einstein-intersection",
+          "a-canticle-for-leibowitz",
+          "stranger-in-a-strange-land",
           "a-rose-for-ecclesiastes",
           "dune",
-          "jougen-no-tsuki-wo-taberu-shishi",
           "inferno",
+          "ten-billion-days-and-one-hundred-billion-nights",
+          "jougen-no-tsuki-wo-taberu-shishi",
+          "musubiyama-hiroku",
         ],
       },
     ],
