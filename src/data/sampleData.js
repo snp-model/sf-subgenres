@@ -2638,6 +2638,97 @@ export const books = {
       amazon: "https://amzn.to/3NkkgO9",
     },
   },
+  "the-island-of-doctor-moreau": {
+    id: "the-island-of-doctor-moreau",
+    title: "The Island of Doctor Moreau",
+    titleJP: "モロー博士の島",
+    author: "H・G・ウェルズ",
+    year: 1896,
+    asin: "4488607071",
+    description:
+      "遭難して絶海の孤島に漂着した青年が目撃した、天才科学者モロー博士の禁忌の実験。外科手術によって動物を人間へと改造する試みは、やがて凄惨な崩壊へと向かう。知性化テーマの原点にして、科学の倫理を問う古典的傑作。",
+    links: {
+      amazon: "https://amzn.to/4stnvTD",
+    },
+  },
+  city: {
+    id: "city",
+    title: "City",
+    titleJP: "都市",
+    author: "クリフォード・D・シマック",
+    year: 1952,
+    asin: "91xaS0pBWiL",
+    description:
+      "人類が消え去り、知性を持った犬たちとロボットが支配する未来の地球。人間はもはや伝説上の存在となり、彼らが残した「都市」の記録が神話として語り継がれる。万生への慈しみと静かな哀愁に満ちた、連作短編集の金字塔。",
+    links: {
+      amazon: "https://amzn.to/4sztqXq",
+    },
+  },
+  "flowers-for-algernon": {
+    id: "flowers-for-algernon",
+    title: "Flowers for Algernon",
+    titleJP: "アルジャーノンに花束を",
+    author: "ダニエル・キイス",
+    year: 1966,
+    asin: "B00WWQPBB8",
+    description:
+      "知能向上手術によって天才となった青年チャーリイ。しかし、あまりの高知能は彼を孤独にし、やがて先行実験体ネズミのアルジャーノンと同じく知能の衰退が始まる。知性と幸福のトレードオフを、日記形式で切なく描く不朽の名作。",
+    links: {
+      amazon: "https://amzn.to/49dTeRi",
+    },
+  },
+  "have-space-suit-will-travel": {
+    id: "have-space-suit-will-travel",
+    title: "Have Space Suit—Will Travel",
+    titleJP: "大宇宙の少年",
+    author: "ロバート・A・ハインライン",
+    year: 1958,
+    asin: "4488618146",
+    description:
+      "中古の宇宙服を懸賞で手に入れた少年キップ。それを着て裏庭を歩いていた彼は、突如飛来した宇宙船にさらわれ、月、冥王星、そして遥かマゼラン星雲へと連れ去られる。銀河連邦による地球存続を賭けた裁判に、キップは人類の代表として臨む。ハインライン・ジュブナイルの最高傑作。",
+    links: {
+      amazon: "https://amzn.to/4puG3QH",
+    },
+  },
+  "nazo-no-tenkousei": {
+    id: "nazo-no-tenkousei",
+    title: "Nazo no Tenkousei",
+    titleJP: "なぞの転校生",
+    author: "眉村卓",
+    year: 1972,
+    asin: "B00HPSTBKK",
+    description:
+      "平穏な中学校に現れた、容姿端麗で文武両道の転校生・山沢典夫。彼の周囲で次々と起こる不可解な出来事。典夫の正体は、核戦争で崩壊したパラレルワールドからの亡命者だった。科学文明の功罪と、少年たちの友情を鮮烈に描いた日本ジュブナイルSFの不朽の名作。",
+    links: {
+      amazon: "https://amzn.to/4poqsSz",
+    },
+  },
+  "uchuu-no-koe": {
+    id: "uchuu-no-koe",
+    title: "Uchuu no Koe",
+    titleJP: "宇宙の声",
+    author: "星新一",
+    year: 1969,
+    asin: "B009TPQVCI",
+    description:
+      "地球の各地で子供たちだけが聞き取れる謎の「宇宙の声」が響き始めた。その声に導かれ、宇宙船で未知の惑星へと旅立つ少年少女たち。日本SFの旗手・星新一が、ショートショートの技法を長編に活かし、宇宙への憧憬と未知との接触を詩情豊かに描いたジュブナイル。",
+    links: {
+      amazon: "https://amzn.to/3Yx63Qm",
+    },
+  },
+  "last-and-first-men": {
+    id: "last-and-first-men",
+    title: "Last and First Men",
+    titleJP: "最後にして最初の人類",
+    author: "オラフ・ステープルドン",
+    year: 1930,
+    asin: "B0DGXB4GC9",
+    description:
+      "20億年後の未来に生きる『第十八期人類』から現在の人類への通信。地球、金星、海王星へと舞台を移しながら、18世代にわたる人類の進化と没落を壮絶なスケールで描く。アート・C・クラークや手塚治虫にも多大な影響を与えた、SF史上最も壮大な未来史にしてポストヒューマン・テーマの原典。",
+    links: {
+      amazon: "https://amzn.to/3Yq5KH9",
+    },
+  },
 };
 
 // カテゴリとサブジャンルデータ
@@ -3195,10 +3286,15 @@ export const categories = [
         detail:
           "人間や先進的な異星種族が、遺伝子操作や教育を通じて、本来は知性を持たない動物（チンパンジーやイルカなど）に人間と同等の知性を与える『知性化（Uplift）』をテーマとする。デイヴィッド・ブリンのように銀河規模の主従関係や階級制度を描く作品がある一方で、先駆的なステープルドンの『シリウス』のように、人間以上の精神を持ちながら動物の身体に閉じ込められた個体の、救いようのない孤独と疎外を描く作品も多い。知性を与える行為を『進化の贈与』としてではなく、野生の平穏を奪い、どちらの世界にも属せない中位的な存在へと変貌させる『理性の呪い』として描く、実存的な問いを含んだジャンルである。",
         bookIds: [
-          "sirius",
-          "sundiver",
-          "scanners-live-in-vain",
           "frankenstein",
+          "the-island-of-doctor-moreau",
+          "sirius",
+          "scanners-live-in-vain",
+          "city",
+          "flowers-for-algernon",
+          "sundiver",
+          "child-of-time",
+          "children-of-time",
         ],
       },
       {
@@ -3209,9 +3305,12 @@ export const categories = [
         detail:
           "少年少女を主人公とし、冒険を通じた精神的自立を描く。単に大人向けを平易にした入門用SFではなく、大人の社会の矛盾や倫理的なジレンマに直面する若者の葛藤を、研ぎ澄まされた叙述で描く点が特徴。ハインラインらが築いた系譜は、ポジティブな未来観だけでなく、過酷な環境下での個人の決断や責任を問い直す教育的な厳格さも持ち合わせており、現代のYA（ヤングアダルト）SFにおける『世界の変革』というテーマにも深く継承されている。",
         bookIds: [
-          "enders-game",
-          "tunnel-in-the-sky",
+          "have-space-suit-will-travel",
           "r-is-for-rocket",
+          "enders-game",
+          "toki-wo-kakeru-shoujo",
+          "nazo-no-tenkousei",
+          "uchuu-no-koe",
           "ginga-fuuhansou",
         ],
       },
@@ -3223,10 +3322,12 @@ export const categories = [
         detail:
           "テクノロジーや進化の果てに、現在の人類の定義を超越した存在『ポストヒューマン』へと至る過程を描く。単なる身体能力の拡張（トランスヒューマニズム）にとどまらず、個我や感情といった『人間的な属性』そのものを効率化や進化のために廃棄・解体した、理解不能な他者へと変貌する様が描かれる。クラークの精神的昇華から、計算資源を最適化するために自我を分散させるデジタル知性まで、そのアプローチは多岐にわたる。それは希望ある進化というより、現生人類の価値観が完全に通用しなくなる『種の終焉』を突きつける、SFの究極的なテーマの一つである。",
         bookIds: [
+          "last-and-first-men",
           "childhoods-end",
+          "hardfought-tangents",
           "blood-music",
           "beggars-in-spain",
-          "hardfought-tangents",
+          "accelerando",
         ],
       },
 
