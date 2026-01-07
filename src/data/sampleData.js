@@ -1521,19 +1521,6 @@ export const books = {
       amazon: "https://amzn.to/3YrdAQO",
     },
   },
-  "hateshinaki-nagare-no-hate-ni": {
-    id: "hateshinaki-nagare-no-hate-ni",
-    title: "Hateshinaki Nagare no Hate ni",
-    titleJP: "果てしなき流れの果てに",
-    author: "小林泰三",
-    year: 1999,
-    asin: "B00W2ZRC5W",
-    description:
-      "時間遡行装置によって過去へと送り込まれた調査員。しかし待ち受けていたのは、パラドックスと因果律の崩壊、そして想像を絶する時間の罠だった。論理の極限を描くタイムトラベルSFの傑作。",
-    links: {
-      amazon: "https://amzn.to/3Z0t5PG",
-    },
-  },
   adobado: {
     id: "adobado",
     title: "Adobado",
@@ -2339,6 +2326,58 @@ export const books = {
       amazon: "https://amzn.to/3L73LEC",
     },
   },
+  "the-world-of-null-a": {
+    id: "the-world-of-null-a",
+    title: "The World of Null-A",
+    titleJP: "非Aの世界",
+    author: "A・E・ヴァン・ヴォークト",
+    year: 1945,
+    asin: "4488609139",
+    description:
+      "自身の記憶に疑念を抱いたギルバート・ゴセインが、銀河規模の陰謀に巻き込まれる。「非アリストテレス的論理（非A）」を軸に、複雑怪奇なプロットが展開するバロック的SFの極致。",
+    links: {
+      amazon: "https://amzn.to/4aHCxPc",
+    },
+  },
+  "the-paradox-men": {
+    id: "the-paradox-men",
+    title: "The Paradox Men",
+    titleJP: "パラドックス・メン",
+    author: "チャールズ・L・ハーネス",
+    year: 1949,
+    asin: "4801920047",
+    description:
+      "2177年のアメリカ帝国。記憶を失った男アラールが、秘密組織「盗賊協会」と共に、時空の秘密を巡る壮大な謎に挑む。ワイドスクリーン・バロックの命名の起点となった記念碑的傑作。",
+    links: {
+      amazon: "https://amzn.to/44YFF5F",
+    },
+  },
+  "the-demolished-man": {
+    id: "the-demolished-man",
+    title: "The Demolished Man",
+    titleJP: "破壊された男",
+    author: "アルフレッド・ベスター",
+    year: 1953,
+    asin: "4150121117",
+    description:
+      "テレパスが一般化した24世紀。完全犯罪を企てる大企業の社長と、それを追うエスパー総監。心理学的ギミックと独創的な文体が融合した、ヒューゴー賞第1回受賞の傑作クライムSF。",
+    links: {
+      amazon: "https://amzn.to/3Z2cXNC",
+    },
+  },
+  "hateshinaki-nagare-no-hate-ni": {
+    id: "hateshinaki-nagare-no-hate-ni",
+    title: "At the End of the Endless Stream",
+    titleJP: "果しなき流れの果てに",
+    author: "小松左京",
+    year: 1966,
+    asin: "B00W2ZRC5W",
+    description:
+      "白亜紀の地層から発見された砂時計。それを発端に、数十億年の時間と数千億光年の空間、無数の並行宇宙を舞台とした人類の進化を巡る壮絶な抗争が幕を開ける。日本SF史に燦然と輝く金字塔。",
+    links: {
+      amazon: "https://amzn.to/4jqBUvw",
+    },
+  },
 };
 
 // カテゴリとサブジャンルデータ
@@ -2718,9 +2757,14 @@ export const categories = [
         detail:
           "ブライアン・オールディスが1940～50年代の特定のSF作品群（A・E・ヴァン・ヴォークトやアルフレッド・ベスターら）を指して命名した批評用語。従来のスペースオペラの枠組みを使いながら、過剰なまでのアイデアと複雑さを詰め込んだ作風を指す。宇宙全体、あるいは少なくとも太陽系を舞台とし、時空を縦横無尽に行き来するような超大スケールが特徴だ。大量のアイデアや奇抜な設定が詰め込まれ、荒唐無稽で複雑怪奇なプロットが展開する。荒唐無稽に見える設定であっても、作中の疑似科学的論理には厳密に従って展開されるのが特徴で、その知的遊戯と疾走感が読者に『めまい』を感じさせる。",
         bookIds: [
+          "the-world-of-null-a",
+          "the-paradox-men",
+          "the-demolished-man",
           "the-stars-my-destination",
-          "the-garments-of-caean",
           "empire-of-the-atom",
+          "the-garments-of-caean",
+          "hateshinaki-nagare-no-hate-ni",
+          "hybrid-child",
         ],
       },
       {
