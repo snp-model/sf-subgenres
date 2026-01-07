@@ -2495,6 +2495,149 @@ export const books = {
       amazon: "https://amzn.to/4sv298o",
     },
   },
+  "toki-wo-kakeru-shoujo": {
+    id: "toki-wo-kakeru-shoujo",
+    title: "The Girl Who Leapt Through Time",
+    titleJP: "時をかける少女",
+    author: "筒井康隆",
+    year: 1965,
+    asin: "B009GPM8OQ",
+    description:
+      "放課後の実験室で甘い香りを嗅いだ少女・和子は、時間を跳躍する「タイムリープ」の能力を得る。戸惑いながらも過去と未来を行き来する彼女が辿り着いた、あまりに切ない真実。日本SF史に燦然と輝く、青春タイムトラベルの金字塔。",
+    links: {
+      amazon: "https://amzn.to/4qz6d5y",
+    },
+  },
+  replay: {
+    id: "replay",
+    title: "Replay",
+    titleJP: "リプレイ",
+    author: "ケン・グリムウッド",
+    year: 1986,
+    asin: "4102325018",
+    description:
+      "43歳で急死したジェフは、気づくと18歳の自分に戻っていた。記憶を保持したまま繰り返される「リプレイ」の人生。富を築き、異なる道を選び、愛を求め、彼は果てしない時間の円環の中で、人生の真の価値を見出していく。",
+    links: {
+      amazon: "https://amzn.to/49O22wj",
+    },
+  },
+  "this-is-how-you-lose-the-time-war": {
+    id: "this-is-how-you-lose-the-time-war",
+    title: "This Is How You Lose the Time War",
+    titleJP: "こうしてあなたたちは時間戦争に負ける",
+    author: "アマル・エル＝モフタール / マックス・グラッドストーン",
+    year: 2019,
+    asin: "B096ZW2SPN",
+    description:
+      "対立する二大勢力の凄腕工作員、レッドとブルー。時間線の覇権を争う戦場で交わされる、禁断の手紙。敵対関係から敬意、そして愛へと変わるふたりの関係を描いた、ヒューゴー賞・ネビュラ賞ほか4冠受賞の抒情的時間SF。",
+    links: {
+      amazon: "https://amzn.to/452NTcR",
+    },
+  },
+  "illegal-alien": {
+    id: "illegal-alien",
+    title: "Illegal Alien",
+    titleJP: "イリーガル・エイリアン",
+    author: "ロバート・J・ソウヤー",
+    year: 1997,
+    asin: "4150114188",
+    description:
+      "地球に飛来した友好的なエイリアンが、殺人事件の容疑者として逮捕される。前代未聞のエイリアン裁判を通じて、異文化間の理解と司法の正義を問う、SF法廷ミステリーの傑作。",
+    links: {
+      amazon: "https://amzn.to/4szf1KQ",
+    },
+  },
+  "chikyu-tonan": {
+    id: "chikyu-tonan",
+    title: "Chikyu Tonan",
+    titleJP: "地球盗難",
+    author: "海野十三",
+    year: 1946,
+    asin: "B009IY0XHE",
+    description:
+      "山奥の村で発生した奇怪な神隠し事件。その裏には地球規模の壮大な陰謀が隠されていた。日本SFの父・海野十三が、科学的想像力と探偵趣味を融合させた、戦前科学小説の代表作。",
+    links: {
+      amazon: "https://amzn.to/3N75OZT",
+    },
+  },
+  "nana-kai-shinda-otoko": {
+    id: "nana-kai-shinda-otoko",
+    title: "The Little Girl Who Was Seven Times Dead",
+    titleJP: "七回死んだ男",
+    author: "西澤保彦",
+    year: 1995,
+    asin: "B0759L8YNV",
+    description:
+      "同じ一日が9回繰り返される特殊体質の少年。彼は祖父の殺害を阻止するため、タイムループを駆使して犯人探しに奔走する。SFの設定を本格ミステリーのロジックに昇華させた、パズラーの金字塔。",
+    links: {
+      amazon: "https://amzn.to/49bmsQL",
+    },
+  },
+  "untouched-by-human-hands": {
+    id: "untouched-by-human-hands",
+    title: "Untouched by Human Hands",
+    titleJP: "人間の手がまだ触れない",
+    author: "ロバート・シェクリイ",
+    year: 1954,
+    asin: "4150115974",
+    description:
+      "「怪物」「幸福の代償」「時間に挟まれた男」など、機知に富んだアイデアとブラックな風刺、シュールなユーモアが横溢する、鬼才シェクリイのデビュー短編集。SFという手法を用いた知的で軽妙な文明批評の傑作選。",
+    links: {
+      amazon: "https://amzn.to/49ogWce",
+    },
+  },
+  "salmonella-men-on-planet-porno": {
+    id: "salmonella-men-on-planet-porno",
+    title: "Salmonella Men on Planet Porno",
+    titleJP: "ポルノ惑星のサルモネラ人間",
+    author: "筒井康隆",
+    year: 1979,
+    asin: "4101171475",
+    description:
+      "奇怪な動植物が跋扈する「ポルノ惑星」での学術調査を描く表題作ほか、言葉遊び、インチキ科学、グロテスクな幻想が全開。常識を爆砕するハチャメチャな世界観で、不条理SFの極北を突き進む自選傑作集。",
+    links: {
+      amazon: "https://amzn.to/4bi9rWQ",
+    },
+  },
+  kamigari: {
+    id: "kamigari",
+    title: "God Hunting",
+    titleJP: "神狩り",
+    author: "山田正紀",
+    year: 1976,
+    asin: "B00NH9AVZK",
+    description:
+      "古代文字の解明を通じて、人類には理解不能な「神」の悪意に満ちた意志が露わになる。天才情報工学者と、人類を家畜のごとく扱う神との知的な死闘。山田正紀の衝撃的デビュー作にして、日本SF史に残る傑作。",
+    links: {
+      amazon: "https://amzn.to/4q72egN",
+    },
+  },
+  "taiyo-no-sandatsusha": {
+    id: "taiyo-no-sandatsusha",
+    title: "Usurper of the Sun",
+    titleJP: "太陽の簒奪者",
+    author: "野尻抱介",
+    year: 2002,
+    asin: "B00CIMDKDC",
+    description:
+      "太陽を囲む巨大なリングの出現により、地球の気温は激減し人類は滅亡の危機に瀕する。異星知性への切ない憧れと、種を守るための破壊工作。孤独な女性科学者の視点から描かれる、壮大かつ情緒的なファーストコンタクトSF。",
+    links: {
+      amazon: "https://amzn.to/45HZ373",
+    },
+  },
+  "chino-shinshoku": {
+    id: "chino-shinshoku",
+    title: "Intelligence Erosion",
+    titleJP: "知能侵蝕",
+    author: "林譲治",
+    year: 2024,
+    asin: "B0CSJYXBFV",
+    description:
+      "ミリマシンを操り人間に擬態する未知の知性「オビック」。軌道上からの不気味な侵略が続く中、人類社会は気づかぬうちに根本から書き換えられていく。現代日本の安全保障と科学的思考を背景に描く、最新のコンタクトSF。",
+    links: {
+      amazon: "https://amzn.to/3NkkgO9",
+    },
+  },
 };
 
 // カテゴリとサブジャンルデータ
@@ -2962,13 +3105,16 @@ export const categories = [
           "過去や未来への時間移動、特定の時間を繰り返す『タイムループ』を扱うサブジャンルである。最も有名なのは『親殺しのパラドックス』だが、これは主に身体ごと移動する物理的タイムトラベルにおける課題である。一方で、意識や記憶のみが過去の自分に転送される『タイムリープ』や、特定の時間を繰り返す『タイムループ』では、物理的な矛盾よりも、記憶の蓄積による運命の打開や、繰り返される悲劇に対する精神的負荷が物語の焦点となる。解決策としては、歴史不変説、並行宇宙（多世界解釈）などが提示されてきた。",
         bookIds: [
           "the-time-machine",
-          "doomsday-book",
           "the-door-into-summer",
-          "thrice-upon-a-time",
-          "the-time-ships",
           "slaughterhouse-five",
-          "minus-zero",
+          "thrice-upon-a-time",
+          "replay",
+          "doomsday-book",
+          "the-time-ships",
+          "this-is-how-you-lose-the-time-war",
+          "toki-wo-kakeru-shoujo",
           "hateshinaki-nagare-no-hate-ni",
+          "minus-zero",
         ],
       },
       {
@@ -2979,11 +3125,14 @@ export const categories = [
         detail:
           "SF的設定や未来技術を謎解きの不可欠な要素として取り入れたミステリーのサブジャンルである。ロボット、クローン、AI、仮想空間、時間操作といった要素が犯行手口やトリックの中心となる。アイザック・アシモフはSFミステリーの先駆者であり、『ロボット工学三原則』という絶対的なルールを物語に導入した。彼はロボットが暴走するのではなく、三原則という論理的な制約が存在する中で、いかにして人間が不可能犯罪を成し遂げたかという、厳密な論理パズルとしてのSFミステリーを確立した。超科学が安易な解決策とならないよう、物語内で提示されたSF的ルールの範囲内で、論理に基づいた推理によって謎が解かれる。",
         bookIds: [
-          "inherit-the-stars",
           "the-caves-of-steel",
+          "inherit-the-stars",
           "needle",
-          "the-city-the-city",
           "the-terminal-experiment",
+          "illegal-alien",
+          "the-city-the-city",
+          "chikyu-tonan",
+          "nana-kai-shinda-otoko",
         ],
       },
 
@@ -2994,7 +3143,12 @@ export const categories = [
         description: "不可知の恐怖を唯物論的に解剖する",
         detail:
           "1990年代後半から2000年代にかけて登場した、SF、ホラー、ダークファンタジーを融合させた実験的な潮流である。伝統的なファンタジーの理想化された世界を拒絶し、グロテスクで複雑な世界を構築する。最大の特徴は、魔法や怪物といったファンタジー的要素を『不可知の恐怖』としてではなく、解明可能な生物学や社会システムの一部として扱う『唯物論的』なアプローチにある。異質な存在が日常に溶け込み、労働や政治の問題として処理される様を描く点で、ファンタジーの世界観にハードSFや社会派小説のロジックを持ち込んだ潮流と言える。",
-        bookIds: ["perdido-street-station", "annihilation", "viriconium"],
+        bookIds: [
+          "perdido-street-station",
+          "annihilation",
+          "viriconium",
+          "sisyphean",
+        ],
       },
 
       {
@@ -3006,10 +3160,12 @@ export const categories = [
           "SFの設定やガジェットを、ジョークや風刺、あるいはナンセンスな不条理劇として扱うサブジャンルである。宇宙旅行や未来技術などのテーマを逆手に取り、官僚制度の批判や人間社会の愚かさを滑稽に描き出す。一方で、カフカや安部公房に通じるシリアスな『不条理SF』の側面も持ち合わせており、こちらは笑いではなく、世界から意味が失われる恐怖や徒労感を描く。共通するのは、SFという『異化』の手法を用いて、常識という名の現実がいかに脆く、理不尽なものであるかを暴き出す点にある。",
         bookIds: [
           "the-hitchhikers-guide-to-the-galaxy",
-          "the-androids-dream",
           "the-sirens-of-titan",
-          "ningen-sokkuri",
+          "untouched-by-human-hands",
+          "the-androids-dream",
           "the-hole-in-the-corner",
+          "ningen-sokkuri",
+          "salmonella-men-on-planet-porno",
         ],
       },
       {
@@ -3020,12 +3176,15 @@ export const categories = [
         detail:
           "人類と地球外知的生命体との初めての出会いとその記憶を描く、SFの最も古典的かつ重要なテーマの一つである。出会いによって生じる文化的な衝撃、言語や思考様式の違いによる相互理解の困難さ、そして接触が人類の価値観や社会に与える不可逆的な影響を探求する。単なる宇宙戦争（インベージョン）の前段階としてではなく、数学、言語、音楽などを駆使して未知の知性といかに意思疎通を図るかという『対話のプロセス』そのものを主題とする。時には、スタニスワフ・レムの作品のように、人間とは根本的に異なる他者との『相互理解の不可能性』を突きつけ、人間中心主義的な知性観を揺さぶる作品もこのジャンルの到達点とされる『人間とは何か』という根源的な問いを突きつける。",
         bookIds: [
+          "childhoods-end",
           "the-only-neat-thing-to-do",
           "the-three-body-problem",
           "project-hail-mary",
           "story-of-your-life",
           "contact",
-          "the-great-silence",
+          "kamigari",
+          "taiyo-no-sandatsusha",
+          "chino-shinshoku",
         ],
       },
       {
