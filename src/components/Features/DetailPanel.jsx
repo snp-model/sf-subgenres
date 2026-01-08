@@ -91,14 +91,7 @@ const DetailPanel = ({ genre, isOpen, onClose }) => {
       <div className={`detail-panel ${isOpen ? "is-open" : ""}`}>
         <div className="panel-header">
           <div>
-            <h2
-              style={{
-                fontFamily: "var(--font-family-display)",
-                fontSize: "var(--font-size-2xl)",
-              }}
-            >
-              {genre.nameJP}
-            </h2>
+            <h2 className="genre-name-jp">{genre.nameJP}</h2>
             <div
               style={{
                 color: "var(--color-text-secondary)",

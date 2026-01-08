@@ -222,3 +222,11 @@
     grid-template-columns: 1fr;
   }
 }
+
+.genre-name-jp {
+  font-family: var(--font-family-display);
+  font-size: var(--font-size-2xl);
+  color: var(--color-text-primary);
+  letter-spacing: 0.05em;
+  margin-bottom: 2px;
+}

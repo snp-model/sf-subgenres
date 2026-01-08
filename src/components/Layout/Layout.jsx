@@ -1,37 +1,35 @@
-import React from 'react';
-import './Layout.css';
+import React from "react";
+import "./Layout.css";
 
 const Header = () => (
-  <header style={{ 
-    padding: 'var(--spacing-lg) 0', 
-    borderBottom: '1px solid var(--color-border-grid)',
-    marginBottom: 'var(--spacing-xl)',
-    display: 'flex',
-    justifyContent: 'space-between',
-    alignItems: 'center'
-  }}>
+  <header
+    style={{
+      padding: "var(--spacing-lg) 0",
+      borderBottom: "1px solid var(--color-border-grid)",
+      marginBottom: "var(--spacing-xl)",
+      display: "flex",
+      justifyContent: "space-between",
+      alignItems: "center",
+    }}
+  >
     <div>
-      <h1 style={{ 
-        fontFamily: 'var(--font-family-display)', 
-        fontSize: 'var(--font-size-2xl)',
-        letterSpacing: '0.05em'
-      }}>
-        SFサブジャンル
-      </h1>
+      <h1 className="main-title">SFサブジャンルまとめ</h1>
     </div>
   </header>
 );
 
 const Footer = () => (
-  <footer style={{
-    marginTop: 'var(--spacing-2xl)',
-    padding: 'var(--spacing-xl) 0',
-    borderTop: '1px solid var(--color-border-grid)',
-    color: 'var(--color-text-secondary)',
-    fontSize: 'var(--font-size-xs)',
-    textAlign: 'center',
-    lineHeight: 1.6
-  }}>
+  <footer
+    style={{
+      marginTop: "var(--spacing-2xl)",
+      padding: "var(--spacing-xl) 0",
+      borderTop: "1px solid var(--color-border-grid)",
+      color: "var(--color-text-secondary)",
+      fontSize: "var(--font-size-xs)",
+      textAlign: "center",
+      lineHeight: 1.6,
+    }}
+  >
     <p>© 2026 snp</p>
     <p>Amazonのアソシエイトとして、適格販売により収入を得ています。</p>
   </footer>
