@@ -3028,19 +3028,6 @@ export const books = {
       amazon: "https://amzn.to/3NaUj3F",
     },
   },
-  "professor-dowells-head": {
-    id: "professor-dowells-head",
-    title: "Professor Dowell's Head",
-    titleJP: "ドウエル教授の首",
-    author: "アレクサンドル・ベリャーエフ",
-    year: 1925,
-    asin: "448863401X",
-    description:
-      "死したはずの天才科学者ドウエル教授。その切断された頭部が、特殊な装置によって生命を維持され、思考し続けるという驚愕の事態が発生する。意識と肉体の分離、科学者の倫理、そして生命の尊厳を、独自の科学的想像力で冷徹かつサスペンスフルに描き出した傑作。",
-    links: {
-      amazon: "https://amzn.to/4pxUiUF",
-    },
-  },
   catchworld: {
     id: "catchworld",
     title: "Catchworld",
@@ -3210,6 +3197,123 @@ export const books = {
       amazon: "https://amzn.to/4qdfssH",
     },
   },
+  bloodchild: {
+    id: "bloodchild",
+    title: "Bloodchild",
+    titleJP: "血を分けた子ども",
+    author: "オクテイヴィア・E・バトラー",
+    year: 1984,
+    asin: "B0BD4L4JM3",
+    description:
+      "異星の巨大な昆虫型種族と共生し、その卵を宿す役割を負う「テリク」の少年ガン。依存と愛情、そして種を超えた凄惨な共生関係の深淵を描き出し、ヒューゴー賞・ネビュラ賞をダブル受賞した、生命と倫理を問う究極の傑作。",
+    links: {
+      amazon: "https://amzn.to/452mE2h",
+    },
+  },
+  "fukkatsu-no-hi": {
+    id: "fukkatsu-no-hi",
+    title: "Fukkatsu no Hi",
+    titleJP: "復活の日",
+    author: "小松左京",
+    year: 1964,
+    asin: "B07GJKX5ZD",
+    description:
+      "核兵器を上回る致死性を持つ生物兵器「MM-88」の流出により、南極観測隊を除く全人類が絶滅した世界。過酷な環境下で生き残った人々の葛藤と、地球規模の危機に立ち向かう科学的精神を圧倒的なスケールで描く、日本SFの不朽の金字塔。",
+    links: {
+      amazon: "https://amzn.to/4sBlFAg",
+    },
+  },
+  "tenshi-no-saezuri": {
+    id: "tenshi-no-saezuri",
+    title: "Tenshi no Saezuri",
+    titleJP: "天使の囀り",
+    author: "貴志祐介",
+    year: 1998,
+    asin: "B00AIITE74",
+    description:
+      "アマゾンの調査から帰還した隊員たちが、異様な死を遂げていく。脳内に寄生し、「死」への恐怖を「快楽」へと塗り替えてしまう未知の病原体。その正体と、生命の根源的な生存戦略の恐怖を冷徹に描き出した、SF的想像力溢れるバイオ・ホラーの傑作。",
+    links: {
+      amazon: "https://amzn.to/4jzlIIA",
+    },
+  },
+  "parasite-eve": {
+    id: "parasite-eve",
+    title: "Parasite Eve",
+    titleJP: "パラサイト・イヴ",
+    author: "瀬名秀明",
+    year: 1995,
+    asin: "B0099FE77Y",
+    description:
+      "自律性を持ち、反乱を開始したミトコンドリア。生化学と遺伝学の緻密な描写を背景に、愛する妻を失った科学者が、蘇らせようとした細胞が招く破滅的なバイオ・サスペンス。生命の主導権を巡る、ゲノム・レベルの壮絶な戦いを描く衝撃の処女作。",
+    links: {
+      amazon: "https://amzn.to/4bkendO",
+    },
+  },
+  schismatrix: {
+    id: "schismatrix",
+    title: "Schismatrix",
+    titleJP: "スキズマトリックス",
+    author: "ブルース・スターリング",
+    year: 1985,
+    asin: "4150107513",
+    description:
+      "身体改造を推進する「工作者」と、遺伝子改変を標榜する「生機者」。太陽系全体を舞台に、人類の定義を書き換え続ける二大陣営の数世紀にわたる抗争と変容を、圧倒的なビジョンで描く。ポスト・ヒューマンの極北を指し示した、サイバーパンクの深化を象徴する記念碑的傑作。",
+    links: {
+      amazon: "https://amzn.to/4pz4CvU",
+    },
+  },
+  "genshou-kikai": {
+    id: "genshou-kikai",
+    title: "Genshou Kikai",
+    titleJP: "幻象機械",
+    author: "山田正紀",
+    year: 1986,
+    asin: "51eRGbqRACL",
+    description:
+      "情報ネットワークが都市を覆い、現実と虚構の境界が消失した近未来。情報の奔流の中で自己を喪失していく人々と、その背後に潜む巨大なシステムの影を、幻惑的な筆致で描き出す。日本型サイバーパンクの先駆けであり、認識の変容を過激に追求した山田正紀の野心作。",
+    links: {
+      amazon: "https://amzn.to/4sxEMLc",
+    },
+  },
+  "venus-city": {
+    id: "venus-city",
+    title: "Venus City",
+    titleJP: "ヴィーナス・シティ",
+    author: "柾悟郎",
+    year: 1992,
+    asin: "4150305366",
+    description:
+      "高度に管理された電子都市ヴィーナス・シティ。情報の整合性が美徳とされる街で、論理の裂け目から立ち現れる「異物」と「愛」の物語。サイバーパンクが描いた技術的ディストピアを超え、情報のノイズの中に新たな倫理と感性を見出す、叙情的かつ知的な傑作。",
+    links: {
+      amazon: "https://amzn.to/4qOjS9k",
+    },
+  },
+  "perrault-the-cat": {
+    id: "perrault-the-cat",
+    title: "Perrault the Cat Zen Shigoto",
+    titleJP: "ペロー・ザ・キャット全仕事",
+    author: "吉川良太郎",
+    year: 2001,
+    asin: "B08H4QZ6BV",
+    description:
+      "ネット上のトラブルを解決する万能エージェント「ペロー・ザ・キャット」。情報の混沌、電子の迷宮、そして加速する資本の暴力が渦巻く極東の未来都市で、虚無を抱えながらもスタイリッシュに跳ねるキャットの活躍を描く。90年代サイバーパンクの粋を集めた傑作短編集。",
+    links: {
+      amazon: "https://amzn.to/4aQcF3K",
+    },
+  },
+  kikokugai: {
+    id: "kikokugai",
+    title: "Kikokugai",
+    titleJP: "鬼哭街",
+    author: "虚淵玄",
+    year: 2013,
+    asin: "4061389556",
+    description:
+      "サイバーパンクと武侠劇が融合した、復讐の残酷劇。サイボーグ技術が浸透した上海を舞台に、魂を分断された妹を救うため、剣鬼・孔濤羅が義体の猛者たちを斬り進む。ハードボイルドな文体と絶望的な愛が交錯する、ニトロプラスが放つ衝撃の「サイバーパンク武侠」を小説化。",
+    links: {
+      amazon: "https://amzn.to/49Bgs2K",
+    },
+  },
 };
 
 // カテゴリとサブジャンルデータ
@@ -3224,14 +3328,14 @@ export const subgenres = [
     bookIds: [
       "the-martian",
       "the-fountains-of-paradise",
-      "red-mars",
       "seveneves",
+      "red-mars",
+      "spin",
       "the-sixth-continent",
       "orbital-cloud",
       "koukuu-uchuugun-shi",
       "sayonara-jupiter",
       "ichioku-nen-no-telescope",
-      "spin",
     ],
     links: {
       amazon: "",
@@ -3268,11 +3372,15 @@ export const subgenres = [
     bookIds: [
       "blood-music",
       "the-andromeda-strain",
-      "oceanic",
-      "reasons-to-be-cheerful",
       "child-of-time",
+      "bloodchild",
+      "reasons-to-be-cheerful",
+      "oceanic",
       "darwins-radio",
-      "professor-dowells-head",
+      "fukkatsu-no-hi",
+      "parasite-eve",
+      "tenshi-no-saezuri",
+      "karyu-no-miya",
     ],
   },
   {
@@ -3333,9 +3441,9 @@ export const subgenres = [
       "project-hail-mary",
       "story-of-your-life",
       "contact",
+      "eifelheim",
       "kamigari",
       "taiyo-no-sandatsusha",
-      "eifelheim",
       "chino-shinshoku",
     ],
   },
@@ -3346,15 +3454,20 @@ export const subgenres = [
     description:
       "高度なネット社会の陰で、科学技術に振り回されながらも抗う人々の物語",
     detail:
-      "サイバーパンクは1980年代、高度情報化と巨大資本が結びついたディストピア的未来を描く文学運動として勃興した。その核心は「ハイテク・ローライフ」に集約される。情報ネットワークへの没入や身体の機械化による人間性の変容、そして国家を凌駕する企業の支配がもたらす虚無的な美学が特徴である。欧米ではウィリアム・ギブスンがその輪郭を決定づけ、日本では山田正紀や正木五郎らが独自の感性で日本型ディストピアを構築した。本作法は、後の「ポストサイバーパンク」とは峻別されるべきものである。後者がテクノロジーを社会基盤として肯定的に受容し、体制内での生の在り方を模索するのに対し、純粋なサイバーパンクは、システムの周縁で抗う個人の疎外感と、テクノロジーがもたらす「人間という定義の崩壊」を徹底して描写する。それは希望や調和ではなく、加速するシステムとの摩擦に宿る、刹那的でニヒリスティックな抵抗の文学であった。",
+      "サイバーパンクは1980年代、高度情報化と巨大資本が結びついたディストピア的未来を描く文学運動として勃興した。その核心は「ハイテク・ローライフ」に集約される。情報ネットワークへの没入や身体の機械化による人間性の変容、そして国家を凌駕する企業の支配がもたらす虚無的な美学が特徴である。欧米ではウィリアム・ギブスンがその輪郭を決定づけ、日本では山田正紀や柾悟郎らが独自の感性で日本型ディストピアを構築した。本作法は、後の「ポストサイバーパンク」とは峻別されるべきものである。後者がテクノロジーを社会基盤として肯定的に受容し、体制内での生の在り方を模索するのに対し、純粋なサイバーパンクは、システムの周縁で抗う個人の疎外感と、テクノロジーがもたらす「人間という定義の崩壊」を徹底して描写する。それは希望や調和ではなく、加速するシステムとの摩擦に宿る、刹那的でニヒリスティックな抵抗の文学であった。",
     bookIds: [
       "neuromancer",
+      "schismatrix",
       "when-gravity-fails",
       "snow-crash",
       "altered-carbon",
       "software",
       "do-androids-dream-of-electric-sheep",
       "accelerando",
+      "genshou-kikai",
+      "perrault-the-cat",
+      "venus-city",
+      "kikokugai",
     ],
   },
   {
@@ -3714,6 +3827,7 @@ export const subgenres = [
       "the-day-of-the-triffids",
       "annihilation",
       "semiosis",
+      "the-garments-of-caean",
     ],
   },
   {
