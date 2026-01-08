@@ -3002,6 +3002,214 @@ export const books = {
       amazon: "https://amzn.to/49KUnzJ",
     },
   },
+  "october-the-first-is-too-late": {
+    id: "october-the-first-is-too-late",
+    title: "October the First is Too Late",
+    titleJP: "10月1日では遅すぎる",
+    author: "フレッド・ホイル",
+    year: 1966,
+    asin: "4150101949",
+    description:
+      "「すべての時間は等しく現実に存在している」という物理学者の思考実験を物語化。地球上の各地域が異なる時代に断絶され、現代、中世、遠未来が地表に混在する怪現象が発生する。高名な天文学者ホイルが、音楽記号を用いた独創的な構成で時間の本質と意識の在り方を問い直す、思索に満ちた異色作。",
+    links: {
+      amazon: "https://amzn.to/4sD1G4b",
+    },
+  },
+  bewilderment: {
+    id: "bewilderment",
+    title: "Bewilderment",
+    titleJP: "惑う星",
+    author: "リチャード・パワーズ",
+    year: 2021,
+    asin: "4105058770",
+    description:
+      "地球環境の崩壊と第6次大絶滅が迫る近未来、死別した妻の面影を追う天体生物学者の父と、共感能力が鋭すぎる9歳の息子。最先端の神経フィードバック技術を通じて他者の意識を追体験し、滅びゆく世界の美しさと絶望を共有する親子の絆を描く。宇宙への想像力と地球生命への慈しみが響き合う、静謐で壮大な物語。",
+    links: {
+      amazon: "https://amzn.to/3NaUj3F",
+    },
+  },
+  "professor-dowells-head": {
+    id: "professor-dowells-head",
+    title: "Professor Dowell's Head",
+    titleJP: "ドウエル教授の首",
+    author: "アレクサンドル・ベリャーエフ",
+    year: 1925,
+    asin: "448863401X",
+    description:
+      "死したはずの天才科学者ドウエル教授。その切断された頭部が、特殊な装置によって生命を維持され、思考し続けるという驚愕の事態が発生する。意識と肉体の分離、科学者の倫理、そして生命の尊厳を、独自の科学的想像力で冷徹かつサスペンスフルに描き出した傑作。",
+    links: {
+      amazon: "https://amzn.to/4pxUiUF",
+    },
+  },
+  catchworld: {
+    id: "catchworld",
+    title: "Catchworld",
+    titleJP: "キャッチワールド",
+    author: "クリス・ボイス",
+    year: 1975,
+    asin: "415010431X",
+    description:
+      "異星生命体への報復ミッションとして旅立った宇宙船。だが、真の権力は搭乗員ではなく、彼らを「貨物」と見なす人工知能（MI）が握っていた。夢を通じた異種族間通信、神話的存在との遭遇、そして意識のデジタル化。凄まじい密度で畳み掛けるアイデアと、予測不能な展開が読む者を圧倒する、知的眩暈の極致。",
+    links: {
+      amazon: "https://amzn.to/3LvjahU",
+    },
+  },
+  spin: {
+    id: "spin",
+    title: "Spin",
+    titleJP: "時間封鎖",
+    author: "ロバート・チャールズ・ウィルスン",
+    year: 2005,
+    asin: "4488706037",
+    description:
+      "地球全体が謎の膜に包まれ、外宇宙から完全に隔離された。地球の1年が外宇宙の1億年に相当するという極端な時間の傾斜の中、数十年後に迫る太陽の膨張と地球の終焉。絶望的な運命を前に、科学的探求に身を投じる者、信仰に逃避する者、そしてただ愛を求める者たちの人生が鮮やかに交錯する、壮大な物語。",
+    links: {
+      amazon: "https://amzn.to/3Z746Kw",
+    },
+  },
+  "the-dervish-house": {
+    id: "the-dervish-house",
+    title: "The Dervish House",
+    titleJP: "旋舞の千年都市",
+    author: "イアン・マクドナルド",
+    year: 2010,
+    asin: "B01G8MC2HW",
+    description:
+      "2027年のイスタンブール。ナノテクノロジーがインフラとして社会の深部まで浸透した近未来を舞台に、あるテロ事件をきっかけに交錯する多様な人々の運命を描く。東洋と西洋、宗教的情熱と最先端技術が混じり合う千年都市を背景に、緻密なガジェット描写と重層的な人間ドラマが織りなす、至近未来のリアルなヴィジョン。",
+    links: {
+      amazon: "https://amzn.to/3L8kE1H",
+    },
+  },
+  eifelheim: {
+    id: "eifelheim",
+    title: "Eifelheim",
+    titleJP: "異星人の郷",
+    author: "マイクル・フリン",
+    year: 2006,
+    asin: "4488699014",
+    description:
+      "1348年、黒死病の影が忍び寄るドイツの小村に、異形の知的生命体が乗る宇宙船が墜落した。中世の神学と倫理観を持つ司祭 Dietrich は、彼らを「悪魔」ではなく「神の創造物」として理解しようと対話を試みる。科学、信仰、そして二つの種族の運命が交錯する様を、歴史的緻密さと深い思索で描き出した、異色にして壮大な接触の物語。",
+    links: {
+      amazon: "https://amzn.to/4jvYUt3",
+    },
+  },
+  "no-enemy-but-time": {
+    id: "no-enemy-but-time",
+    title: "No Enemy But Time",
+    titleJP: "時の他に敵なし",
+    author: "マイクル・ビショップ",
+    year: 1982,
+    asin: "480192669X",
+    description:
+      "夢を通じて古代のアフリカを幻視する男ジョシュア。彼は極極プロジェクトにより、200万年前の更新世へと送り込まれる。そこで出会った原人（ホモ・ハビリス）の集団と生活を共にし、彼らの知性や社会、そして精神世界を実地で調査する過程で、人類のルーツと愛の在り方を問い直す。緻密な考証に基づき、遠い過去のリアリティを圧倒的な筆致で描き出した思索的傑作。",
+    links: {
+      amazon: "https://amzn.to/3L8M8Eq",
+    },
+  },
+  nsa: {
+    id: "nsa",
+    title: "NSA",
+    titleJP: "ＮＳＡ",
+    author: "アンドレアス・エシュバッハ",
+    year: 2018,
+    asin: "B09P3MZL7N",
+    description:
+      "「もしも第三帝国が現代並みの高度情報技術を手にしていたら」という戦慄の歴史改変。1942年、国家保安局（NSA）のプログラマー、ヘレーネは、国民のあらゆるデータを監視・分析するシステム構築に従事していた。ビッグデータによる徹底した社会管理と、逃亡者を追い詰めるアルゴリズムの恐怖。監視社会の極北を緻密な考証で描く大作。",
+    links: {
+      amazon: "https://amzn.to/3YxdJ59",
+    },
+  },
+  "downbelow-station": {
+    id: "downbelow-station",
+    title: "Downbelow Station",
+    titleJP: "ダウンビロウ・ステーション",
+    author: "C・J・チェリイ",
+    year: 1981,
+    asin: "4150105995",
+    description:
+      "地球会社、連合、そしてその中間に位置する宇宙ステーション「ペル」。銀河を二分する戦争が激化する中、中立を保とうとするステーションが直面する難民問題、艦隊の政治的対立、そして背後に渦巻く巨大な陰謀を描く。戦争の物理的側面だけでなく、補給や経済、政治的駆け引きをリアルに描写した壮大な群像劇。",
+    links: {
+      amazon: "https://amzn.to/4puIpyX",
+    },
+  },
+  wool: {
+    id: "wool",
+    title: "Wool",
+    titleJP: "ウール",
+    author: "ヒュー・ハウイー",
+    year: 2011,
+    asin: "4041010152",
+    description:
+      "地表が有毒ガスに覆われた未来。人類は地下144階建ての巨大なサイロで、厳格な規律のもと生活していた。外の世界を望んだ者は『清掃』という名の死の刑罰に処される。ある日、サイロの保安官が自ら清掃を志願したことで、平穏な地下世界に隠されたあまりに巨大な嘘と秘密が暴かれ始める。圧倒的な閉塞感と極限の心理戦を描く力作。",
+    links: {
+      amazon: "https://amzn.to/3Z2PMmo",
+    },
+  },
+  "slow-river": {
+    id: "slow-river",
+    title: "Slow River",
+    titleJP: "スロー・リバー",
+    author: "ニコラ・グリフィス",
+    year: 1995,
+    asin: "4150112258",
+    description:
+      "巨大企業が遺伝子操作された細菌で環境インフラを支配する近未来。名家の令嬢ながら誘拐事件に巻き込まれ、身分を捨てて最下層の生活を余儀なくされたロー。彼女が下水処理場での過酷な労働や、偽造ID売買、そして他者との親密な関係を通じて、奪われた自己と家族の欺瞞に向き合い、自らの力で人生を再生していく様を描く。",
+    links: {
+      amazon: "https://amzn.to/3YuDa7w",
+    },
+  },
+  "assemblers-of-infinity": {
+    id: "assemblers-of-infinity",
+    title: "Assemblers of Infinity",
+    titleJP: "無限アセンブラ",
+    author: "ケヴィン・J・アンダースン ＆ ダグ・ビースン",
+    year: 1993,
+    asin: "4150111235",
+    description:
+      "月の裏側に突如出現した謎の巨大構造物。自己増殖するナノマシンの群れが、休むことなく未知の目的のために組み上げ続けるその塔を調査するため、科学者チームが月に派遣される。物質を原子レベルで組み替える技術がもたらす驚異と恐怖、そして汚染された人間たちの変容を、精緻な考証で描き出した傑作。",
+    links: {
+      amazon: "https://amzn.to/4qIFELh",
+    },
+  },
+  kindred: {
+    id: "kindred",
+    title: "Kindred",
+    titleJP: "キンドレッド",
+    author: "オクテイヴィア・E・バトラー",
+    year: 1979,
+    asin: "B09W95N93G",
+    description:
+      "1976年のロサンゼルスに住む黒人女性デイナ。突然の眩暈と共に彼女が投げ出されたのは、19世紀初頭、奴隷制が支配するメリーランドの農園だった。自分の血脈を繋ぐために白人の高祖父を守るという過酷な運命を背負い、現代と過去を往還しながら、非人間的な暴力と差別が日常化した時代を生き抜く様を克明に描く。人種とジェンダーの根源を問う衝撃作。",
+    links: {
+      amazon: "https://amzn.to/3Yugqo1",
+    },
+  },
+  "little-brother": {
+    id: "little-brother",
+    title: "Little Brother",
+    titleJP: "リトル・ブラザー",
+    author: "コリィ・ドクトロウ",
+    year: 2008,
+    asin: "4152091991",
+    description:
+      "サンフランシスコで発生した大規模テロ事件。現場近くにいたハッカーの少年マーカスは、国土安全保障省に不当に拘束され、過酷な尋問を受ける。奪われた自由とプライバシー。監視の目が隅々まで届く街で、マーカスは自身のハッキング技術を武器に、友人たちと共に強大な国家権力への抵抗を開始する。情報技術と市民の自由を問う、現代の反逆の物語。",
+    links: {
+      amazon: "https://amzn.to/450l0Ou",
+    },
+  },
+  "when-gravity-fails": {
+    id: "when-gravity-fails",
+    title: "When Gravity Fails",
+    titleJP: "重力が衰えるとき",
+    author: "ジョージ・アレック・エフィンジャー",
+    year: 1987,
+    asin: "4150108366",
+    description:
+      "近未来の中東、退廃した歓楽街ブーダイーン。自暴自棄な生活を送る探偵マリッド・オードランは、人格を上書きする技術「モジュール」を脳にプラグインして戦う冷酷な殺人者の犯行現場に遭遇する。自らの脳を機械化することを拒んできたマリッドだったが、恩人からの強要と知人の死をきっかけに、己の矜持を捨てて改造を施すことを決意し、人格とデータが交錯する迷宮のような捜査に足を踏み入れる。",
+    links: {
+      amazon: "https://amzn.to/4qdfssH",
+    },
+  },
 };
 
 // カテゴリとサブジャンルデータ
@@ -3030,6 +3238,7 @@ export const categories = [
           "koukuu-uchuugun-shi",
           "sayonara-jupiter",
           "ichioku-nen-no-telescope",
+          "spin",
         ],
         links: {
           amazon: "",
@@ -3070,7 +3279,16 @@ export const categories = [
           "reasons-to-be-cheerful",
           "child-of-time",
           "darwins-radio",
+          "professor-dowells-head",
         ],
+      },
+      {
+        id: "nanotechnology",
+        title: "Nanotechnology",
+        nameJP: "ナノテクノロジー",
+        description: "",
+        detail: "",
+        bookIds: ["assemblers-of-infinity"],
       },
     ],
   },
@@ -3090,6 +3308,7 @@ export const categories = [
           "『High Tech, Low Life』のキーワードで表現される、近未来のディストピアを舞台とするサブジャンルである。1980年代に確立し、高度に発達した情報技術と荒廃した社会が共存する世界観が特徴だ。人工知能、サイバーウェア(身体改造)、電脳空間といった先進技術が普及する一方で、巨大企業が国家を超える権力を持ち、貧富の格差や環境汚染が深刻化している。ネオンが輝くメガシティ、現実と仮想の境界の曖昧さ、巨大企業や支配体制を転覆させるのではなく、システムの間隙を縫って個人的な生存を図る『シニカルなアウトサイダー』の姿や、体制に取り込まれながらも自己を保とうとする葛藤が繰り返し描かれる。日本では1980年代から独自の発展を遂げ、漫画やアニメを通じて独特の表現を生み出してきた。",
         bookIds: [
           "neuromancer",
+          "when-gravity-fails",
           "snow-crash",
           "altered-carbon",
           "software",
@@ -3110,6 +3329,7 @@ export const categories = [
           "zendegi",
           "harmony",
           "orbital-cloud",
+          "the-dervish-house",
           "beatless",
         ],
       },
@@ -3158,6 +3378,7 @@ export const categories = [
           "always-coming-home",
           "ecotopia",
           "songs-from-the-stars",
+          "bewilderment",
         ],
       },
       {
@@ -3196,6 +3417,7 @@ export const categories = [
           "the-man-in-the-high-castle",
           "the-proteus-operation",
           "united-states-of-japan",
+          "nsa",
           "pavane",
         ],
       },
@@ -3211,6 +3433,7 @@ export const categories = [
           "brave-new-world",
           "fahrenheit-451",
           "the-handmaids-tale",
+          "wool",
           "harmony",
         ],
       },
@@ -3296,10 +3519,12 @@ export const categories = [
           "ジェンダー不平等、セクシュアリティ、生殖、身体の自己決定権といったフェミニズム的テーマを思考実験として扱うサブジャンルである。単なる男女の役割逆転にとどまらず、両性具有の社会や、人工子宮・単為生殖によって『性別』や『家族』の概念そのものが無効化された未来を描くことで、既存の二項対立や権力構造を根底から問い直す。1960年代後半のフェミニズム運動と連動して発展し、読者に既存の社会規範（ジェンダー・バイアス）を揺さぶる『センス・オブ・ジェンダー』を与える。",
         bookIds: [
           "the-left-hand-of-darkness",
+          "kindred",
           "ancillary-justice",
           "the-book-of-the-river",
           "the-handmaids-tale",
           "women-and-womens-world",
+          "slow-river",
           "hybrid-child",
         ],
       },
@@ -3324,6 +3549,14 @@ export const categories = [
           "jougen-no-tsuki-wo-taberu-shishi",
           "musubiyama-hiroku",
         ],
+      },
+      {
+        id: "anthropology",
+        title: "Anthropological SF",
+        nameJP: "人類学SF",
+        description: "",
+        detail: "",
+        bookIds: ["no-enemy-but-time"],
       },
     ],
   },
@@ -3392,6 +3625,7 @@ export const categories = [
           "empire-of-the-atom",
           "the-garments-of-caean",
           "hateshinaki-nagare-no-hate-ni",
+          "catchworld",
           "hybrid-child",
         ],
       },
@@ -3410,6 +3644,7 @@ export const categories = [
           "genocidal-organ",
           "sentou-yousei-yukikaze",
           "legend-of-the-galactic-heroes",
+          "downbelow-station",
           "koukuu-uchuugun-shi",
           "seikei-izumo-no-heitan",
         ],
@@ -3482,6 +3717,7 @@ export const categories = [
           "this-is-how-you-lose-the-time-war",
           "toki-wo-kakeru-shoujo",
           "hateshinaki-nagare-no-hate-ni",
+          "october-the-first-is-too-late",
           "minus-zero",
         ],
       },
@@ -3553,6 +3789,7 @@ export const categories = [
           "contact",
           "kamigari",
           "taiyo-no-sandatsusha",
+          "eifelheim",
           "chino-shinshoku",
         ],
       },
@@ -3588,6 +3825,7 @@ export const categories = [
           "enders-game",
           "toki-wo-kakeru-shoujo",
           "nazo-no-tenkousei",
+          "little-brother",
           "uchuu-no-koe",
           "ginga-fuuhansou",
           "ichioku-nen-no-telescope",
