@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
-import Layout from './components/Layout/Layout';
-import BentoGrid from './components/Features/BentoGrid';
-import DetailPanel from './components/Features/DetailPanel';
-import { categories } from './data/sampleData';
+import React, { useState } from "react";
+import Layout from "./components/Layout/Layout";
+import BentoGrid from "./components/Features/BentoGrid";
+import DetailPanel from "./components/Features/DetailPanel";
+import { subgenres } from "./data/sampleData";
 
 function App() {
   const [selectedGenre, setSelectedGenre] = useState(null);
@@ -17,15 +17,12 @@ function App() {
 
   return (
     <Layout>
-      <BentoGrid 
-        categories={categories} 
-        onGenreSelect={handleGenreSelect} 
-      />
-      
-      <DetailPanel 
-        genre={selectedGenre} 
-        isOpen={!!selectedGenre} 
-        onClose={handleClosePanel} 
+      <BentoGrid subgenres={subgenres} onGenreSelect={handleGenreSelect} />
+
+      <DetailPanel
+        genre={selectedGenre}
+        isOpen={!!selectedGenre}
+        onClose={handleClosePanel}
       />
     </Layout>
   );

@@ -1,12 +1,12 @@
-import React from 'react';
-import './GenreCard.css';
+import React from "react";
+import "./GenreCard.css";
 
-const GenreCard = ({ genre, onClick, categoryColor }) => {
+const GenreCard = ({ genre, onClick }) => {
   return (
-    <button 
-      className="genre-card" 
+    <button
+      className="genre-card"
       onClick={() => onClick(genre)}
-      style={{ '--category-color': categoryColor || 'var(--color-text-accent)' }}
+      style={{ "--category-color": "var(--color-text-accent)" }}
     >
       <div className="genre-title">
         {genre.nameJP}
