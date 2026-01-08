@@ -199,6 +199,36 @@ const DetailPanel = ({ genre, isOpen, onClose }) => {
                   </div>
                 ))}
               </div>
+
+              {/* 絶版・品切れ時の案内 */}
+              <div className="out-of-print-notice">
+                <details>
+                  <summary>書籍の新刊が見つからないときは？</summary>
+                  <div className="notice-details">
+                    <ul>
+                      <li>
+                        <strong>古本屋を巡る</strong>
+                        ：街の古書店で意外な出会いがあるかもしれません。
+                      </li>
+                      <li>
+                        <strong>オンライン中古書店</strong>：
+                        <span className="shop-list">
+                          ブックオフ、まんだらけ、駿河屋、日本の古本屋
+                        </span>
+                        などをチェック。
+                      </li>
+                      <li>
+                        <strong>復刊リクエスト</strong>：
+                        <span className="shop-list">復刊ドットコム</span>や
+                        <span className="shop-list">
+                          東京創元社Webアンケート
+                        </span>
+                        で熱意を伝えましょう。
+                      </li>
+                    </ul>
+                  </div>
+                </details>
+              </div>
             </div>
           )}
         </div>
