@@ -2729,6 +2729,201 @@ export const books = {
       amazon: "https://amzn.to/3Yq5KH9",
     },
   },
+  "onshuu-seiiki": {
+    id: "onshuu-seiiki",
+    title: "Onshuu Seiiki",
+    titleJP: "怨讐星域",
+    author: "梶尾真治",
+    year: 2015,
+    asin: "B00YGIKKXY",
+    description:
+      "太陽膨張により滅亡する地球を脱出した世代間宇宙船「ノアズ・アーク」。172光年先の惑星を目指す特権階級と、後に転送装置で追ってきた一般民衆。数百年の時を経て、二つの人類が『約束の地』で再会したとき、壮絶な愛憎と復讐のドラマが幕を開ける。日本SF大河の傑作。",
+    links: {
+      amazon: "https://amzn.to/3YYzDym",
+    },
+  },
+  "babylonia-wave": {
+    id: "babylonia-wave",
+    title: "Babylonia Wave",
+    titleJP: "バビロニア・ウェーブ",
+    author: "堀晃",
+    year: 1988,
+    asin: "B007TAKK4U",
+    description:
+      "銀河面を垂直に貫く、全長5380光年に及ぶ巨大なレーザー光束「バビロニア・ウェーブ」。その傍らに建設された送電基地を舞台に、人智を超えた巨大構造物を巡る謎と、極秘の「ノア計画」を描く。日本ハードSFの金字塔にして星雲賞受賞作。",
+    links: {
+      amazon: "https://amzn.to/49Lju5y",
+    },
+  },
+  flatland: {
+    id: "flatland",
+    title: "Flatland",
+    titleJP: "フラットランド",
+    author: "エドウィン・A・アボット",
+    year: 1884,
+    asin: "B071F89ZWF",
+    description:
+      "二次元の世界「フラットランド」に住む「正方形」を主人公に、次元の概念や社会風刺を描いたSFの古典。三次元の存在である「球」との出会いを通じ、高次元の存在と認識の限界を問いかける。",
+    links: {
+      amazon: "https://amzn.to/3NzUUfd",
+    },
+  },
+  "star-maker": {
+    id: "star-maker",
+    title: "Star Maker",
+    titleJP: "スターメイカー",
+    author: "オラフ・ステープルドン",
+    year: 1937,
+    asin: "B09V1131J7",
+    description:
+      "宇宙の創生から終焉まで、数多の生命と文明の興亡を壮大なスケールで描く「未来史」の極致。一人の人間の精神が宇宙を彷徨い、万物の創造主「スターメイカー」へと至る思索的旅路。多くのSF作家に影響を与えた金字塔。",
+    links: {
+      amazon: "https://amzn.to/4pt1u4E",
+    },
+  },
+  "chi-ni-wa-heiwa-wo": {
+    id: "chi-ni-wa-heiwa-wo",
+    title: "Chi ni wa Heiwa wo",
+    titleJP: "地には平和を",
+    author: "小松左京",
+    year: 1963,
+    asin: "B07T9YDDNG",
+    description:
+      "終戦を迎えなかった「もう一つの1945年」を舞台にした改変歴史SFの傑作。本土決戦が続く凄絶な状況下、歴史の修正を目論む謎の存在が現れる。本来の歴史と改変された歴史の対比を通じ、戦後日本への痛烈な問いを突きつける。",
+    links: {
+      amazon: "https://amzn.to/4qGFzrB",
+    },
+  },
+  "dark-matter": {
+    id: "dark-matter",
+    title: "Dark Matter",
+    titleJP: "ダーク・マター",
+    author: "ブレイク・クラウチ",
+    year: 2016,
+    asin: "B076BSRBNV",
+    description:
+      "「もし別の人生を選んでいたら？」という普遍的な問いを、量子力学の多世界解釈を背景に描くSFスリラー。ある夜、別の人生を歩む「自分」に拉致された男が、元の家族のもとへ戻るために無数の並行世界を彷徨う。",
+    links: {
+      amazon: "https://amzn.to/44XEyTQ",
+    },
+  },
+  "nameraka-na-sekai-to-sono-teki": {
+    id: "nameraka-na-sekai-to-sono-teki",
+    title: "Nameraka na Sekai to sono Teki",
+    titleJP: "なめらかな世界と、その敵",
+    author: "伴名練",
+    year: 2019,
+    asin: "B09XV1NSS4",
+    description:
+      "多くの人々が意識的に並行世界を乗り換えながら生きる「なめらかな世界」。その能力を持たない少女との交流を通じ、世界の在り方と個人の境界を鮮烈に描き出す。2010年代の日本SFにおける最高到達点の一つとされる短編集。",
+    links: {
+      amazon: "https://amzn.to/4qbHoNn",
+    },
+  },
+  "more-than-human": {
+    id: "more-than-human",
+    title: "More Than Human",
+    titleJP: "人間以上",
+    author: "シオドア・スタージョン",
+    year: 1953,
+    asin: "91lxmqw-NsL",
+    description:
+      "テレパシー、念力、超記憶など、異なる異能を持つ6人の子供たちが出会い、結合することで、人類の次なるステージである集合生命体「ホモ・ゲシュタルト」へと進化する。ミュータントSFの概念を更新し、人間性の本質を謳い上げたスタージョンの最高傑作。",
+    links: {
+      amazon: "https://amzn.to/4jBGCHe",
+    },
+  },
+  "ookami-no-monshou": {
+    id: "ookami-no-monshou",
+    title: "Ookami no Monshou",
+    titleJP: "狼の紋章",
+    author: "平井和正",
+    year: 1971,
+    asin: "4150313113",
+    description:
+      "驚異的な身体能力と冷徹な虚無を抱え、暴力の支配する学園に現れた転校生・犬神明。人狼としての宿命と、人間社会の醜悪な暴力との相克を描く。日本SFにおける『ウルフガイ』伝説の幕開けを飾る、バイオレンスと叙情が横溢する伝奇アクションの至宝。",
+    links: {
+      amazon: "https://amzn.to/49n17T3",
+    },
+  },
+  "nanase-futatabi": {
+    id: "nanase-futatabi",
+    title: "Nanase Futatabi",
+    titleJP: "七瀬ふたたび",
+    author: "筒井康隆",
+    year: 1975,
+    asin: "B0099FM3RA",
+    description:
+      "人の心を読み取ってしまう異能（テレパシー）ゆえに孤独な旅を続ける少女・火田七瀬。彼女と同じ運命を背負う超能力者たちとの出会いと、彼らを抹殺せんとする組織との絶望的な死闘。異能を持つ者の悲哀と、人間不信を冷徹に描き、後のSF作品に多大な影響を与えた名作。",
+    links: {
+      amazon: "https://amzn.to/4pxIlhL",
+    },
+  },
+  "time-out-of-joint": {
+    id: "time-out-of-joint",
+    title: "Time Out of Joint",
+    titleJP: "時は乱れて",
+    author: "フィリップ・K・ディック",
+    year: 1959,
+    asin: "B00JFLJ0KQ",
+    description:
+      "懸賞パズルの解答を送り続ける平穏な生活を送る男。だが、彼の周囲の世界はわずかな綻びから崩壊し始める。自分が住んでいるのは、精巧に作られた1950年代の『模造品』の世界ではないのか？ ディックが描く『現実崩壊』テーマの原点にして傑作。",
+    links: {
+      amazon: "https://amzn.to/45KdqI3",
+    },
+  },
+  "simulacron-3": {
+    id: "simulacron-3",
+    title: "Simulacron-3",
+    titleJP: "模造世界",
+    author: "ダニエル・F・ガロイ",
+    year: 1964,
+    asin: "4488713017",
+    description:
+      "現実世界を模した仮想社会を構築するシミュレーター『モジュラクロン3』。開発者の謎の死を追う主人公は、仮想世界から漏れ出す異常な兆候に気づく。自分たちが信じているこの世界もまた、上位の世界によってプログラムされた模造品ではないのか？ 映画『13F』の原作。",
+    links: {
+      amazon: "https://amzn.to/44Zt7ed",
+    },
+  },
+  "three-stigmata-of-palmer-eldritch": {
+    id: "three-stigmata-of-palmer-eldritch",
+    title: "The Three Stigmata of Palmer Eldritch",
+    titleJP: "パーマー・エルドリッチの三つの聖痕",
+    author: "フィリップ・K・ディック",
+    year: 1965,
+    asin: "B00BN5GYEM",
+    description:
+      "灼熱の地球から火星へ移住した人々は、ドラッグと人形で構築された仮想世界に現実逃避していた。そこに異星から帰還した実業家エルドリッチが、より強力なドラッグを持ち込む。主観的な現実が他者に浸食される恐怖を描いた、ディック特有の悪夢的ヴィジョン。",
+    links: {
+      amazon: "https://amzn.to/45wQWKw",
+    },
+  },
+  "klein-no-tsubo": {
+    id: "klein-no-tsubo",
+    title: "Klein no Tsubo",
+    titleJP: "クラインの壺",
+    author: "岡嶋二人",
+    year: 1989,
+    asin: "B00BB1ZVYM",
+    description:
+      "五感全てを再現する最新VRシステム『クライン2』。テストプレイヤーとなった青年は、現実と寸分違わぬ仮想世界に魅了される。しかし、テストの最中に起きた失踪事件を機に、どちらが真実の世界なのか、底知れぬ恐怖が口を開ける。日本VR小説の先駆的傑作。",
+    links: {
+      amazon: "https://amzn.to/4q516dE",
+    },
+  },
+  "hello-world": {
+    id: "hello-world",
+    title: "HELLO WORLD",
+    titleJP: "HELLO WORLD",
+    author: "野崎まど",
+    year: 2019,
+    asin: "B07VSFRJ72",
+    description:
+      "2027年の京都。男子高校生の前に、10年後の自分を名乗る青年が現れる。目的は、事故で命を落とす恋人の運命を書き換えること。だが、彼らが生きる世界そのものが高度に演算された記録データであることを直実は知る。デジタル時代の新たな青春SF。",
+    links: {
+      amazon: "https://amzn.to/4qGh0Ln",
+    },
+  },
 };
 
 // カテゴリとサブジャンルデータ
@@ -3338,7 +3533,12 @@ export const categories = [
         description: "閉鎖生態系で歪む社会と、使命の倫理",
         detail:
           "恒星間航行には数百年から数千年を要するため、複数世代に渡って航行を続ける『世代宇宙船』を舞台とするサブジャンルである。当初の使命がドグマ（教義）化して硬直した階級社会や、限られたリソースをめぐる極端な人口抑制など、宇宙船という閉鎖生態系が生み出す特異な社会変容を描く。知識が失われるプロセスだけでなく、継承された知識が現実の過酷さと衝突し、独自の歪んだ文化へと発展していく様が主題となる。外の宇宙との断絶が、生存のための必然的な選択として描かれることも多く、使命の継承といかにして個人の自由を両立させるかという倫理的ジレンマを突きつける。",
-        bookIds: ["non-stop", "orphans-of-the-sky"],
+        bookIds: [
+          "non-stop",
+          "orphans-of-the-sky",
+          "seveneves",
+          "onshuu-seiiki",
+        ],
       },
       {
         id: "megastructure",
@@ -3347,7 +3547,13 @@ export const categories = [
         description: "圧倒的スケールの人工生態系と、物理シミュレーション",
         detail:
           "リングワールド、ダイソン球、軌道リングなど、惑星や恒星を取り囲む規模の巨大人工構造物を扱うサブジャンルである。しばしば『Big Dumb Object（巨大で無口な物体）』と呼ばれ、人類を圧倒する規模を持つ。起源や目的が謎に包まれた未知の遺物を調査する物語から、ダイソン球やリングワールドのように、高度文明が物理法則の限界に挑んで建造した『人工の生態系』を描く作品まで多岐にわたる。単なる背景としての巨大さではなく、その構造物の中でいかなる物理現象や社会形態が可能かという工学的・社会学的シミュレーションと、圧倒的なスケール感が生むセンス・オブ・ワンダーが特徴である。",
-        bookIds: ["ringworld", "rendezvous-with-rama", "teeturn"],
+        bookIds: [
+          "ringworld",
+          "rendezvous-with-rama",
+          "teeturn",
+          "babylonia-wave",
+          "taiyo-no-sandatsusha",
+        ],
       },
       {
         id: "multiverse",
@@ -3356,7 +3562,16 @@ export const categories = [
         description: "無限の選択肢、あるいは宇宙論的な泡",
         detail:
           "無数の並行宇宙が存在する世界観を描く。量子力学の多世界解釈を援用し、あらゆる可能性が別の宇宙として結実しているとする設定や、物理定数が異なる別宇宙との接触を描く『多元宇宙』。単なる『人生の選択肢の分岐』といった人間中心的な物語から、泡宇宙のように宇宙そのものが無数に発生しているという宇宙論的なスケールまでその幅は広い。本来は干渉不能なはずの並行世界同士がいかにして重なり、あるいは衝突するかという論理的ハードルをどう乗り越えるかが、作家の腕の見せ所となる。",
-        bookIds: ["hominids", "the-universe-went-mad"],
+        bookIds: [
+          "flatland",
+          "the-universe-went-mad",
+          "star-maker",
+          "hominids",
+          "the-great-silence",
+          "dark-matter",
+          "chi-ni-wa-heiwa-wo",
+          "nameraka-na-sekai-to-sono-teki",
+        ],
       },
       {
         id: "mutants",
@@ -3365,7 +3580,13 @@ export const categories = [
         description: "予測不能な変異が突きつける、新人類の脅威",
         detail:
           "放射線や未知の要因による突然変異で、種としての既存の枠組みを逸脱した『ミュータント』を扱う。ポストヒューマンが意図的な技術設計であるのに対し、ミュータントは予測不能な異変による『異質な他者』の誕生として描かれる。単なる一世代の変異にとどまらず、それが通常の人類を淘汰し、新たな種の支配を予感させる『進化の脅威』として扱われる点が特徴。差別や迫害といった社会学的テーマを通じ、人間中心主義的な倫理観が『新人類』という圧倒的な現実にどう向き合うかを問いかける。",
-        bookIds: ["slan", "the-chrysalids"],
+        bookIds: [
+          "slan",
+          "more-than-human",
+          "the-chrysalids",
+          "ookami-no-monshou",
+          "nanase-futatabi",
+        ],
       },
       {
         id: "simulation",
@@ -3374,7 +3595,16 @@ export const categories = [
         description: "演算される意識と、デジタル時代の死生観",
         detail:
           "仮想現実技術や、この世界自体が演算の産物であるとする『シミュレーション仮説』を扱う。サイバーパンクが現実を拡張するための『ツール』として情報空間を描くのに対し、本ジャンルは意識のアップロードや宇宙規模のシミュレーションを通じて、仮想こそが主観的な唯一の現実となる世界を描く。物理法則すら定義し直される環境下で、『演算される意識』に魂はあるのか、基盤となるリソースが尽きた時に生は終わるのかという、デジタル時代の不死と倫理を根源的に問い直す。",
-        bookIds: ["permutation-city", "gran-vacances"],
+        bookIds: [
+          "time-out-of-joint",
+          "simulacron-3",
+          "three-stigmata-of-palmer-eldritch",
+          "snow-crash",
+          "permutation-city",
+          "klein-no-tsubo",
+          "gran-vacances",
+          "hello-world",
+        ],
       },
     ],
   },
