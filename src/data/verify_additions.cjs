@@ -59,19 +59,5 @@ if (missingRefs.length > 0) {
   process.exit(1);
 } else {
   console.log("\n✅ 全ての bookId が正しく解決されます");
-
-  // 新規追加書籍を確認
-  const newBooks = [
-    "hateshinaki-nagare-no-hate-ni",
-    "adobado",
-    "the-great-silence",
-  ];
-  console.log("\n📖 新規追加書籍:");
-  newBooks.forEach((id) => {
-    if (books[id]) {
-      console.log(`  ✓ ${books[id].titleJP} (${books[id].title})`);
-    }
-  });
-
   process.exit(0);
 }
