@@ -63,9 +63,9 @@
 }
 
 .close-button:hover {
-  background-color: #EF4444;
+  background-color: #ef4444;
   color: white;
-  border-color: #EF4444;
+  border-color: #ef4444;
 }
 
 .panel-content {
@@ -104,7 +104,7 @@
 .book-cover {
   width: 100px;
   height: 150px;
-  background-color: #EEE;
+  background-color: #eee;
   object-fit: cover;
   flex-shrink: 0;
   border: 1px solid var(--color-border-grid);
@@ -145,8 +145,8 @@
   line-height: 1.6;
   margin-bottom: var(--spacing-md);
   display: -webkit-box;
-  -webkit-line-clamp: 4; /* Limit lines */
-  line-clamp: 4;
+  -webkit-line-clamp: 8; /* あらすじをより多く表示するため4から8に変更 */
+  line-clamp: 8;
   -webkit-box-orient: vertical;
   overflow: hidden;
   flex-grow: 1;
@@ -205,13 +205,13 @@
 
 /* Amazon specific styling */
 .shop-link-card.amazon {
-  border-color: #FF9900;
+  border-color: #ff9900;
   background-color: #fffaf0; /* Very light orange */
 }
 
 .shop-link-card.amazon:hover {
   background-color: #fff0d6;
-  border-color: #FF9900;
+  border-color: #ff9900;
 }
 
 @media (max-width: 768px) {
