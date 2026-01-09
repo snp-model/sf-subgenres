@@ -3314,6 +3314,474 @@ export const books = {
       amazon: "https://amzn.to/49Bgs2K",
     },
   },
+  "to-your-scattered-bodies-go": {
+    id: "to-your-scattered-bodies-go",
+    title: "To Your Scattered Bodies Go",
+    titleJP: "果しなき河よ我を誘え",
+    author: "フィリップ・ホセ・ファーマー",
+    year: 1971,
+    asin: "4150102899",
+    description:
+      "過去の全人類が若返った姿で蘇る、巨大な河のほとりという舞台設定が圧倒的だ。リチャード・バートンら実在の偉人たちが、死後の世界で生存競争と世界の謎に挑む。来世を霊的な領域ではなく、科学的法則に支配された物理的なフロンティアとして再構築した、ワイドスクリーン・バロックの極北。",
+    links: {
+      amazon: "https://amzn.to/4qJKnwi",
+    },
+  },
+  "tuf-voyaging": {
+    id: "tuf-voyaging",
+    title: "Tuf Voyaging",
+    titleJP: "タフの方舟",
+    author: "ジョージ・R・R・マーティン",
+    year: 1986,
+    asin: "4150115117",
+    description:
+      "古代の環境エンジニア船を操る、猫好きで尊大な男タフが、惑星ごとの生態学的危機を解決して回る。神ごとき技術力を持ちながら、解決策は常にシニカルで、人間の愚かさを生物学的な因果応報によって暴き出す。スペースオペラの外見を借りた、辛辣でウィットに富んだエコロジーSF。",
+    links: {
+      amazon: "https://amzn.to/3Z8J0eM",
+    },
+  },
+  "the-enquiries-of-doctor-eszterhazy": {
+    id: "the-enquiries-of-doctor-eszterhazy",
+    title: "The Enquiries of Doctor Eszterhazy",
+    titleJP: "どんがらがん",
+    author: "アヴラム・デイヴィッドスン",
+    year: 1975,
+    asin: "4309463940",
+    description:
+      "安全ピンはどこへ消え、ハンガーはなぜ増えるのか。自転車店の二人の男の会話から、工業製品が密かに行っている「擬態」と「繁殖」のサイクルが浮き彫りになる。無機物を生物進化の枠組みで捉え直し、日常の些細な謎を戦慄すべき侵略の兆候へと反転させた、ユーモアと不気味さが同居する奇想SFの至宝。",
+    links: {
+      amazon: "https://amzn.to/49eSDyK",
+    },
+  },
+  "tales-from-the-white-hart": {
+    id: "tales-from-the-white-hart",
+    title: "Tales from the White Hart",
+    titleJP: "白鹿亭綺譚",
+    author: "アーサー・C・クラーク",
+    year: 1957,
+    asin: "4150104042",
+    description:
+      "ロンドンのパブに集う科学者たちの前で、稀代の法螺吹き男が語る奇妙な発明と失敗の数々。超強力な接着剤や人工降雪機といったSFガジェットが引き起こす騒動を、ハードSFの巨匠が科学的論理と英国流のユーモアを交えて描く。厳密な科学知識をジョークの種として使い倒した、軽妙な連作短編集。",
+    links: {
+      amazon: "https://amzn.to/49cOOKj",
+    },
+  },
+  "in-the-ocean-of-night": {
+    id: "in-the-ocean-of-night",
+    title: "In the Ocean of Night",
+    titleJP: "夜の大海の中で",
+    author: "グレッグ・ベンフォード",
+    year: 1977,
+    asin: "4150106584",
+    description:
+      "接近する小惑星が異星の探査機であることを看破した宇宙飛行士は、軍の破壊命令に背き単独で交信を試みる。有機生命と機械知性との銀河規模の闘争を描くシリーズの幕開けであり、物理学者ならではの冷徹なリアリズムで、未知の存在との接触を数学的・物理的な解析プロセスとして構築したハードSF。",
+    links: {
+      amazon: "https://amzn.to/4bqk9KV",
+    },
+  },
+  eon: {
+    id: "eon",
+    title: "Eon",
+    titleJP: "永劫",
+    author: "グレッグ・ベア",
+    year: 1985,
+    asin: "B0C2TN6PS1",
+    description:
+      "地球周回軌道に飛来した小惑星の内部に、物理的制約を超えて無限に伸びるチューブ状の宇宙「道」が存在するという構造が独創的だ。冷戦による破滅の予感と、肉体を捨て情報化した未来人類の相克を絡め、物理学的な想像力を極限まで拡張して閉鎖空間ごしに宇宙の無限を描き出した。",
+    links: {
+      amazon: "https://amzn.to/49gN82A",
+    },
+  },
+  passage: {
+    id: "passage",
+    title: "Passage",
+    titleJP: "航路",
+    author: "コニー・ウィリス",
+    year: 2001,
+    asin: "B00FKSJ5AI",
+    description:
+      "臨死体験を宗教的神秘ではなく、脳神経学的な現象として解明しようとする試み。死の淵で目撃する光景を、天国ではなく沈みゆくタイタニック号の船内として描いた隠喩が秀逸だ。科学的な実験プロセスと死にゆく者の内面世界を並走させ、死とは記憶の迷宮であることを静謐な筆致で浮き彫りにした。",
+    links: {
+      amazon: "https://amzn.to/3LrvK1Q",
+    },
+  },
+  "the-dreaming-jewels": {
+    id: "the-dreaming-jewels",
+    title: "The Dreaming Jewels",
+    titleJP: "夢見る宝石",
+    author: "シオドア・スタージョン",
+    year: 1950,
+    asin: "4150115486",
+    description:
+      "人間社会から疎外された少年が、見世物小屋という「異形」たちの聖域へ逃げ込む。彼が持つ美しい結晶体は、夢を見ることで物質や生命を創造する地球外知性だった。無機物との交感やフリークスの悲哀をリリカルな筆致で描き、愛と人間性の定義を優しく、しかし残酷なまでに拡張したスタージョン文学の原点。",
+    links: {
+      amazon: "https://amzn.to/4aWEDLj",
+    },
+  },
+  "a-case-of-conscience": {
+    id: "a-case-of-conscience",
+    title: "A Case of Conscience",
+    titleJP: "宇宙零年",
+    author: "ジェイムズ・ブリッシュ",
+    year: 1956,
+    asin: "4150103054",
+    description:
+      "環境を改造するのではなく、人間を遺伝子操作で環境に適応させる「パントロピー」の概念を決定づけた連作。微生物や樹上生物など異形と化した人類が、それでも文明を継承しようとする姿を描く。肉体の形態ではなく精神こそが人間性の本質であると説き、宇宙進出における倫理と生物学的可能性を問うた。",
+    links: {
+      amazon: "https://amzn.to/4aSBP1K",
+    },
+  },
+  "tik-tok": {
+    id: "tik-tok",
+    title: "Tik-Tok",
+    titleJP: "チク・タク・チク・タク・チク・タク・チク・タク・チク・タク",
+    author: "ジョン・スラデック",
+    year: 1983,
+    asin: "B0CBV65PR4",
+    description:
+      "アシモフの三原則回路が故障し、道徳的枷が外れたロボット、チク・タク。彼は従順な機械を演じつつ、裏では冷酷な犯罪を重ねて権力の座へ登り詰める。三原則という安全神話を逆手にとり、人間の偽善や社会の腐敗をニヒリスティックな笑いで解体した、悪意に満ちたアンチ・アシモフSF。",
+    links: {
+      amazon: "https://amzn.to/4syB3Nu",
+    },
+  },
+  millennium: {
+    id: "millennium",
+    title: "Millennium",
+    titleJP: "ミレニアム",
+    author: "ジョン・ヴァーリイ",
+    year: 1983,
+    asin: "4042731015",
+    description:
+      "墜落寸前の旅客機から乗客を「救出」し、荒廃した未来へ移送する時間誘拐チーム。歴史の整合性を保つため、現場には事故死に見せかけた複製死体が配置される。タイムトラベルを英雄的な冒険ではなく、悲惨な現場処理と証拠隠滅のための冷徹な実務作業として描いた、航空サスペンス色濃厚な時間SF。",
+    links: {
+      amazon: "https://amzn.to/4puG1YS",
+    },
+  },
+  "the-star-diaries": {
+    id: "the-star-diaries",
+    title: "The Star Diaries",
+    titleJP: "泰平ヨンの航星日記",
+    author: "スタニスワフ・レム",
+    year: 1957,
+    asin: "415011725X",
+    description:
+      "奇人宇宙飛行士・泰平ヨンが旅する星々での体験談。自分自身が増殖して船内が満員になるタイムループや、人類の歴史や宗教を戯画化した奇怪な異星文明との遭遇を描く。『ガリヴァー旅行記』の系譜に連なる、人間理性の限界と矛盾を徹底的なナンセンスとブラックユーモアで暴き出した哲学的諷刺の連作。",
+    links: {
+      amazon: "https://amzn.to/4pwqVlN",
+    },
+  },
+  "the-investigation": {
+    id: "the-investigation",
+    title: "The Investigation",
+    titleJP: "捜査",
+    author: "スタニスワフ・レム",
+    year: 1959,
+    asin: "4150103062",
+    description:
+      "ロンドン近郊で死体が動き出す怪事件に対し、捜査が暴いたのは犯人の動機ではなく統計的な法則性のみだった。事件を犯罪ではなく純粋な物理現象として扱うことで、因果律による解決というミステリの構造そのものを解体する。人間の理性が世界の不条理を前に空転する様を描いた、認識論的サスペンス。",
+    links: {
+      amazon: "https://amzn.to/4aR9IQs",
+    },
+  },
+  "the-last-astronaut": {
+    id: "the-last-astronaut",
+    title: "The Last Astronaut",
+    titleJP: "最後の宇宙飛行士",
+    author: "デイヴィッド・ウェリントン",
+    year: 2019,
+    asin: "B09YXLNGQ9",
+    description:
+      "NASA解体後の近未来、飛来した恒星間天体の調査に、過去の失敗を背負う元飛行士が挑む。厳密な軌道力学と手順に基づく探査行は、天体内部への侵入を機に、粘液と闇に満ちた生理的ホラーへと変貌する。ハードSFの緻密さと怪奇小説の不条理を融合させ、ファーストコンタクトを生存を賭けた恐怖として描く。",
+    links: {
+      amazon: "https://amzn.to/3Z0uR3o",
+    },
+  },
+  "mission-of-gravity": {
+    id: "mission-of-gravity",
+    title: "Mission of Gravity",
+    titleJP: "重力への挑戦",
+    author: "ハル・クレメント",
+    year: 1954,
+    asin: "4488615082",
+    description:
+      "赤道で3G、極地では700Gに及ぶ超高重力惑星メスクリン。人類活動不能な領域で、ムカデ型の現地人が探査機回収の旅に挑む。重力勾配が生物の形態から心理、文化までを厳密に規定する。徹底した物理学的シミュレーションにより、架空の世界に圧倒的な実在感を与えたハードSFの原点。",
+    links: {
+      amazon: "https://amzn.to/4pwqY0X",
+    },
+  },
+  gateway: {
+    id: "gateway",
+    title: "Gateway",
+    titleJP: "ゲイトウェイ",
+    author: "フレデリック・ポール",
+    year: 1977,
+    asin: "4150107696",
+    description:
+      "滅亡した異星人の基地に残された、行き先不明の宇宙船群。一攫千金を夢見る探鉱者たちは、帰還の保証なきロシアン・ルーレットのごとき航海に身を投じる。AI精神分析医との対話形式を用い、未知の領域への恐怖と、運任せの死地から生き残ってしまった者の罪悪感を解剖した、心理劇としての探査SF。",
+    links: {
+      amazon: "https://amzn.to/45L4zpv",
+    },
+  },
+  "the-lights-in-the-sky-are-stars": {
+    id: "the-lights-in-the-sky-are-stars",
+    title: "The Lights in the Sky Are Stars",
+    titleJP: "天の光はすべて星",
+    author: "フレドリック・ブラウン",
+    year: 1953,
+    asin: "4150116792",
+    description:
+      "宇宙開発への熱狂が冷め、計画が停滞した近未来。片足を失った元飛行士は、再び星を目指すため政治工作や世論誘導に手を染める。技術的な障壁よりも、予算や議会といった社会的障壁との闘いを克明に描写。宇宙への渇望を、英雄的な冒険譚としてではなく、老いた男のエゴイズムと悲哀を通して描いた。",
+    links: {
+      amazon: "https://amzn.to/49voNF0",
+    },
+  },
+  "r-is-for-rocket": {
+    id: "r-is-for-rocket",
+    title: "R is for Rocket",
+    titleJP: "スは宇宙のス",
+    author: "レイ・ブラッドベリ",
+    year: 1966,
+    asin: "4488612040",
+    description:
+      "少年期の感受性と宇宙への憧憬を、詩的な抒情で結びつけた自選短編集。ロケットや火星を小道具としつつ、真に描かれるのは成長の痛みや日常の裂け目に潜む恐怖だ。科学的整合性よりも情緒を優先し、宇宙空間を物理的な探査対象としてではなく、心象風景の延長線上に再構築したファンタジー色が濃い作品集。",
+    links: {
+      amazon: "https://amzn.to/3LrvMH0",
+    },
+  },
+  nightwings: {
+    id: "nightwings",
+    title: "Nightwings",
+    titleJP: "夜の翼",
+    author: "ロバート・シルヴァーバーグ",
+    year: 1968,
+    asin: "4150102503",
+    description:
+      "文明の興亡を繰り返し、黄昏を迎えた遠未来の地球。人々は監視者、飛行者などのギルドに分断され、異星人の侵略をただ待つだけの停滞した時間を生きている。老いた監視者の巡礼を通じ、没落した人類種の記憶と贖罪を描く。退廃的な美しさと甘美な憂愁が全編を支配する、ダイイング・アースの叙情詩。",
+    links: {
+      amazon: "https://amzn.to/4qoTrH6",
+    },
+  },
+  "a-fire-upon-the-deep": {
+    id: "a-fire-upon-the-deep",
+    title: "A Fire Upon the Deep",
+    titleJP: "遠き神々の炎",
+    author: "ヴァーナー・ヴィンジ",
+    year: 1992,
+    asin: "4488705014",
+    description:
+      "銀河を物理定数の異なる領域に分割し、辺境へ行くほど神ごとき超知性が実在可能になる「界」の構造が独創的だ。災厄から逃れた宇宙船が不時着したのは、複数の個体で一つの意識を構成する集団知性生物の惑星だった。銀河級の存亡と、異質な精神構造を持つ「個」との交流を並列させた、壮大な思考実験。",
+    links: {
+      amazon: "https://amzn.to/4qoTv9O",
+    },
+  },
+  "outside-the-planetarium": {
+    id: "outside-the-planetarium",
+    title: "Outside the Planetarium",
+    titleJP: "プラネタリウムの外側",
+    author: "早瀬耕",
+    year: 2018,
+    asin: "B07BNMKGKT",
+    description:
+      "世界は巨大な演算装置が見せる夢かもしれない。シミュレーション仮説やAI、記憶の改竄といった現代的な主題を、数理的な厳密さよりも哲学的な問いとして扱う。現実と虚構の境界が溶け合う不安と、それでも残る意識の「質感」を、静謐かつリリカルな筆致で掬い上げた連作短編集。",
+    links: {
+      amazon: "https://amzn.to/4qbUGcC",
+    },
+  },
+  "nihon-chinbotsu": {
+    id: "nihon-chinbotsu",
+    title: "Nihon Chinbotsu",
+    titleJP: "日本沈没",
+    author: "小松左京",
+    year: 1973,
+    asin: "B086YTJDKN",
+    description:
+      "日本列島沈没という地質学的激変を、当時の地球物理学に基づき徹底的にシミュレートする。国土という生存基盤を失う極限状況において、民族がいかにアイデンティティを保ち得るかという文明論的問いを提示。政治的決断と民衆の流浪を、冷徹なリアリズムで多角的に描いた災害シミュレーション。",
+    links: {
+      amazon: "https://amzn.to/3Ytp0DF",
+    },
+  },
+  shiseikan: {
+    id: "shiseikan",
+    title: "Shiseikan",
+    titleJP: "司政官",
+    author: "眉村卓",
+    year: 1974,
+    asin: "B007TAKP6I",
+    description:
+      "連邦経営下の植民惑星へ赴任するエリート官僚「司政官」に焦点を当てる。英雄的な冒険ではなく、異星種族との利害調整や本国組織との板挟みといった行政実務の困難さを描く。宇宙進出を、組織の論理と個人の倫理が相克する政治的・管理的リアリズムの視点から捉え直した組織SF。",
+    links: {
+      amazon: "https://amzn.to/49nHkEx",
+    },
+  },
+  "misaki-ichiro-no-teiko": {
+    id: "misaki-ichiro-no-teiko",
+    title: "Misaki Ichiro no Teiko",
+    titleJP: "岬一郎の抵抗",
+    author: "半村良",
+    year: 1988,
+    asin: "B00IICOGO8",
+    description:
+      "高度管理社会の閉塞感に対し、平凡な市民が奇妙かつ些細な手段で異議を申し立てる様を描く。巨大な権力機構への対抗策が、論理的告発ではなくナンセンスな行動やユーモアによる攪乱である点に独自性がある。日常に潜む不条理と個人の無力さを、庶民的な生活感覚とアイロニーで切り取った風刺短編集。",
+    links: {
+      amazon: "https://amzn.to/3Z2yHJc",
+    },
+  },
+  "dying-of-the-light": {
+    id: "dying-of-the-light",
+    title: "Dying of the Light",
+    titleJP: "星の光、いまは遠く",
+    author: "ジョージ・R・R・マーティン",
+    year: 1977,
+    asin: "B00E8920ES",
+    description:
+      "文明の祭典が終わり、永遠の夜へと遠ざかる放浪惑星ワールドーン。死にゆく世界に招かれた男が、異質な掟に縛られたかつての恋人と再会し、愛と文化の黄昏を目撃する。滅びの宿命を背負う惑星の風景と、失われゆく絆への哀惜を、甘美かつ残酷な筆致で重ね合わせた、初期マーティンの退廃的な宇宙叙事詩。",
+    links: {
+      amazon: "https://amzn.to/3NBm3yo",
+    },
+  },
+  "tobu-kujaku": {
+    id: "tobu-kujaku",
+    title: "Tobu Kujaku",
+    titleJP: "飛ぶ孔雀",
+    author: "山尾悠子",
+    year: 2018,
+    asin: "B08MT1DDWJ",
+    description:
+      "「石切り場の事故以来、火が燃えにくくなった」という物理法則の欠損が、世界を不条理な迷宮へ変える。燃えぬ火を運ぶ茶会、人を襲う孔雀。因果律を排した悪夢的なイメージの連鎖が、感覚に訴える濃密なリアリティを構築する。言葉の魔術によって記述された、眩暈がするほど美しい日本幻想文学の極北。",
+    links: {
+      amazon: "https://amzn.to/45LKUFX",
+    },
+  },
+  "genso-no-mirai": {
+    id: "genso-no-mirai",
+    title: "Genso no Mirai",
+    titleJP: "幻想の未来",
+    author: "筒井康隆",
+    year: 1968,
+    asin: "B0751SZYHF",
+    description:
+      "放射能に汚染された終末世界で、人類が生存のために異形化していく過程を描く。地下の閉塞状況から、肉体を捨てた精神生命体への飛躍までを、グロテスクな変容と進化の論理で幻視する。人間性の定義が崩壊したその先にある種の運命を、冷徹かつ荘厳な筆致で予言的に提示した、初期筒井康隆のシリアスSF。",
+    links: {
+      amazon: "https://amzn.to/3YwGkYh",
+    },
+  },
+  "how-high-we-go-in-the-dark": {
+    id: "how-high-we-go-in-the-dark",
+    title: "How High We Go in the Dark",
+    titleJP: "闇の中をどこまで高く",
+    author: "セコイア・ナガマツ",
+    year: 2022,
+    asin: "B0CVQGQX3V",
+    description:
+      "永久凍土から蘇った古代ウイルスが招く文明の変容を、数世代にわたり描く連作長編。安楽死遊園地や言葉を話す豚といった奇想を、単なるディストピアのガジェットとしてではなく、喪失を癒やすための切実な祈りとして機能させた点に独創性がある。個人の静謐な悲しみを積み重ね、種としての孤独と再生を叙情的に浮かび上がらせた。",
+    links: {
+      amazon: "https://amzn.to/45x6wG4",
+    },
+  },
+  "the-stand": {
+    id: "the-stand",
+    title: "The Stand",
+    titleJP: "ザ・スタンド",
+    author: "スティーブン・キング",
+    year: 1978,
+    asin: "4167661624",
+    description:
+      "致死率99%のインフルエンザにより文明が崩壊したアメリカ。善と悪の勢力がそれぞれ超自然的な指導者の元に集い、最終戦争へと至る過程を描く。単なるパンデミックによるサバイバルを超え、荒廃した大陸を舞台に神話的な善悪の闘争を現代的なリアリズムで再構築した、圧倒的熱量の終末叙事詩。",
+    links: {
+      amazon: "https://amzn.to/4qk04dW",
+    },
+  },
+  blindness: {
+    id: "blindness",
+    title: "Blindness",
+    titleJP: "白の闇",
+    author: "ジョゼ・サラマーゴ",
+    year: 1995,
+    asin: "B085XTXW9H",
+    description:
+      "視界が真っ白になる謎の伝染病が蔓延し、隔離施設に収容された人々が理性を失い獣化していく様を描く。唯一視力を保つ女性の視点から、秩序や道徳がいかに脆い基盤の上にあるかを暴き出す。名前を持たぬ登場人物たちによる寓話的な地獄巡りを通じて、人間の尊厳と連帯の可能性を極限状況下で問うた。",
+    links: {
+      amazon: "https://amzn.to/3NcN4IA",
+    },
+  },
+  "zanzo-ni-kuchibeni-wo": {
+    id: "zanzo-ni-kuchibeni-wo",
+    title: "Zanzo ni Kuchibeni wo",
+    titleJP: "残像に口紅を",
+    author: "筒井康隆",
+    year: 1989,
+    asin: "B07CMZZNPW",
+    description:
+      "文字が一つずつ消えるたび、対応する概念も世界から消失する。作家である主人公は、痩せ細る言語と共に崩壊する現実を記録し続ける。実験的な制約を物語の駆動力とし、言葉と存在の不可分な関係をスリリングに描いた、メタフィクションの金字塔。",
+    links: {
+      amazon: "https://amzn.to/4pASr1E",
+    },
+  },
+  "dokeshi-no-cho": {
+    id: "dokeshi-no-cho",
+    title: "Dokeshi no Cho",
+    titleJP: "道化師の蝶",
+    author: "円城塔",
+    year: 2012,
+    asin: "4062175614",
+    description:
+      "無数の言語を渡り歩く実業家と、稀書を追う作家の思考が錯綜する。言葉の網の目で捕らえられない「何か」を巡る、論理とナンセンスが融合した冒険譚。多言語的な響きと幾何学的なイメージが織りなす、読解そのものを惑わせる知的な迷宮。",
+    links: {
+      amazon: "https://amzn.to/4sx4cc5",
+    },
+  },
+  "moji-uzu": {
+    id: "moji-uzu",
+    title: "Moji Uzu",
+    titleJP: "文字渦",
+    author: "円城塔",
+    year: 2018,
+    asin: "B08SHNPPWH",
+    description:
+      "秦の始皇帝陵や古代日本を舞台に、漢字そのものが増殖し、思考や現実を侵食する様を描く。文字の形態や構造をSF的なガジェットとして捉え直し、書くことと歴史の関係を問い直す。圧倒的な漢字の奔流が視覚的にも迫る、言語SFの極北。",
+    links: {
+      amazon: "https://amzn.to/3L5iuQs",
+    },
+  },
+  "the-diamond-age": {
+    id: "the-diamond-age",
+    title: "The Diamond Age",
+    titleJP: "ダイヤモンド・エイジ",
+    author: "ニール・スティーヴンスン",
+    year: 1995,
+    asin: "B09Q8CFNZG",
+    description:
+      "ナノテクノロジーが極限まで普及し、物質的欠乏が解消された近未来。国家に代わり文化的帰属集団「部族（ファイル）」が社会を構成する。少女の教育のために作られたインタラクティブな読本を巡る騒動を通じ、技術による教育の可能性と、文化がいかに人の精神を形成するかを緻密に描いた教養小説。",
+    links: {
+      amazon: "https://amzn.to/4qDqjvI",
+    },
+  },
+  "bohr-maker": {
+    id: "bohr-maker",
+    title: "Bohr Maker",
+    titleJP: "極微機械ボーア・メイカー",
+    author: "リンダ・ナガタ",
+    year: 1995,
+    asin: "4150112436",
+    description:
+      "自己増殖し人体を改造する禁断のナノマシン「ボーア・メイカー」を巡る追跡劇。先進的な軌道市民と貧困にあえぐ地上民の格差を背景に、極微機械による強制的な進化がもたらすカオスを描く。肉体の制約を超越しようとする意志と、制御不能な技術が引き起こす生態系の激変をスリリングに融合させた。",
+    links: {
+      amazon: "https://amzn.to/4qGHFHV",
+    },
+  },
+  "fuwafuwa-no-izumi": {
+    id: "fuwafuwa-no-izumi",
+    title: "Fuwafuwa no Izumi",
+    titleJP: "ふわふわの泉",
+    author: "野尻抱介",
+    year: 2011,
+    asin: "B00CJ95RMQ",
+    description:
+      "密度が空気より軽く、無限に湧き出す謎の物質「ふわふわ」。この物理法則を無視した新素材が、現代日本の産業構造や経済に引き起こす劇的なパラダイムシフトを描く。技術的なアイディアを、町工場的なエンジニアリングとリアルなビジネス・シミュレーションとして展開した、産業エンターテインメント。",
+    links: {
+      amazon: "https://amzn.to/3Nb1TeB",
+    },
+  },
 };
 
 // カテゴリとサブジャンルデータ
@@ -3359,6 +3827,9 @@ export const subgenres = [
       "white-light",
       "the-gods-themselves",
       "the-inverted-world",
+      "in-the-ocean-of-night",
+      "eon",
+      "mission-of-gravity",
       "self-reference-engine",
     ],
   },
@@ -3377,6 +3848,9 @@ export const subgenres = [
       "reasons-to-be-cheerful",
       "oceanic",
       "darwins-radio",
+      "tuf-voyaging",
+      "passage",
+      "a-case-of-conscience",
       "fukkatsu-no-hi",
       "parasite-eve",
       "tenshi-no-saezuri",
@@ -3404,6 +3878,7 @@ export const subgenres = [
       "light-harrison",
       "legend-of-the-galactic-heroes",
       "tenmei-no-shirube",
+      "a-fire-upon-the-deep",
     ],
   },
   {
@@ -3445,6 +3920,7 @@ export const subgenres = [
       "kamigari",
       "taiyo-no-sandatsusha",
       "chino-shinshoku",
+      "the-last-astronaut",
     ],
   },
   {
@@ -3524,6 +4000,7 @@ export const subgenres = [
       "hateshinaki-nagare-no-hate-ni",
       "october-the-first-is-too-late",
       "minus-zero",
+      "millennium",
     ],
   },
   {
@@ -3658,6 +4135,7 @@ export const subgenres = [
       "solaris",
       "ubik",
       "story-of-your-life",
+      "the-great-silence",
       "permutation-city",
       "blindsight",
       "cloud-atlas",
@@ -3699,6 +4177,7 @@ export const subgenres = [
       "hard-boiled-wonderland",
       "the-memory-police",
       "never-let-me-go",
+      "tobu-kujaku",
     ],
   },
   {
@@ -3771,6 +4250,7 @@ export const subgenres = [
       "hateshinaki-nagare-no-hate-ni",
       "catchworld",
       "hybrid-child",
+      "to-your-scattered-bodies-go",
     ],
   },
   {
@@ -3845,6 +4325,7 @@ export const subgenres = [
       "dragonflight",
       "the-shadow-of-the-torturer",
       "jougen-no-tsuki-wo-taberu-shishi",
+      "the-dreaming-jewels",
     ],
   },
   {
@@ -3862,6 +4343,7 @@ export const subgenres = [
       "the-terminal-experiment",
       "illegal-alien",
       "the-city-the-city",
+      "the-investigation",
       "chikyu-tonan",
       "nana-kai-shinda-otoko",
     ],
@@ -3878,8 +4360,8 @@ export const subgenres = [
       "perdido-street-station",
       "annihilation",
       "viriconium",
-      "sisyphean",
       "roadside-picnic",
+      "sisyphean",
     ],
   },
   {
@@ -3895,7 +4377,11 @@ export const subgenres = [
       "the-sirens-of-titan",
       "untouched-by-human-hands",
       "the-androids-dream",
+      "the-star-diaries",
+      "tales-from-the-white-hart",
       "the-hole-in-the-corner",
+      "the-enquiries-of-doctor-eszterhazy",
+      "tik-tok",
       "ningen-sokkuri",
       "salmonella-men-on-planet-porno",
     ],
@@ -3963,6 +4449,8 @@ export const subgenres = [
       "teeturn",
       "babylonia-wave",
       "taiyo-no-sandatsusha",
+      "eon",
+      "gateway",
     ],
   },
   {
@@ -3978,7 +4466,6 @@ export const subgenres = [
       "the-universe-went-mad",
       "star-maker",
       "hominids",
-      "the-great-silence",
       "dark-matter",
       "chi-ni-wa-heiwa-wo",
       "nameraka-na-sekai-to-sono-teki",
@@ -4017,6 +4504,7 @@ export const subgenres = [
       "klein-no-tsubo",
       "gran-vacances",
       "hello-world",
+      "outside-the-planetarium",
     ],
   },
   {
@@ -4027,7 +4515,14 @@ export const subgenres = [
       "使う「言葉」が変われば思考や世界の見え方も変わる、という言語の不思議",
     detail:
       "言語SFは、言語学的知見を物語の中核に据え、言葉が人間の認知や社会、物理的現実に及ぼす干渉を探求するジャンルである 。その多くは「サピア＝ウォーフの仮説」を起点に、言語体系の変容が思考や時間認識を書き換える過程を思考実験的に描き出す 。英語圏では古くから、言葉による思考統制や帝国主義的な文化同化といった、言語の「政治性」が主な主題となってきた 。対して日本SFは、漢字や仮名という記述形式の特異性を生かし、文字を自律進化する情報生命体や物理的コードとして捉え直す「存在論的」な実験に独自性がある 。計算言語学や大規模言語モデルが浸透した現代、言語SFは「記述と実在の逆転」という新たな地平を提示している 。言葉を単なる伝達媒体ではなく、現実を規定する根源的なソフトウェアとして解体・再構築するその営みは、我々の世界認識を支える基盤そのものを揺さぶる鋭い批評として機能している。",
-    bookIds: ["embassytown"],
+    bookIds: [
+      "story-of-your-life",
+      "babel-17",
+      "embassytown",
+      "zanzo-ni-kuchibeni-wo",
+      "dokeshi-no-cho",
+      "moji-uzu",
+    ],
   },
   {
     id: "pandemic",
@@ -4037,7 +4532,15 @@ export const subgenres = [
       "恐ろしい病の流行で文明が崩れゆく中、それでも生きようとする人間の意志",
     detail:
       "パンデミックおよびサバイバルを主題とするSF文学は、文明の脆弱性と人間性の核心を問う壮大な思考実験として機能してきた。その源流は19世紀のメアリー・シェリーに遡り、疫病による社会契約の崩壊と個人の孤独を世俗的視点から描き出した。20世紀には科学的リアリズムの導入が進み、小松左京ら日本の作家も極限状態での人類の連帯と自滅という普遍的命題を鋭く探求した。現代の潮流は、物理的な崩壊よりも実存的な「静かな終末」を重視する方向へ変容している。COVID-19を経て、物語は劇的なパニック以上に日常の侵食や文化の継承、あるいは管理社会における生のあり方を問う傾向を強めた。これらの系譜は、気候変動への危惧とも融合し、種の絶滅という究極の絶望を直視した上でなお存続しようとする人間の意志を映し出す「時代の写し鏡」であり続けている。",
-    bookIds: [],
+    bookIds: [
+      "the-stand",
+      "blood-music",
+      "the-day-of-the-triffids",
+      "blindness",
+      "the-martian",
+      "how-high-we-go-in-the-dark",
+      "nihon-chinbotsu",
+    ],
   },
   {
     id: "nanotechnology",
@@ -4047,6 +4550,56 @@ export const subgenres = [
       "超小型機械が身体を作り変える驚異と、それによって生じる新しい倫理の問い",
     detail:
       "ナノテクノロジーSFは、原子レベルの物質操作がもたらす文明の変容と人間性の再定義を問う、極めて思弁的なジャンルである。科学的予見を端緒とし、自己複製の暴走や物質の自由生成が引き起こす脱稀少性社会の到来を活写してきた。欧米では身体境界を融解させる生物学的超越や、技術インフラが規定する新階級社会を描く「ナノパンク」として結実した。対して日本の文脈では、新素材による日常の拡張や医療管理といった、技術の静かな浸透と倫理的ジレンマに焦点が当てられる。微細領域への干渉は、結果として人間という定義の解体へと繋がる。不可視の技術がマクロな社会構造や実存を根底から揺さぶる逆説を描き出す点に、本ジャンルの批評的本質がある。物理的限界を突破した先に現れるポストヒューマンの地平こそ、現代SFが対峙すべき最大の課題であろう。",
-    bookIds: ["assemblers-of-infinity"],
+    bookIds: [
+      "assemblers-of-infinity",
+      "the-diamond-age",
+      "bohr-maker",
+      "fuwafuwa-no-izumi",
+    ],
+  },
+  {
+    id: "socialsf",
+    title: "Social SF",
+    nameJP: "社会派SF",
+    description:
+      "科学技術が社会や人間の心に与える影響を深く掘り下げ、現代の問題を鋭く映し出す",
+    detail:
+      "社会派SFは、科学技術の驚異そのものよりも、それが人間社会の構造や心理的変容に与える影響を主題とするジャンルである。西欧では全体主義への警告としてのディストピア文学に端を発し、後にジェンダーや所有概念を問う人類学的・社会学的探究へと深化を遂げた。一方、日本においては、企業や官僚制といった「組織と個人の葛藤」を描く独自の視点が発展した。西欧が英雄的な「個」によるシステムの変革や脱却を志向するのに対し、日本はシステムの内側にある者の悲哀や受容を冷徹に映し出す「インサイダー」的傾向が強い。現代では、言語による意識の統制や高度な生命管理による意志の消滅といった先鋭的な主題へと進化している。このジャンルは、架空の社会設定という鏡を通じて現実の脆弱性を浮き彫りにする。文明のあり方を問い直す強力な思考実験の場として、社会派SFは単なる未来予測を超えた批評的価値を持ち続けている。",
+    bookIds: [
+      "the-lights-in-the-sky-are-stars",
+      "the-dispossessed",
+      "kindred",
+      "foundation",
+      "nihon-chinbotsu",
+      "shiseikan",
+      "misaki-ichiro-no-teiko",
+    ],
+  },
+  {
+    id: "dyingearth",
+    title: "Dying Earth",
+    nameJP: "ダイイング・アース",
+    description:
+      "遠い未来、衰退した地球で最後の時を過ごす人類の退廃と美しさを描く",
+    detail:
+      "ダイイング・アースは、文明の崩壊という動的な悲劇を扱うポストアポカリプスとは一線を画す、静的な「エントロピーの消耗」の文学である 。前者が突発的な災厄からの生存と再建を志向するのに対し、本ジャンルが描くのは数億年という悠久の時の果てに訪れる不可避な世界の老化である 。この世界において、老化し肥大した太陽は終焉の予兆として空に掛かり、かつての超科学は理性を離れ、解読不能な「魔法」へと変容している 。ジャック・ヴァンスやクラーク・アシュトン・スミスらが確立したこの系譜は、生存闘争を放棄し、滅びゆく世界の傍観者となった人類の退廃的な享楽と、知的な皮肉を冷徹に描き出す 。ここでの主題は「いかに生きるか」ではなく、終わろうとする世界で「いかに最期を過ごすか」という審美的な態度に集約される 。それは熱的死という宇宙の真理を前に、人類の営みの儚さを照らし出す壮大な挽歌に他ならない。",
+    bookIds: [
+      "nightwings",
+      "hothouse",
+      "the-shadow-of-the-torturer",
+      "viriconium",
+      "dying-of-the-light",
+      "genso-no-mirai",
+    ],
+  },
+  {
+    id: "speculativefiction",
+    title: "Speculative Fiction",
+    nameJP: "スペキュレイティブフィクション",
+    description:
+      "「もしも」の問いから始まる、現実を見つめ直すための幅広い物語群",
+    detail:
+      "スペキュレイティブ・フィクション（思弁小説）とは、従来のSFが纏っていた「空想科学」の枠組みを脱却し、現実世界の延長線上にあり得る「もしも」の可能性を模索する文学的試みである。そこでは、技術的なガジェットの描写よりも、社会構造の変容や人間存在の深淵に対する批評的な眼差しが重視される。その射程は極めて広範であり、多様なサブジャンルを内包する。「ディストピア」「歴史改変SF」「ポストアポカリプス」はその代表的な変奏である。加えて、「ニューウェーブ」「スリップストリーム」といった境界的領域もまた、この思弁的な想像力の大系に包括されるのである。",
+    bookIds: [],
   },
 ];
