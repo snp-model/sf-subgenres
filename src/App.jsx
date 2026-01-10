@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Layout from "./components/Layout/Layout";
 import BentoGrid from "./components/Features/BentoGrid";
 import DetailPanel from "./components/Features/DetailPanel";
-import { subgenres } from "./data/sampleData";
+import { subgenres } from "./data/subgenres";
 
 function App() {
   const [selectedGenre, setSelectedGenre] = useState(null);

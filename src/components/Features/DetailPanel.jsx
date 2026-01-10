@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { books } from "../../data/sampleData";
+import { books } from "../../data/novels";
 import "./DetailPanel.css";
 
 // ショップアイコンコンポーネント

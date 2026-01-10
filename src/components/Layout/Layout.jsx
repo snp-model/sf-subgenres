@@ -13,7 +13,7 @@ const Header = () => (
     }}
   >
     <div>
-      <h1 className="main-title">SFサブジャンルまとめ</h1>
+      <h1 className="main-title">SFサブジャンル総まとめ</h1>
     </div>
   </header>
 );
