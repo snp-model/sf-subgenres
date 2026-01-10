@@ -1,5 +1,7 @@
 import React, { useEffect } from "react";
 import { books } from "../../data/novels";
+import { subgenres } from "../../data/subgenres";
+import LinkedText from "./LinkedText";
 import "./DetailPanel.css";
 
 // ショップアイコンコンポーネント
@@ -46,7 +48,7 @@ const ShopIcon = ({ shop }) => {
   return iconMap[shop] || null;
 };
 
-const DetailPanel = ({ genre, isOpen, onClose }) => {
+const DetailPanel = ({ genre, isOpen, onClose, onGenreSelect }) => {
   // Close on Escape key
   useEffect(() => {
     const handleEsc = (e) => {
@@ -106,9 +108,25 @@ const DetailPanel = ({ genre, isOpen, onClose }) => {
           </button>
         </div>
 
-        <div className="panel-content">
+        <div className="panel-content" key={genre.id}>
           <p style={{ lineHeight: 1.8, fontSize: "var(--font-size-lg)" }}>
-            {genre.detail || genre.description}
+            {genre.id === "speculativefiction" ? (
+              <LinkedText
+                text={genre.detail || genre.description}
+                onLinkClick={(subgenreId) => {
+                  // サブジャンルIDから対応するサブジャンルオブジェクトを取得
+                  const targetGenre = subgenres.find(
+                    (g) => g.id === subgenreId
+                  );
+                  if (targetGenre && onGenreSelect) {
+                    // 直接新しいジャンルに切り替える
+                    onGenreSelect(targetGenre);
+                  }
+                }}
+              />
+            ) : (
+              genre.detail || genre.description
+            )}
           </p>
 
           {resolvedBooks.length > 0 && (

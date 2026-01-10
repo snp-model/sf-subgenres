@@ -72,6 +72,18 @@
   flex: 1;
   overflow-y: auto;
   padding: var(--spacing-xl);
+  animation: fadeSlideIn 0.3s ease-out;
+}
+
+@keyframes fadeSlideIn {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
 }
 
 /* Rich Book Grid Layout */
@@ -286,4 +298,19 @@
 
 .shop-list {
   color: var(--color-text-secondary);
+}
+
+/* サブジャンルリンクのスタイル */
+.subgenre-link {
+  color: var(--color-text-accent);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.subgenre-link:hover {
+  color: var(--color-accent);
+  text-decoration-style: solid;
 }

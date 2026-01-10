@@ -23,6 +23,7 @@ function App() {
         genre={selectedGenre}
         isOpen={!!selectedGenre}
         onClose={handleClosePanel}
+        onGenreSelect={handleGenreSelect}
       />
     </Layout>
   );
