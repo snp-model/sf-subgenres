@@ -327,6 +327,9 @@ export const subgenres = [
       "united-states-of-japan",
       "nsa",
       "pavane",
+      "chi-ni-wa-heiwa-wo",
+      "mongol-no-zankou",
+      "musubi-no-yama-hiroku-new",
     ],
   },
   {
@@ -339,12 +342,15 @@ export const subgenres = [
       "形而上学SFとは、物理学の範疇を超え、存在の本質や現実の定義といった根源的な問いを思弁的な物語へと昇華させる文学ジャンルである。それは単なる技術的予測ではなく、アリストテレス以来の「第一哲学」的な問いを、シミュレーション・リアリティやデジタル意識といった装置を介して検証する、高度な思考実験の場といえる。欧米では、ステープルドンによる宇宙的知性の探求から、P・K・ディックが描く認識論的不安、さらにイーガンの数学的存在論へと深化を遂げてきた。日本においても、神林長平が言語と魂の駆動を問い、飛浩隆がデジタル存在の実存と痛みを精緻に描くなど、独自の展開を見せている。これらの作品群に共通するのは、自明とされる現実の脆弱性を暴き、意識の本質を問う視座である。形而上学SFは、高度に情報化された現代において、人間存在の根拠をどこに求めるべきかという切実な問いを突きつける、知的な戦慄に満ちた深淵の文学なのである。",
     bookIds: [
       "solaris",
+      "star-maker",
       "ubik",
       "story-of-your-life",
       "the-great-silence",
       "permutation-city",
       "cloud-atlas",
       "blindsight",
+      "kotsubo",
+      "gran-vacances",
     ],
   },
   {
@@ -715,6 +721,7 @@ export const subgenres = [
       "zanzo-ni-kuchibeni-wo",
       "dokeshi-no-cho",
       "moji-uzu",
+      "kotsubo",
     ],
   },
   {

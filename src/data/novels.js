@@ -3913,4 +3913,43 @@ export const books = {
       amazon: "https://amzn.to/3NEjE60",
     },
   },
+  "musubi-no-yama-hiroku-new": {
+    id: "musubi-no-yama-hiroku-new",
+    title: "Musubi no Yama Hiroku",
+    titleJP: "産霊山秘録",
+    author: "半村良",
+    year: "1973",
+    asin: "B00LA51NNM",
+    description:
+      "天皇家の守護を宿命とする超能力者「ヒ」一族が、戦国から昭和まで歴史の影で暗躍する様を描く。本能寺の変や維新といった史実の隙間に、一族の干渉を精緻に嵌め込む構成が秀逸だ。近代化と共に薄れゆく血と力の哀愁を壮大なスケールで幻視する。歴史という巨大な奔流と、異能の孤独を刻んだ伝奇ロマン。",
+    links: {
+      amazon: "https://amzn.to/49NL1mQ",
+    },
+  },
+  "mongol-no-zankou": {
+    id: "mongol-no-zankou",
+    title: "Mongol no Zankou",
+    titleJP: "モンゴルの残光",
+    author: "豊田有恒",
+    year: "1967",
+    asin: "B08BLSNZHS",
+    description:
+      "モンゴル帝国が世界を制覇し、白人を奴隷とする反転した歴史世界。被支配階級の青年がタイムマシンで過去へ飛び、人種間の力関係を覆そうと歴史改変に挑む。支配と被支配の構造を逆転させる思考実験を通じ、現実の人種差別や文明の優劣を鋭く問い直す。歴史の残酷さと修正の困難さを描いた時間SF。",
+    links: {
+      amazon: "https://amzn.to/4qMcoTV",
+    },
+  },
+  kotsubo: {
+    id: "kotsubo",
+    title: "Kotsubo",
+    titleJP: "言壺",
+    author: "神林長平",
+    year: "",
+    asin: "B00GJMUQJ8",
+    description:
+      "書かれた言葉を具現化する骨董「言壺」を手にした作家が、虚構と現実の境界を喪失していく様を描く。世界を物理的な実存ではなく、書き換え可能な記述として捉える認識論的な恐怖が主題だ。言葉が持つ呪術的な力を、冷徹な論理とハードボイルドな文体で再構築した、言語による存在論的思考実験。",
+    links: {
+      amazon: "https://amzn.to/3Z3nwA3",
+    },
+  },
 };
