@@ -258,9 +258,9 @@ export const subgenres = [
       "スチームパンクは、十九世紀の蒸気機関技術が現代の電子文明を凌駕したオルタナティブな歴史を描くＳＦの変奏である 。一九八七年にＫ・Ｗ・ジーターが提唱したこの概念は、単なる懐古趣味的な意匠を超え、文明批評を孕んだ知的枠組みへと進化した 。黎明期のヴィクトリア朝再構築を経て、ギブスンらによる情報革命の再解釈がジャンルの文学的地位を確立させた 。現代では多角的なジャンル融合や、日本の近代化プロセスを背景とした独自の変奏が顕著である 。本ジャンルの本質は、技術の不可視化への抵抗と歴史の偶発性の探求に集約される 。それは「選ばれなかった未来」を仮構することで現代社会の必然性を相対化し、技術と人間の原初的関係を問い直す、永続的な反逆の表象に他ならない 。",
     bookIds: [
       "the-difference-engine",
+      "the-anubis-gates",
       "a-transatlantic-tunnel-hurrah",
       "the-empire-of-corpses",
-      "the-anubis-gates",
     ],
   },
   {
@@ -525,8 +525,8 @@ export const subgenres = [
       "lord-of-light",
       "dragonflight",
       "the-shadow-of-the-torturer",
-      "jougen-no-tsuki-wo-taberu-shishi",
       "the-dreaming-jewels",
+      "jougen-no-tsuki-wo-taberu-shishi",
     ],
   },
   {
@@ -647,10 +647,10 @@ export const subgenres = [
       "ringworld",
       "rendezvous-with-rama",
       "teeturn",
-      "babylonia-wave",
-      "taiyo-no-sandatsusha",
       "eon",
       "gateway",
+      "babylonia-wave",
+      "taiyo-no-sandatsusha",
     ],
   },
   {
