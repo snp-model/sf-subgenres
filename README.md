@@ -39,8 +39,8 @@ SF（サイエンス・フィクション）の多様なサブジャンルを解
 - **Frontend**: React, Vite
 - **Styling**: Vanilla CSS (Modern CSS features)
 - **API**: Amazon 商品画像 CDN
-- **Hosting**: GitHub Pages
-- **Deployment**: GitHub Actions
+- **Hosting**: Cloudflare Pages
+- **Deployment**: Automatic deployment via GitHub connection
 
 ## ローカルでの実行方法
 
@@ -60,5 +60,6 @@ npm run dev
 
 ## デプロイ
 
-GitHub Actions を使用して、GitHub Pages に自動デプロイを行います。
-`main` ブランチへのプッシュをトリガーとしてビルドとデプロイが実行されます。
+Cloudflare Pages を使用してホスティングしています。
+`main` ブランチへのプッシュをトリガーとして、Cloudflare Pages 上でビルドとデプロイが自動的に実行されます。
+サイト URL: [https://sf-subgenres.pages.dev/](https://sf-subgenres.pages.dev/)

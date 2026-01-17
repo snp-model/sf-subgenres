@@ -4,4 +4,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://snp-model.github.io/sf-subgenres/sitemap.xml
+Sitemap: https://sf-subgenres.pages.dev/sitemap.xml

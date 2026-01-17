@@ -2,8 +2,8 @@
   "name": "SF サブジャンル総まとめ",
   "short_name": "SF Subgenres",
   "description": "SFの多様なサブジャンルを体系的に解説し、ジャンルごとのおすすめ作家・名作小説を紹介するガイドサイト",
-  "start_url": "/sf-subgenres/",
-  "scope": "/sf-subgenres/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#0a0a0f",
   "theme_color": "#00d9ff",
@@ -11,7 +11,7 @@
   "lang": "ja",
   "icons": [
     {
-      "src": "/sf-subgenres/favicon.png",
+      "src": "/favicon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
