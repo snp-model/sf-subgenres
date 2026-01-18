@@ -62,4 +62,4 @@ npm run dev
 
 Cloudflare Pages を使用してホスティングしています。
 `main` ブランチへのプッシュをトリガーとして、Cloudflare Pages 上でビルドとデプロイが自動的に実行されます。
-サイト URL: [https://sf-subgenres.pages.dev/](https://sf-subgenres.pages.dev/)
+サイト URL: [https://sf-subgenres.serendiproducts.dev/](https://sf-subgenres.serendiproducts.dev/)

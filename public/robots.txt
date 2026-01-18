@@ -4,4 +4,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://sf-subgenres.pages.dev/sitemap.xml
+Sitemap: https://sf-subgenres.serendiproducts.dev/sitemap.xml
