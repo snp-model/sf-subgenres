@@ -37,6 +37,8 @@ SF（サイエンス・フィクション）の多様なサブジャンルを解
 ## 技術スタック
 
 - **Frontend**: React, Vite
+- **Routing & SEO**: React Router DOM (v6), React Helmet Async
+- **SSG (静的サイト生成)**: カスタム Vite SSR スクリプトによる全ページの静的 HTML 出力
 - **Styling**: Vanilla CSS (Modern CSS features)
 - **API**: Amazon 商品画像 CDN
 - **Hosting**: Cloudflare Pages
@@ -51,11 +53,26 @@ git clone <repository-url>
 # ディレクトリへの移動
 cd sf-subgenres
 
-# 依存関係のインストール
-npm install
+# 依存関係のインストール (Legacy Peer Depsが必要な場合があります)
+npm install --legacy-peer-deps
 
 # 開発サーバーの起動
 npm run dev
+```
+
+## ビルドとSSGの実行
+SEOのために、ビルド時にすべてのサブジャンルページの静的HTML（SSG）と `sitemap.xml` を自動生成します。
+完全なビルドを実行するには以下のコマンドを使用します：
+
+```bash
+npm run build
+```
+
+出力先は `dist/` ディレクトリです。
+ビルド結果をローカルでプレビューするには：
+
+```bash
+npm run preview
 ```
 
 ## デプロイ

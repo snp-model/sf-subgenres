@@ -5,14 +5,20 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build:client": "vite build --outDir dist/client",
+    "build:server": "vite build --ssr src/entry-server.jsx --outDir dist/server",
+    "build:ssg": "node scripts/prerender.js",
+    "build:sitemap": "node scripts/generate-sitemap.js",
+    "build": "npm run build:client && npm run build:server && npm run build:ssg && npm run build:sitemap",
     "fetch-covers": "node scripts/fetchCovers.js",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "react-helmet-async": "^2.0.5",
+    "react-router-dom": "^6.30.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
